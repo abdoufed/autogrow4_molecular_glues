@@ -1,3 +1,17 @@
+# AutoGrow4 Modification: Dual-Energy Scoring for Molecular Glues
+
+**What this is:** A fork of AutoGrow4 that generates small molecules bridging protein-protein interfaces (e.g., CRBN-CK1α), with a custom scoring function.
+
+**Core modification:**
+- **Input:** Takes *both* a docked protein-protein structure (e.g., CRBN-CK1α complex) *and* the apo protein structure (CRBN alone).
+- **Scoring:** New function combines binding energies from **both** structures to prioritize candidates that (1) fit the interface and (2) don’t destabilize the apo state.
+- **Inspiration:** Methodology conceptually inspired by [Chem. Sci., 2019, 10, 2869], but independently implemented and adapted.
+
+**Status:** Functional prototype. Generated 20+ candidate molecules for CRBN-CK1α system. No experimental validation. Code is research-grade, not production-ready.
+
+
+
+
 # AutoGrow4
 
 AutoGrow4 is an evolutionary algorithm that optimizes candidate ligands for
