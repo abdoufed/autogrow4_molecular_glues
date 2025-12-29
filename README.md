@@ -9,6 +9,7 @@
 
 **Status:** Functional prototype. Generated 20+ candidate molecules for CRBN-CK1α system. No experimental validation. Code is research-grade, not production-ready.
 
+<img width="265" height="189" alt="image" src="https://github.com/user-attachments/assets/81560502-3bd5-498c-bfbf-e9af12245d99" />
 
 ### Computational Pipeline Overview
 
