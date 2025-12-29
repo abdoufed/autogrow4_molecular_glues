@@ -1,0 +1,51 @@
+Loading molecules from Gen_4_Cross_28101.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_28101)
+            Mol #0: N=[N+]=NC1CCCc2ccc(C#CC(=O)[O-])cc21
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_28101)
+            Mol #0: [N-]=[N+]=NC1CCCc2ccc(C#CC(=O)[O-])cc21
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_28101)
+            Mol #0: [N-]=[N+]=NC1CCCc2ccc(C#CC(=O)[O-])cc21
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_28101)
+            Mol #0: [N-]=[N+]=NC1CCCc2ccc(C#CC(=O)[O-])cc21
+Enumerating all possible enantiomers for all molecules...
+    [N-]=[N+]=NC1CCCc2ccc(C#CC(=O)[O-])cc21 (Gen_4_Cross_28101) has 2
+        enantiomers when chiral centers with no specified chirality are
+        systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_28101)
+            Mol #0: [N-]=[N+]=N[C@@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+            Mol #1: [N-]=[N+]=N[C@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=N[C@@H]1CCCc2ccc(C#CC(=O)[O-])cc21 has 3 double bond(s) with
+        unspecified stereochemistry.
+    [N-]=[N+]=N[C@H]1CCCc2ccc(C#CC(=O)[O-])cc21 has 3 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_28101)
+            Mol #0: [N-]=[N+]=N[C@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+            Mol #1: [N-]=[N+]=N[C@@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_28101)
+            Mol #0: [N-]=[N+]=N[C@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+            Mol #1: [N-]=[N+]=N[C@@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+            Mol #2: [N-]=[N+]=N[C@@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+            Mol #3: [N-]=[N+]=N[C@@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+            Mol #4: [N-]=[N+]=N[C@@H]1CCCc2ccc(C#CC(=O)[O-])cc21
+Saving molecules associated with...
+    N=[N+]=NC1CCCc2ccc(C#CC(=O)[O-])cc21
+
+Start time at: 2025-12-27 22:22:00.277701
+End time at:   2025-12-27 22:22:01.825161
+Total time at: 0:00:01.547460

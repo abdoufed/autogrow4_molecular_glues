@@ -1,0 +1,39 @@
+REMARK VINA RESULT:      -7.9      0.762      1.819
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_2  and  S1_3 
+REMARK    2  A    between atoms: S1_3  and  C1_4 
+REMARK    3  A    between atoms: S1_3  and  C11_14 
+REMARK    4  A    between atoms: C11_14  and  C12_15 
+REMARK    5  A    between atoms: C12_15  and  N1_16 
+ROOT
+HETATM    1  N1  LIG X 999      47.161 130.009  15.043  1.00  0.00    -0.115 NA
+HETATM    2  N2  LIG X 999      47.317 130.479  13.916  1.00  0.00    -0.168 NA
+HETATM    3  N3  LIG X 999      47.473 130.949  12.790  1.00  0.00     0.068 N 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C12 LIG X 999      45.949 129.275  15.379  1.00  0.00     0.201 C 
+BRANCH   4   5
+HETATM    5  C11 LIG X 999      44.717 130.132  15.100  1.00  0.00     0.121 C 
+BRANCH   5   6
+HETATM    6  S1  LIG X 999      44.770 131.662  16.020  1.00  0.00    -0.056 S 
+BRANCH   6   7
+HETATM    7  O1  LIG X 999      46.086 132.609  15.578  1.00  0.00    -0.336 OA
+HETATM    8  H1  LIG X 999      46.380 133.043  16.418  1.00  0.00     0.227 HD
+ENDBRANCH   6   7
+BRANCH   6   9
+HETATM    9  C1  LIG X 999      44.729 131.401  17.754  1.00  0.00     0.017 A 
+HETATM   10  C2  LIG X 999      45.770 130.706  18.377  1.00  0.00     0.021 A 
+HETATM   11  C3  LIG X 999      45.755 130.504  19.760  1.00  0.00     0.013 A 
+HETATM   12  C4  LIG X 999      44.694 130.999  20.533  1.00  0.00    -0.026 A 
+HETATM   13  C5  LIG X 999      44.668 130.803  21.923  1.00  0.00     0.012 A 
+HETATM   14  C9  LIG X 999      43.639 131.705  19.905  1.00  0.00    -0.025 A 
+HETATM   15  C6  LIG X 999      43.605 131.303  22.682  1.00  0.00     0.001 A 
+HETATM   16  C7  LIG X 999      42.564 132.000  22.061  1.00  0.00     0.001 A 
+HETATM   17  C8  LIG X 999      42.578 132.202  20.678  1.00  0.00     0.012 A 
+HETATM   18  C10 LIG X 999      43.664 131.901  18.515  1.00  0.00     0.032 A 
+ENDBRANCH   6   9
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 5

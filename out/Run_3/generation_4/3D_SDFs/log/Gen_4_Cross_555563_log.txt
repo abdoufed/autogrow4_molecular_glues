@@ -1,0 +1,57 @@
+Loading molecules from Gen_4_Cross_555563.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_555563)
+            Mol #0: CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_555563)
+            Mol #0: CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1
+Generating tautomers for all molecules...
+    CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 has tautomers.
+    CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 ==>
+        CCC(O)=C(O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 (tautomer transformation on
+        Gen_4_Cross_555563) changed the molecules total number of specified
+        chiral centers from 2 to 0, so I'm deleting it.
+    CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 ==>
+        CCC(=O)C(O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 (tautomer transformation on
+        Gen_4_Cross_555563) changed the molecules total number of specified
+        chiral centers from 2 to 1, so I'm deleting it.
+    CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 ==>
+        CCC(O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 (tautomer transformation on
+        Gen_4_Cross_555563) changed the molecules total number of specified
+        chiral centers from 2 to 1, so I'm deleting it.
+    CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 ==>
+        CC=C(O)C(O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 (tautomer transformation on
+        Gen_4_Cross_555563) changed the molecules total number of specified
+        chiral centers from 2 to 1, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_555563)
+            Mol #0: CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_555563)
+            Mol #0: CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_555563)
+            Mol #0: CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1 has 3 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_555563)
+            Mol #0: CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_555563)
+            Mol #0: CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1
+Saving molecules associated with...
+    CC[C@H](O)C(=O)Oc1ccc2cc(N=[N+]=[N-])ccc2c1
+
+Start time at: 2025-12-27 22:22:03.557713
+End time at:   2025-12-27 22:22:04.351511
+Total time at: 0:00:00.793798

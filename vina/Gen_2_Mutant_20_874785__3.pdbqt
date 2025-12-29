@@ -1,0 +1,39 @@
+REMARK SMILES C=CCC(=O)Sc1cccc(-c2ccc3c(c2)CC3)c1
+REMARK SMILES IDX 4 1 5 2 3 3 2 4 1 5 6 6 7 7 8 8 20 9 9 10 11 11 10 12 12 13
+REMARK SMILES IDX 13 14 17 15 14 16 16 17 15 18 18 19 19 20
+REMARK H PARENT
+ROOT
+ATOM      1  C   UNL     1       1.490   2.809  -2.530  1.00  0.00     0.197 C 
+ATOM      2  O   UNL     1       1.914   1.713  -2.861  1.00  0.00    -0.286 OA
+ENDROOT
+BRANCH   1   3
+ATOM      3  C   UNL     1       0.514   3.535  -3.407  1.00  0.00     0.115 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1      -0.777   2.768  -3.491  1.00  0.00    -0.026 C 
+ATOM      5  C   UNL     1      -1.913   3.231  -2.962  1.00  0.00     0.004 C 
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  S   UNL     1       2.063   3.548  -0.997  1.00  0.00    -0.052 SA
+BRANCH   6   7
+ATOM      7  C   UNL     1       0.701   2.867  -0.053  1.00  0.00     0.016 A 
+ATOM      8  C   UNL     1      -0.451   3.630   0.158  1.00  0.00     0.015 A 
+ATOM      9  C   UNL     1       0.790   1.573   0.476  1.00  0.00     0.024 A 
+ATOM     10  C   UNL     1      -1.519   3.098   0.883  1.00  0.00     0.002 A 
+ATOM     11  C   UNL     1      -0.281   1.027   1.208  1.00  0.00    -0.017 A 
+ATOM     12  C   UNL     1      -1.438   1.804   1.405  1.00  0.00     0.009 A 
+BRANCH  11  13
+ATOM     13  C   UNL     1      -0.195  -0.350   1.755  1.00  0.00    -0.018 A 
+ATOM     14  C   UNL     1      -0.700  -0.630   3.075  1.00  0.00     0.009 A 
+ATOM     15  C   UNL     1       0.388  -1.386   0.969  1.00  0.00     0.012 A 
+ATOM     16  C   UNL     1      -0.643  -1.926   3.643  1.00  0.00     0.004 A 
+ATOM     17  C   UNL     1       0.427  -2.635   1.551  1.00  0.00    -0.044 A 
+ATOM     18  C   UNL     1      -0.074  -2.898   2.849  1.00  0.00    -0.044 A 
+ATOM     19  C   UNL     1       0.823  -4.063   1.396  1.00  0.00     0.040 C 
+ATOM     20  C   UNL     1       0.311  -4.332   2.727  1.00  0.00     0.040 C 
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 5
+
+

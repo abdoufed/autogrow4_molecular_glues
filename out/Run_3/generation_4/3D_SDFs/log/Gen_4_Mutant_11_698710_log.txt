@@ -1,0 +1,64 @@
+Loading molecules from Gen_4_Mutant_11_698710.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_698710)
+            Mol #0: NC=C(O)c1ccc2ccccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_698710)
+            Mol #0: NC=C([O-])c1ccc2ccccc2c1
+            Mol #1: NC=C(O)c1ccc2ccccc2c1
+Generating tautomers for all molecules...
+    NC=C([O-])c1ccc2ccccc2c1 has tautomers.
+    NC=C(O)c1ccc2ccccc2c1 has tautomers.
+    NC=C(O)c1ccc2ccccc2c1 ==> N=CC([O-])c1ccc2ccccc2c1 (tautomer transformation
+        on Gen_4_Mutant_11_698710) changed the molecules total number of
+        specified chiral centers from 0 to 1, so I'm deleting it.
+    NC=C(O)c1ccc2ccccc2c1 ==> N=CC(O)c1ccc2ccccc2c1 (tautomer transformation on
+        Gen_4_Mutant_11_698710) changed the molecules total number of specified
+        chiral centers from 0 to 1, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_698710)
+            Mol #0: NC=C(O)c1ccc2ccccc2c1
+            Mol #1: NC=C([O-])c1ccc2ccccc2c1
+            Mol #2: NCC(=O)c1ccc2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_698710)
+            Mol #0: NC=C([O-])c1ccc2ccccc2c1
+            Mol #1: NC=C(O)c1ccc2ccccc2c1
+            Mol #2: NCC(=O)c1ccc2ccccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_698710)
+            Mol #0: NC=C(O)c1ccc2ccccc2c1
+            Mol #1: NC=C([O-])c1ccc2ccccc2c1
+            Mol #2: NCC(=O)c1ccc2ccccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    NC=C(O)c1ccc2ccccc2c1 has 1 double bond(s) with unspecified stereochemistry.
+    NC=C([O-])c1ccc2ccccc2c1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_698710)
+            Mol #0: N/C=C(\O)c1ccc2ccccc2c1
+            Mol #1: NCC(=O)c1ccc2ccccc2c1
+            Mol #2: N/C=C(/[O-])c1ccc2ccccc2c1
+            Mol #3: N/C=C(\[O-])c1ccc2ccccc2c1
+            Mol #4: N/C=C(/O)c1ccc2ccccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_698710)
+            Mol #0: N/C=C(\O)c1ccc2ccccc2c1
+            Mol #1: NCC(=O)c1ccc2ccccc2c1
+            Mol #2: N/C=C(/[O-])c1ccc2ccccc2c1
+            Mol #3: N/C=C(\[O-])c1ccc2ccccc2c1
+            Mol #4: N/C=C(/O)c1ccc2ccccc2c1
+Saving molecules associated with...
+    NC=C(O)c1ccc2ccccc2c1
+
+Start time at: 2025-12-27 22:21:30.472329
+End time at:   2025-12-27 22:21:31.992562
+Total time at: 0:00:01.520233

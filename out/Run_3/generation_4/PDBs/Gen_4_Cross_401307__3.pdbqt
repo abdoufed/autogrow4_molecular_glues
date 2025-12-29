@@ -1,0 +1,39 @@
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_2  and  C1_3 
+REMARK    2  A    between atoms: C1_3  and  C4_10 
+REMARK    3  A    between atoms: N1_4  and  C2_5 
+REMARK    4  A    between atoms: C2_5  and  C3_6 
+REMARK    5  A    between atoms: C3_6  and  N2_7 
+ROOT
+HETATM    1  N2  LIG X 999       0.773  -2.847  -3.434  1.00  0.00    -0.114 NA
+HETATM    2  N3  LIG X 999       0.360  -3.278  -2.356  1.00  0.00    -0.168 NA
+HETATM    3  N4  LIG X 999      -0.054  -3.709  -1.281  1.00  0.00     0.068 N 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C3  LIG X 999       1.954  -1.987  -3.556  1.00  0.00     0.211 C 
+BRANCH   4   5
+HETATM    5  C2  LIG X 999       2.610  -1.641  -2.208  1.00  0.00     0.176 C 
+BRANCH   5   6
+HETATM    6  N1  LIG X 999       1.707  -0.860  -1.364  1.00  0.00    -0.265 NA
+HETATM    7  C1  LIG X 999       1.447   0.403  -1.534  1.00  0.00     0.167 C 
+BRANCH   7   8
+HETATM    8  O1  LIG X 999       2.066   1.106  -2.572  1.00  0.00    -0.344 OA
+HETATM    9  H1  LIG X 999       1.819   2.059  -2.805  1.00  0.00     0.219 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C4  LIG X 999       0.489   1.077  -0.623  1.00  0.00     0.017 A 
+HETATM   11  C5  LIG X 999      -0.522   0.335   0.013  1.00  0.00     0.017 A 
+HETATM   12  C6  LIG X 999      -1.430   0.957   0.874  1.00  0.00     0.013 A 
+HETATM   13  C7  LIG X 999      -1.341   2.333   1.119  1.00  0.00    -0.026 A 
+HETATM   14  C8  LIG X 999      -2.248   2.967   1.983  1.00  0.00     0.012 A 
+HETATM   15  C12 LIG X 999      -0.322   3.090   0.493  1.00  0.00    -0.025 A 
+HETATM   16  C9  LIG X 999      -2.144   4.340   2.224  1.00  0.00     0.001 A 
+HETATM   17  C10 LIG X 999      -1.137   5.088   1.609  1.00  0.00     0.001 A 
+HETATM   18  C11 LIG X 999      -0.227   4.468   0.747  1.00  0.00     0.012 A 
+HETATM   19  C13 LIG X 999       0.586   2.457  -0.370  1.00  0.00     0.028 A 
+ENDBRANCH   7  10
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 5

@@ -1,0 +1,63 @@
+Loading molecules from Gen_4_Mutant_5_30811.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_30811)
+            Mol #0: Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_30811)
+            Mol #0: Cc1c(CCN2CC[C@H](C)[C@H]2C)[nH+][nH+]n1-c1ccc2cc(C#N)ccc2c1
+            Mol #1: Cc1c(CC[NH+]2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+            Mol #2: Cc1c(CCN2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+            Mol #3: Cc1c(CC[NH+]2CC[C@H](C)[C@H]2C)[nH+]nn1-c1ccc2cc(C#N)ccc2c1
+            Mol #4: Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+Generating tautomers for all molecules...
+    Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1 ==>
+        Cc1c(CC[NH+]2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1 (tautomer
+        transformation on Gen_4_Mutant_5_30811) changed the molecules total
+        number of specified chiral centers from 4 to 5, so I'm deleting it.
+    Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1 ==>
+        Cc1c(CC[NH+]2CC[C@H](C)[C@H]2C)[nH+]nn1-c1ccc2cc(C#N)ccc2c1 (tautomer
+        transformation on Gen_4_Mutant_5_30811) changed the molecules total
+        number of specified chiral centers from 4 to 5, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_30811)
+            Mol #0: Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+            Mol #1: Cc1c(CCN2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+            Mol #2: Cc1c(CCN2CC[C@H](C)[C@H]2C)[nH+][nH+]n1-c1ccc2cc(C#N)ccc2c1
+Applying Durrant-lab filters to all molecules...
+    Cc1c(CCN2CC[C@H](C)[C@H]2C)[nH+][nH+]n1-c1ccc2cc(C#N)ccc2c1, a variant
+        generated from Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+        (Gen_4_Mutant_5_30811), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_30811)
+            Mol #0: Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+            Mol #1: Cc1c(CCN2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_30811)
+            Mol #0: Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+            Mol #1: Cc1c(CCN2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_30811)
+            Mol #0: Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+            Mol #1: Cc1c(CCN2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_30811)
+            Mol #0: Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+            Mol #1: Cc1c(CCN2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+            Mol #2: Cc1c(CCN2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+            Mol #3: Cc1c(CCN2CC[C@H](C)[C@H]2C)n[nH+]n1-c1ccc2cc(C#N)ccc2c1
+            Mol #4: Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+Saving molecules associated with...
+    Cc1c(CCN2CC[C@H](C)[C@H]2C)nnn1-c1ccc2cc(C#N)ccc2c1
+
+Start time at: 2025-12-27 22:21:10.310043
+End time at:   2025-12-27 22:21:15.579348
+Total time at: 0:00:05.269305

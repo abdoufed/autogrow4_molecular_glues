@@ -1,0 +1,72 @@
+Loading molecules from Gen_4_Mutant_13_97823.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_13_97823)
+            Mol #0: Cn1cc(C(=O)Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_13_97823)
+            Mol #0: Cn1cc(C(=O)[N-]c2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+            Mol #1: CN(C)C(=O)Oc1ccc2ccccc2c1NC(=O)c1c[nH+]n(C)c1
+            Mol #2: Cn1cc(C(=O)Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)c[nH+]1
+            Mol #3: CN(C)C(=O)Oc1ccc2ccccc2c1[N-]C(=O)c1c[nH+]n(C)c1
+            Mol #4: Cn1cc(C(=O)Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+Generating tautomers for all molecules...
+    Cn1cc(C(=O)[N-]c2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1 has tautomers.
+    CN(C)C(=O)Oc1ccc2ccccc2c1NC(=O)c1c[nH+]n(C)c1 has tautomers.
+    Cn1cc(C(=O)Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)c[nH+]1 has tautomers.
+    Cn1cc(C(=O)Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_13_97823)
+            Mol #0: Cn1cc(C(O)=Nc2c(OC(O)=[N+](C)C)ccc3ccccc23)c[nH+]1
+            Mol #1: CN(C)C(=O)Oc1ccc2ccccc2c1NC(=O)c1c[nH+]n(C)c1
+            Mol #2: CN(C)C(=O)Oc1ccc2ccccc2c1[N-]C(=O)c1c[nH+]n(C)c1
+            Mol #3: Cn1cc(C(=O)Nc2c(OC(O)=[N+](C)C)ccc3ccccc23)cn1
+            Mol #4: Cn1cc(C(O)=Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_13_97823)
+            Mol #0: CN(C)C(=O)Oc1ccc2ccccc2c1[N-]C(=O)c1c[nH+]n(C)c1
+            Mol #1: Cn1cc(C(O)=Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+            Mol #2: Cn1cc(C(O)=Nc2c(OC(O)=[N+](C)C)ccc3ccccc23)c[nH+]1
+            Mol #3: Cn1cc(C(=O)Nc2c(OC(O)=[N+](C)C)ccc3ccccc23)cn1
+            Mol #4: CN(C)C(=O)Oc1ccc2ccccc2c1NC(=O)c1c[nH+]n(C)c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_13_97823)
+            Mol #0: CN(C)C(=O)Oc1ccc2ccccc2c1[N-]C(=O)c1c[nH+]n(C)c1
+            Mol #1: Cn1cc(C(O)=Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+            Mol #2: Cn1cc(C(O)=Nc2c(OC(O)=[N+](C)C)ccc3ccccc23)c[nH+]1
+            Mol #3: Cn1cc(C(=O)Nc2c(OC(O)=[N+](C)C)ccc3ccccc23)cn1
+            Mol #4: CN(C)C(=O)Oc1ccc2ccccc2c1NC(=O)c1c[nH+]n(C)c1
+Enumerating all possible cis-trans isomers for all molecules...
+    Cn1cc(C(O)=Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1 has 2 double bond(s) with
+        unspecified stereochemistry.
+    Cn1cc(C(O)=Nc2c(OC(O)=[N+](C)C)ccc3ccccc23)c[nH+]1 has 2 double bond(s) with
+        unspecified stereochemistry.
+    Cn1cc(C(=O)Nc2c(OC(O)=[N+](C)C)ccc3ccccc23)cn1 has 2 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_13_97823)
+            Mol #0: Cn1cc(/C(O)=N/c2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+            Mol #1: CN(C)C(=O)Oc1ccc2ccccc2c1[N-]C(=O)c1c[nH+]n(C)c1
+            Mol #2: Cn1cc(/C(O)=N\c2c(OC(O)=[N+](C)C)ccc3ccccc23)c[nH+]1
+            Mol #3: Cn1cc(/C(O)=N/c2c(OC(O)=[N+](C)C)ccc3ccccc23)c[nH+]1
+            Mol #4: Cn1cc(/C(O)=N\c2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_13_97823)
+            Mol #0: CN(C)C(=O)Oc1ccc2ccccc2c1[N-]C(=O)c1c[nH+]n(C)c1
+            Mol #1: Cn1cc(/C(O)=N/c2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+            Mol #2: Cn1cc(/C(O)=N/c2c(OC(O)=[N+](C)C)ccc3ccccc23)c[nH+]1
+            Mol #3: Cn1cc(/C(O)=N\c2c(OC(O)=[N+](C)C)ccc3ccccc23)c[nH+]1
+            Mol #4: Cn1cc(/C(O)=N\c2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+Saving molecules associated with...
+    Cn1cc(C(=O)Nc2c(OC(=O)[NH+](C)C)ccc3ccccc23)cn1
+
+Start time at: 2025-12-27 22:21:15.548243
+End time at:   2025-12-27 22:21:22.268432
+Total time at: 0:00:06.720189

@@ -1,0 +1,73 @@
+Loading molecules from Gen_4_Mutant_35_74250.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_35_74250)
+            Mol #0: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_35_74250)
+            Mol #0: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1cnccc1C(F)(F)F
+            Mol #1: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1c[nH+]ccc1C(F)(F)F
+            Mol #2: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1c[nH+]ccc1C(F)(F)F
+            Mol #3: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F
+Generating tautomers for all molecules...
+    [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1c[nH+]ccc1C(F)(F)F has tautomers.
+    [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_35_74250)
+            Mol #0: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1cnccc1C(F)(F)F
+            Mol #1: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1c[nH+]ccc1C(F)(F)F
+            Mol #2: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1c[nH+]ccc1C(F)(F)F
+            Mol #3: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F
+            Mol #4: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(O)=Nc1cnccc1C(F)(F)F
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_35_74250)
+            Mol #0: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1cnccc1C(F)(F)F
+            Mol #1: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(O)=Nc1cnccc1C(F)(F)F
+            Mol #2: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1c[nH+]ccc1C(F)(F)F
+            Mol #3: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1c[nH+]ccc1C(F)(F)F
+            Mol #4: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_35_74250)
+            Mol #0: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1cnccc1C(F)(F)F
+            Mol #1: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(O)=Nc1cnccc1C(F)(F)F
+            Mol #2: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1c[nH+]ccc1C(F)(F)F
+            Mol #3: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1c[nH+]ccc1C(F)(F)F
+            Mol #4: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1cnccc1C(F)(F)F has 4 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(O)=Nc1cnccc1C(F)(F)F has 4 double bond(s)
+        with unspecified stereochemistry.
+    [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1c[nH+]ccc1C(F)(F)F has 4 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1c[nH+]ccc1C(F)(F)F has 4 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F has 4 double bond(s)
+        with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_35_74250)
+            Mol #0: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1c[nH+]ccc1C(F)(F)F
+            Mol #1: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1O/C(O)=N\c1cnccc1C(F)(F)F
+            Mol #2: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F
+            Mol #3: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1O/C(O)=N/c1cnccc1C(F)(F)F
+            Mol #4: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1c[nH+]ccc1C(F)(F)F
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_35_74250)
+            Mol #0: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1O/C(O)=N\c1cnccc1C(F)(F)F
+            Mol #1: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F
+            Mol #2: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1c[nH+]ccc1C(F)(F)F
+            Mol #3: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1O/C(O)=N/c1cnccc1C(F)(F)F
+            Mol #4: [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)[N-]c1c[nH+]ccc1C(F)(F)F
+Saving molecules associated with...
+    [N-]=[N+]=NC(=O)c1cc2ccccc2cc1OC(=O)Nc1cnccc1C(F)(F)F
+
+Start time at: 2025-12-27 22:21:03.282221
+End time at:   2025-12-27 22:21:07.678386
+Total time at: 0:00:04.396165

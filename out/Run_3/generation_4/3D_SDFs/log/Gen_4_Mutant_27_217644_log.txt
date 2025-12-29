@@ -1,0 +1,71 @@
+Loading molecules from Gen_4_Mutant_27_217644.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_217644)
+            Mol #0: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)nn2)CCCCCC1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_217644)
+            Mol #0: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)n[nH+]2)CCCCCC1
+            Mol #1: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+][nH+]2)CCCCCC1
+            Mol #2: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+]n2)CCCCCC1
+            Mol #3: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)nn2)CCCCCC1
+Generating tautomers for all molecules...
+    O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)n[nH+]2)CCCCCC1 has tautomers.
+    O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+][nH+]2)CCCCCC1 has tautomers.
+    O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+]n2)CCCCCC1 has tautomers.
+    O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)nn2)CCCCCC1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_217644)
+            Mol #0: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)[nH+]n1
+            Mol #1: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)n[nH+]1
+            Mol #2: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)nn1
+            Mol #3: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)n[nH+]2)CCCCCC1
+            Mol #4: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+]n2)CCCCCC1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_217644)
+            Mol #0: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)n[nH+]2)CCCCCC1
+            Mol #1: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)n[nH+]1
+            Mol #2: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)[nH+]n1
+            Mol #3: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)nn1
+            Mol #4: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+]n2)CCCCCC1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_217644)
+            Mol #0: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)n[nH+]2)CCCCCC1
+            Mol #1: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)n[nH+]1
+            Mol #2: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)[nH+]n1
+            Mol #3: O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)nn1
+            Mol #4: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+]n2)CCCCCC1
+Enumerating all possible cis-trans isomers for all molecules...
+    O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)n[nH+]1 has 2 double bond(s)
+        with unspecified stereochemistry.
+    O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)[nH+]n1 has 2 double bond(s)
+        with unspecified stereochemistry.
+    O=C(c1ccc2ccccc2c1)n1cc(CC2(OC(O)=CCl)CCCCCC2)nn1 has 2 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_217644)
+            Mol #0: O=C(c1ccc2ccccc2c1)n1cc(CC2(O/C(O)=C\Cl)CCCCCC2)[nH+]n1
+            Mol #1: O=C(c1ccc2ccccc2c1)n1cc(CC2(O/C(O)=C/Cl)CCCCCC2)[nH+]n1
+            Mol #2: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+]n2)CCCCCC1
+            Mol #3: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)n[nH+]2)CCCCCC1
+            Mol #4: O=C(c1ccc2ccccc2c1)n1cc(CC2(O/C(O)=C\Cl)CCCCCC2)n[nH+]1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_217644)
+            Mol #0: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)n[nH+]2)CCCCCC1
+            Mol #1: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+]n2)CCCCCC1
+            Mol #2: O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)[nH+]n2)CCCCCC1
+            Mol #3: O=C(c1ccc2ccccc2c1)n1cc(CC2(O/C(O)=C\Cl)CCCCCC2)[nH+]n1
+            Mol #4: O=C(c1ccc2ccccc2c1)n1cc(CC2(O/C(O)=C\Cl)CCCCCC2)n[nH+]1
+Saving molecules associated with...
+    O=C(CCl)OC1(Cc2cn(C(=O)c3ccc4ccccc4c3)nn2)CCCCCC1
+
+Start time at: 2025-12-27 22:21:43.777403
+End time at:   2025-12-27 22:21:58.495851
+Total time at: 0:00:14.718448

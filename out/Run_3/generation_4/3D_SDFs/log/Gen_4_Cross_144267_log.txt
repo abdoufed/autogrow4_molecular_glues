@@ -1,0 +1,61 @@
+Loading molecules from Gen_4_Cross_144267.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_144267)
+            Mol #0: C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_144267)
+            Mol #0: C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3
+Generating tautomers for all molecules...
+    C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3 has tautomers.
+    C#CCSc1ccc2c3c1C(=N)CC=C3N=C2N=[N+]=[N-], a tautomer generated from
+        C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3 (Gen_4_Cross_144267), broke
+        an aromatic ring, so I'm discarding it.
+    C#CCSc1ccc2c3c1C(=N)C=CC3=NC2=N[NH+]=[N-], a tautomer generated from
+        C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3 (Gen_4_Cross_144267), broke
+        an aromatic ring, so I'm discarding it.
+    C#CCSc1ccc2c3c1C(=N)C=CC3=NC2N=[N+]=[N-], a tautomer generated from
+        C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3 (Gen_4_Cross_144267), broke
+        an aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_144267)
+            Mol #0: C#CCSc1ccc2c3c(ccc(N)c13)N=C2N=[N+]=[N-]
+            Mol #1: C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_144267)
+            Mol #0: C#CCSc1ccc2c3c(ccc(N)c13)N=C2N=[N+]=[N-]
+            Mol #1: C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_144267)
+            Mol #0: C#CCSc1ccc2c3c(ccc(N)c13)N=C2N=[N+]=[N-]
+            Mol #1: C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3
+Enumerating all possible cis-trans isomers for all molecules...
+    C#CCSc1ccc2c3c(ccc(N)c13)N=C2N=[N+]=[N-] has 2 double bond(s) with
+        unspecified stereochemistry.
+    C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3 has 3 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_144267)
+            Mol #0: [H]/N=C1/C=Cc2[nH]c(N=[N+]=[N-])c3ccc(SCC#C)c1c23
+            Mol #1: [H]/N=C1\C=Cc2[nH]c(N=[N+]=[N-])c3ccc(SCC#C)c1c23
+            Mol #2: C#CCSc1ccc2c3c(ccc(N)c13)N=C2N=[N+]=[N-]
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_144267)
+            Mol #0: [H]/N=C1\C=Cc2[nH]c(N=[N+]=[N-])c3ccc(SCC#C)c1c23
+            Mol #1: [H]/N=C1/C=Cc2[nH]c(N=[N+]=[N-])c3ccc(SCC#C)c1c23
+            Mol #2: [H]/N=C1/C=Cc2[nH]c(N=[N+]=[N-])c3ccc(SCC#C)c1c23
+            Mol #3: [H]/N=C1\C=Cc2[nH]c(N=[N+]=[N-])c3ccc(SCC#C)c1c23
+            Mol #4: [H]/N=C1/C=Cc2[nH]c(N=[N+]=[N-])c3ccc(SCC#C)c1c23
+Saving molecules associated with...
+    C#CCSc1ccc2c(N=[N+]=[N-])[nH]c3c2c1C(=N)C=C3
+
+Start time at: 2025-12-27 22:21:51.769619
+End time at:   2025-12-27 22:21:53.420990
+Total time at: 0:00:01.651371

@@ -1,0 +1,39 @@
+REMARK SMILES CC(=O)c1ccc(/C(O)=N/[C@@H]2C=CCC2)c(F)c1[O-]
+REMARK SMILES IDX 7 1 6 2 5 3 4 4 18 5 19 6 16 7 17 8 8 9 9 10 10 12 11 13
+REMARK SMILES IDX 12 14 15 15 13 16 14 17 2 18 3 19 1 20
+REMARK H PARENT 9 11
+ROOT
+ATOM      1  C   UNL     1       0.683  -0.277   0.235  1.00  0.00     0.071 A 
+ATOM      2  C   UNL     1       0.109   0.361   1.344  1.00  0.00     0.017 A 
+ATOM      3  C   UNL     1       0.813   0.473   2.544  1.00  0.00     0.012 A 
+ATOM      4  C   UNL     1       2.110  -0.059   2.673  1.00  0.00     0.012 A 
+ATOM      5  C   UNL     1       2.679  -0.722   1.561  1.00  0.00    -0.060 A 
+ATOM      6  O   UNL     1       3.944  -1.296   1.642  1.00  0.00    -0.870 OA
+ATOM      7  C   UNL     1       1.971  -0.828   0.357  1.00  0.00     0.128 A 
+ATOM      8  F   UNL     1       2.527  -1.520  -0.671  1.00  0.00    -0.207 F 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C   UNL     1      -0.078  -0.379  -1.032  1.00  0.00     0.217 C 
+BRANCH   9  10
+ATOM     10  O   UNL     1       0.571  -0.277  -2.265  1.00  0.00    -0.493 OA
+ATOM     11  H   UNL     1       1.550  -0.031  -2.339  1.00  0.00     0.295 HD
+ENDBRANCH   9  10
+BRANCH   9  12
+ATOM     12  N   UNL     1      -1.366  -0.549  -0.989  1.00  0.00    -0.244 NA
+BRANCH  12  13
+ATOM     13  C   UNL     1      -2.214  -0.658  -2.175  1.00  0.00     0.132 C 
+ATOM     14  C   UNL     1      -3.643  -0.647  -1.768  1.00  0.00    -0.005 C 
+ATOM     15  C   UNL     1      -2.033  -2.014  -2.880  1.00  0.00     0.036 C 
+ATOM     16  C   UNL     1      -4.290  -1.729  -2.163  1.00  0.00    -0.029 C 
+ATOM     17  C   UNL     1      -3.416  -2.672  -2.905  1.00  0.00     0.029 C 
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+ENDBRANCH   1   9
+BRANCH   4  18
+ATOM     18  C   UNL     1       2.855   0.076   3.958  1.00  0.00     0.159 C 
+ATOM     19  O   UNL     1       4.100  -0.121   3.991  1.00  0.00    -0.295 OA
+ATOM     20  C   UNL     1       2.168   0.478   5.229  1.00  0.00     0.093 C 
+ENDBRANCH   4  18
+TORSDOF 5
+
+

@@ -1,0 +1,65 @@
+Loading molecules from Gen_4_Mutant_18_511267.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_511267)
+            Mol #0: CN[C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_511267)
+            Mol #0: CN[C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #1: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #2: C[NH2+][C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #3: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)n1
+            Mol #4: C[NH2+][C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+Generating tautomers for all molecules...
+    CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)n1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_511267)
+            Mol #0: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #1: C[NH2+][C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #2: CN[C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #3: CN[C@H](C)CCCC[NH+]=c1cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #4: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)n1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_511267)
+            Mol #0: CN[C@H](C)CCCC[NH+]=c1cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #1: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #2: CN[C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #3: C[NH2+][C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #4: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)n1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_511267)
+            Mol #0: CN[C@H](C)CCCC[NH+]=c1cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #1: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #2: CN[C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #3: C[NH2+][C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #4: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)n1
+Enumerating all possible cis-trans isomers for all molecules...
+    CN[C@H](C)CCCC[NH+]=c1cc(C)c2c(ccc3ccccc32)[nH]1 has 1 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_511267)
+            Mol #0: CN[C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #1: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #2: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)n1
+            Mol #3: CN[C@H](C)CCCC/[NH+]=c1\cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #4: CN[C@H](C)CCCC/[NH+]=c1/cc(C)c2c(ccc3ccccc32)[nH]1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_511267)
+            Mol #0: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #1: CN[C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+            Mol #2: CN[C@H](C)CCCC[NH2+]c1cc(C)c2c(ccc3ccccc32)n1
+            Mol #3: CN[C@H](C)CCCC/[NH+]=c1\cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #4: CN[C@H](C)CCCC/[NH+]=c1/cc(C)c2c(ccc3ccccc32)[nH]1
+Saving molecules associated with...
+    CN[C@H](C)CCCCNc1cc(C)c2c(ccc3ccccc32)[nH+]1
+
+Start time at: 2025-12-27 22:21:04.899895
+End time at:   2025-12-27 22:21:15.547018
+Total time at: 0:00:10.647123

@@ -1,0 +1,75 @@
+Loading molecules from Gen_4_Mutant_32_544468.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_544468)
+            Mol #0: S=C(NCCCS)Nc1ccc2ccccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_544468)
+            Mol #0: S=C([NH2+]CCC[S-])[NH2+]c1ccc2ccccc2c1
+            Mol #1: S=C(NCCC[S-])Nc1ccc2ccccc2c1
+            Mol #2: S=C([NH2+]CCCS)[NH2+]c1ccc2ccccc2c1
+            Mol #3: S=C(NCCCS)Nc1ccc2ccccc2c1
+            Mol #4: S=C(NCCCS)[NH2+]c1ccc2ccccc2c1
+Generating tautomers for all molecules...
+    S=C([NH2+]CCC[S-])[NH2+]c1ccc2ccccc2c1 has tautomers.
+    S=C(NCCC[S-])Nc1ccc2ccccc2c1 has tautomers.
+    S=C([NH2+]CCCS)[NH2+]c1ccc2ccccc2c1 has tautomers.
+    S=C(NCCCS)Nc1ccc2ccccc2c1 has tautomers.
+    S=C(NCCCS)[NH2+]c1ccc2ccccc2c1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_544468)
+            Mol #0: SCCCNC(S)=[NH+]c1ccc2ccccc2c1
+            Mol #1: [S-]CCCNC(S)=Nc1ccc2ccccc2c1
+            Mol #2: SCCCN=C(S)Nc1ccc2ccccc2c1
+            Mol #3: S=C(NCCCS)[NH2+]c1ccc2ccccc2c1
+            Mol #4: SCCC[NH+]=C(S)[NH2+]c1ccc2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_544468)
+            Mol #0: [S-]CCCNC(S)=Nc1ccc2ccccc2c1
+            Mol #1: S=C(NCCCS)[NH2+]c1ccc2ccccc2c1
+            Mol #2: SCCCNC(S)=[NH+]c1ccc2ccccc2c1
+            Mol #3: SCCC[NH+]=C(S)[NH2+]c1ccc2ccccc2c1
+            Mol #4: SCCCN=C(S)Nc1ccc2ccccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_544468)
+            Mol #0: [S-]CCCNC(S)=Nc1ccc2ccccc2c1
+            Mol #1: S=C(NCCCS)[NH2+]c1ccc2ccccc2c1
+            Mol #2: SCCCNC(S)=[NH+]c1ccc2ccccc2c1
+            Mol #3: SCCC[NH+]=C(S)[NH2+]c1ccc2ccccc2c1
+            Mol #4: SCCCN=C(S)Nc1ccc2ccccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    [S-]CCCNC(S)=Nc1ccc2ccccc2c1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    SCCCNC(S)=[NH+]c1ccc2ccccc2c1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    SCCC[NH+]=C(S)[NH2+]c1ccc2ccccc2c1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    SCCCN=C(S)Nc1ccc2ccccc2c1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_544468)
+            Mol #0: S=C(NCCCS)[NH2+]c1ccc2ccccc2c1
+            Mol #1: [S-]CCCN/C(S)=N\c1ccc2ccccc2c1
+            Mol #2: SCCC/[NH+]=C(\S)[NH2+]c1ccc2ccccc2c1
+            Mol #3: SCCC/[NH+]=C(/S)[NH2+]c1ccc2ccccc2c1
+            Mol #4: [S-]CCCN/C(S)=N/c1ccc2ccccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_544468)
+            Mol #0: SCCC/[NH+]=C(\S)[NH2+]c1ccc2ccccc2c1
+            Mol #1: S=C(NCCCS)[NH2+]c1ccc2ccccc2c1
+            Mol #2: SCCC/[NH+]=C(/S)[NH2+]c1ccc2ccccc2c1
+            Mol #3: [S-]CCCN/C(S)=N\c1ccc2ccccc2c1
+            Mol #4: [S-]CCCN/C(S)=N/c1ccc2ccccc2c1
+Saving molecules associated with...
+    S=C(NCCCS)Nc1ccc2ccccc2c1
+
+Start time at: 2025-12-27 22:21:16.265024
+End time at:   2025-12-27 22:21:19.909797
+Total time at: 0:00:03.644773

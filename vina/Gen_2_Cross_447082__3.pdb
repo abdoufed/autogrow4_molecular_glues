@@ -1,0 +1,34 @@
+REMARK Final SMILES string: Cc1cc(NN)c([O-])c([O-])c1F
+COMPND    Gen_2_Cross_447082
+HETATM    1  C1  UNL     1      -1.906   2.985  -1.013  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.396   1.578  -0.888  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.031   1.065   0.366  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.528  -0.245   0.490  1.00  0.00           C  
+HETATM    5  N1  UNL     1      -0.158  -0.786   1.775  1.00  0.00           N  
+HETATM    6  N2  UNL     1      -0.274  -0.060   2.973  1.00  0.00           N  
+HETATM    7  C5  UNL     1      -0.384  -1.033  -0.669  1.00  0.00           C  
+HETATM    8  O1  UNL     1       0.108  -2.331  -0.581  1.00  0.00           O1-
+HETATM    9  C6  UNL     1      -0.734  -0.516  -1.922  1.00  0.00           C  
+HETATM   10  O2  UNL     1      -0.583  -1.298  -3.062  1.00  0.00           O1-
+HETATM   11  C7  UNL     1      -1.233   0.784  -2.034  1.00  0.00           C  
+HETATM   12  F1  UNL     1      -1.557   1.273  -3.259  1.00  0.00           F  
+HETATM   13  H1  UNL     1      -1.102   3.635  -1.418  1.00  0.00           H  
+HETATM   14  H2  UNL     1      -2.780   3.017  -1.697  1.00  0.00           H  
+HETATM   15  H3  UNL     1      -2.228   3.387  -0.028  1.00  0.00           H  
+HETATM   16  H4  UNL     1      -1.143   1.692   1.240  1.00  0.00           H  
+HETATM   17  H5  UNL     1       0.214  -1.760   1.839  1.00  0.00           H  
+HETATM   18  H6  UNL     1      -1.275   0.215   3.089  1.00  0.00           H  
+HETATM   19  H7  UNL     1       0.308   0.804   2.885  1.00  0.00           H  
+TER      20      UNL     1 
+CONECT    1    2   13   14   15
+CONECT    2    3    3   11
+CONECT    3    4   16
+CONECT    4    5    7    7
+CONECT    5    6   17
+CONECT    6   18   19
+CONECT    7    8    9
+CONECT    9   10   11   11
+CONECT   11   12
+END
+
+

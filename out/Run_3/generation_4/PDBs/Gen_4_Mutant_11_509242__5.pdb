@@ -1,0 +1,53 @@
+REMARK Final SMILES string: C#CCS(=O)(=O)c1ccc2c(c1)CCC[C@H]2[NH3+]
+COMPND    Gen_4_Mutant_11_509242
+HETATM    1  C1  LIG X 999       3.138   3.082  -3.312  1.00  0.00           C  
+HETATM    2  C2  LIG X 999       2.072   2.959  -3.861  1.00  0.00           C  
+HETATM    3  C3  LIG X 999       0.775   2.808  -4.524  1.00  0.00           C  
+HETATM    4  S1  LIG X 999      -0.545   3.029  -3.347  1.00  0.00           S  
+HETATM    5  O1  LIG X 999      -1.866   2.870  -4.045  1.00  0.00           O  
+HETATM    6  O2  LIG X 999      -0.476   4.413  -2.763  1.00  0.00           O  
+HETATM    7  C4  LIG X 999      -0.407   1.830  -2.064  1.00  0.00           C  
+HETATM    8  C5  LIG X 999      -0.981   0.565  -2.222  1.00  0.00           C  
+HETATM    9  C6  LIG X 999      -0.849  -0.397  -1.220  1.00  0.00           C  
+HETATM   10  C7  LIG X 999      -0.135  -0.113  -0.044  1.00  0.00           C  
+HETATM   11  C8  LIG X 999       0.445   1.168   0.121  1.00  0.00           C  
+HETATM   12  C9  LIG X 999       0.314   2.123  -0.900  1.00  0.00           C  
+HETATM   13  C10 LIG X 999       1.317   1.499   1.309  1.00  0.00           C  
+HETATM   14  C11 LIG X 999       1.076   0.572   2.502  1.00  0.00           C  
+HETATM   15  C12 LIG X 999       1.066  -0.890   2.054  1.00  0.00           C  
+HETATM   16  C13 LIG X 999      -0.071  -1.167   1.049  1.00  0.00           C  
+HETATM   17  N1  LIG X 999      -1.370  -1.270   1.731  1.00  0.00           N1+
+HETATM   18  H1  LIG X 999       4.073   3.190  -2.828  1.00  0.00           H  
+HETATM   19  H2  LIG X 999       0.683   3.566  -5.330  1.00  0.00           H  
+HETATM   20  H3  LIG X 999       0.706   1.793  -4.968  1.00  0.00           H  
+HETATM   21  H4  LIG X 999      -1.528   0.321  -3.124  1.00  0.00           H  
+HETATM   22  H5  LIG X 999      -1.308  -1.368  -1.360  1.00  0.00           H  
+HETATM   23  H6  LIG X 999       0.788   3.091  -0.794  1.00  0.00           H  
+HETATM   24  H7  LIG X 999       2.381   1.418   0.996  1.00  0.00           H  
+HETATM   25  H8  LIG X 999       1.135   2.547   1.633  1.00  0.00           H  
+HETATM   26  H9  LIG X 999       1.887   0.721   3.248  1.00  0.00           H  
+HETATM   27  H10 LIG X 999       0.117   0.833   2.997  1.00  0.00           H  
+HETATM   28  H11 LIG X 999       0.965  -1.550   2.943  1.00  0.00           H  
+HETATM   29  H12 LIG X 999       2.042  -1.130   1.577  1.00  0.00           H  
+HETATM   30  H13 LIG X 999       0.150  -2.150   0.573  1.00  0.00           H  
+HETATM   31  H14 LIG X 999      -1.316  -1.969   2.507  1.00  0.00           H  
+HETATM   32  H15 LIG X 999      -2.099  -1.598   1.056  1.00  0.00           H  
+HETATM   33  H16 LIG X 999      -1.665  -0.345   2.118  1.00  0.00           H  
+TER      34      UNL     1 
+CONECT    1    2    2    2   18
+CONECT    2    3
+CONECT    3    4   19   20
+CONECT    4    5    5    6    6
+CONECT    4    7
+CONECT    7    8    8   12
+CONECT    8    9   21
+CONECT    9   10   10   22
+CONECT   10   11   16
+CONECT   11   12   12   13
+CONECT   12   23
+CONECT   13   14   24   25
+CONECT   14   15   26   27
+CONECT   15   16   28   29
+CONECT   16   17   30
+CONECT   17   31   32   33
+END

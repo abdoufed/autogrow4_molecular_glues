@@ -1,0 +1,58 @@
+Loading molecules from Gen_4_Mutant_11_454902.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_454902)
+            Mol #0: C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_454902)
+            Mol #0: C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+Generating tautomers for all molecules...
+    C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O has tautomers.
+    C[N+]1(C)Cc2cc3c(cc2=C1O)C=CC(=N)C=3, a tautomer generated from
+        C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O (Gen_4_Mutant_11_454902), broke an
+        aromatic ring, so I'm discarding it.
+    C[N+]1(C)Cc2cc3c(cc2C1=O)=CCC(=N)C=3, a tautomer generated from
+        C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O (Gen_4_Mutant_11_454902), broke an
+        aromatic ring, so I'm discarding it.
+    C[N+]1(C)Cc2cc3c(cc2C1=O)C=CC(=N)C3, a tautomer generated from
+        C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O (Gen_4_Mutant_11_454902), broke an
+        aromatic ring, so I'm discarding it.
+    C[N+]1(C)CC2=CC3=CC(=N)C=CC3=CC2C1=O, a tautomer generated from
+        C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O (Gen_4_Mutant_11_454902), broke an
+        aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_454902)
+            Mol #0: C[N+]1(C)C=c2cc3cc(N)ccc3cc2=C1O
+            Mol #1: C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_454902)
+            Mol #0: C[N+]1(C)C=c2cc3cc(N)ccc3cc2=C1O
+            Mol #1: C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_454902)
+            Mol #0: C[N+]1(C)C=c2cc3cc(N)ccc3cc2=C1O
+            Mol #1: C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_454902)
+            Mol #0: C[N+]1(C)C=c2cc3cc(N)ccc3cc2=C1O
+            Mol #1: C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_454902)
+            Mol #0: C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+            Mol #1: C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+            Mol #2: C[N+]1(C)C=c2cc3cc(N)ccc3cc2=C1O
+            Mol #3: C[N+]1(C)C=c2cc3cc(N)ccc3cc2=C1O
+Saving molecules associated with...
+    C[N+]1(C)Cc2cc3cc(N)ccc3cc2C1=O
+
+Start time at: 2025-12-27 22:21:38.525703
+End time at:   2025-12-27 22:21:39.861921
+Total time at: 0:00:01.336218

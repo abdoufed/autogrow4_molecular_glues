@@ -1,0 +1,60 @@
+Loading molecules from Gen_4_Mutant_14_102495.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_102495)
+            Mol #0: [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)N)c1ccc2ccccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_102495)
+            Mol #0: [N-]=[N+]=NCCN=C(OC(=O)C=CC(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #1: [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)N)c1ccc2ccccc2c1
+Generating tautomers for all molecules...
+    [N-]=[N+]=NCCN=C(OC(=O)C=CC(N)=[NH2+])c1ccc2ccccc2c1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_102495)
+            Mol #0: [N-]=[N+]=NCCN=C(OC(=O)C=CC(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #1: [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)[NH3+])c1ccc2ccccc2c1
+            Mol #2: [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)N)c1ccc2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_102495)
+            Mol #0: [N-]=[N+]=NCCN=C(OC(=O)C=CC(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #1: [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)[NH3+])c1ccc2ccccc2c1
+            Mol #2: [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)N)c1ccc2ccccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_102495)
+            Mol #0: [N-]=[N+]=NCCN=C(OC(=O)C=CC(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #1: [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)[NH3+])c1ccc2ccccc2c1
+            Mol #2: [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)N)c1ccc2ccccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=NCCN=C(OC(=O)C=CC(N)=[NH2+])c1ccc2ccccc2c1 has 6 double bond(s)
+        with unspecified stereochemistry.
+    [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)[NH3+])c1ccc2ccccc2c1 has 6 double bond(s)
+        with unspecified stereochemistry.
+    [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)N)c1ccc2ccccc2c1 has 6 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_102495)
+            Mol #0: [N-]=[N+]=NCC/N=C(/OC(=O)/C=C\C(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #1: [N-]=[N+]=NCC/N=C(/OC(=O)/C=C/C(=N)N)c1ccc2ccccc2c1
+            Mol #2: [N-]=[N+]=NCC/N=C(\OC(=O)/C=C/C(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #3: [N-]=[N+]=NCC/N=C(/OC(=O)/C=C/C(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #4: [N-]=[N+]=NCC/N=C(\OC(=O)/C=C\C(=N)N)c1ccc2ccccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_102495)
+            Mol #0: [N-]=[N+]=NCC/N=C(\OC(=O)/C=C\C(=N)N)c1ccc2ccccc2c1
+            Mol #1: [N-]=[N+]=NCC/N=C(/OC(=O)/C=C\C(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #2: [N-]=[N+]=NCC/N=C(\OC(=O)/C=C/C(N)=[NH2+])c1ccc2ccccc2c1
+            Mol #3: [N-]=[N+]=NCC/N=C(/OC(=O)/C=C/C(=N)N)c1ccc2ccccc2c1
+            Mol #4: [N-]=[N+]=NCC/N=C(/OC(=O)/C=C/C(N)=[NH2+])c1ccc2ccccc2c1
+Saving molecules associated with...
+    [N-]=[N+]=NCCN=C(OC(=O)C=CC(=N)N)c1ccc2ccccc2c1
+
+Start time at: 2025-12-27 22:21:29.518311
+End time at:   2025-12-27 22:21:37.309932
+Total time at: 0:00:07.791621

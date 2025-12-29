@@ -1,0 +1,93 @@
+Loading molecules from Gen_4_Cross_205001.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_205001)
+            Mol #0: CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_205001)
+            Mol #0: CCn1c(O)c2ccc(-c3[nH+][nH+]c(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #1: CCn1c(O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #2: CCn1c([O-])c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #3: CCn1c([O-])c2ccc(-c3[nH+][nH+]c(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #4: CCn1c(O)c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+Generating tautomers for all molecules...
+    CCn1c(O)c2ccc(-c3[nH+][nH+]c(N=[N+]=[N-])o3)c3c2c1C=CC3=N has tautomers.
+    CCn1c(O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N has tautomers.
+    CCn1c(O)c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N has tautomers.
+    CCN1C(=O)c2ccc(-c3[nH+][nH+]c(N=[N+]=[N-])o3)c3c2C1=CCC3=N, a tautomer
+        generated from CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+        (Gen_4_Cross_205001), broke an aromatic ring, so I'm discarding it.
+    CCN1C(=O)C2C=CC(c3[nH+][nH+]c(N=[N+]=[N-])o3)=C3C(=N)C=CC1=C32, a tautomer
+        generated from CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+        (Gen_4_Cross_205001), broke an aromatic ring, so I'm discarding it.
+    CCN1C(=O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2C1=CCC3=N, a tautomer generated
+        from CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+        (Gen_4_Cross_205001), broke an aromatic ring, so I'm discarding it.
+    CCN1C(=O)C2C=CC(c3[nH+]nc(N=[N+]=[N-])o3)=C3C(=N)C=CC1=C32, a tautomer
+        generated from CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+        (Gen_4_Cross_205001), broke an aromatic ring, so I'm discarding it.
+    CCN1C(=O)c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2C1=CCC3=N, a tautomer generated
+        from CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+        (Gen_4_Cross_205001), broke an aromatic ring, so I'm discarding it.
+    CCN1C(=O)C2C=CC(c3nnc(N=[N+]=[N-])o3)=C3C(=N)C=CC1=C32, a tautomer generated
+        from CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+        (Gen_4_Cross_205001), broke an aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_205001)
+            Mol #0: CCn1c([O-])c2ccc(-c3[nH+][nH+]c(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #1: CCn1c(O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #2: CCn1c([O-])c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #3: CCN1C(=O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c(N)ccc1c23
+            Mol #4: CCn1c(O)c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+Applying Durrant-lab filters to all molecules...
+    CCn1c([O-])c2ccc(-c3[nH+][nH+]c(N=[N+]=[N-])o3)c3c2c1C=CC3=N, a variant
+        generated from CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+        (Gen_4_Cross_205001), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_205001)
+            Mol #0: CCn1c(O)c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #1: CCn1c([O-])c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #2: CCn1c(O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #3: CCN1C(=O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c(N)ccc1c23
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_205001)
+            Mol #0: CCn1c(O)c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #1: CCn1c([O-])c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #2: CCn1c(O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+            Mol #3: CCN1C(=O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c(N)ccc1c23
+Enumerating all possible cis-trans isomers for all molecules...
+    CCn1c(O)c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N has 3 double bond(s) with
+        unspecified stereochemistry.
+    CCn1c([O-])c2ccc(-c3nnc(N=[N+]=[N-])o3)c3c2c1C=CC3=N has 3 double bond(s)
+        with unspecified stereochemistry.
+    CCn1c(O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N has 3 double bond(s)
+        with unspecified stereochemistry.
+    CCN1C(=O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c(N)ccc1c23 has 3 double bond(s)
+        with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_205001)
+            Mol #0: [H]/N=C1\C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c([O-])n2CC
+            Mol #1: CCN1C(=O)c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c(N)ccc1c23
+            Mol #2: [H]/N=C1/C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c(O)n2CC
+            Mol #3: [H]/N=C1/C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c([O-])n2CC
+            Mol #4: [H]/N=C1\C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c(O)n2CC
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_205001)
+            Mol #0: [H]/N=C1\C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c([O-])n2CC
+            Mol #1: [H]/N=C1/C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c([O-])n2CC
+            Mol #2: [H]/N=C1\C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c([O-])n2CC
+            Mol #3: [H]/N=C1/C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c([O-])n2CC
+            Mol #4: [H]/N=C1/C=Cc2c3c1c(-c1nnc(N=[N+]=[N-])o1)ccc3c([O-])n2CC
+Saving molecules associated with...
+    CCn1c([O-])c2ccc(-c3[nH+]nc(N=[N+]=[N-])o3)c3c2c1C=CC3=N
+
+Start time at: 2025-12-27 22:22:00.201709
+End time at:   2025-12-27 22:22:06.219969
+Total time at: 0:00:06.018260

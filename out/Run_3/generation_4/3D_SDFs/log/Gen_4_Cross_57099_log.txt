@@ -1,0 +1,78 @@
+Loading molecules from Gen_4_Cross_57099.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_57099)
+            Mol #0:
+                C#CCS(=O)(=O)C1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)C(N=[N+]=[N-])C
+                1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_57099)
+            Mol #0:
+                C#CCS(=O)(=O)C1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)C(N=[N+]=[N-])C
+                1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_57099)
+            Mol #0:
+                C#CCS(=O)(=O)C1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)C(N=[N+]=[N-])C
+                1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_57099)
+            Mol #0:
+                C#CCS(=O)(=O)C1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)C(N=[N+]=[N-])C
+                1
+Enumerating all possible enantiomers for all molecules...
+    C#CCS(=O)(=O)C1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)C(N=[N+]=[N-])C1
+        (Gen_4_Cross_57099) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_57099)
+            Mol #0: C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@H](
+                N=[N+]=[N-])C1
+            Mol #1: C#CCS(=O)(=O)[C@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@H](N
+                =[N+]=[N-])C1
+            Mol #2: C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H]
+                (N=[N+]=[N-])C1
+            Mol #3: C#CCS(=O)(=O)[C@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H](
+                N=[N+]=[N-])C1
+Enumerating all possible cis-trans isomers for all molecules...
+    C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@H](N=[N+]=[N-])C1
+        has 6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H](N=[N+]=[N-])C1
+        has 6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H](N=[N+]=[N-])C1
+        has 6 double bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_57099)
+            Mol #0: C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@H](
+                N=[N+]=[N-])C1
+            Mol #1: C#CCS(=O)(=O)[C@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H](
+                N=[N+]=[N-])C1
+            Mol #2: C#CCS(=O)(=O)[C@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@H](N
+                =[N+]=[N-])C1
+            Mol #3: C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H]
+                (N=[N+]=[N-])C1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_57099)
+            Mol #0: C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H]
+                (N=[N+]=[N-])C1
+            Mol #1: C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H]
+                (N=[N+]=[N-])C1
+            Mol #2: C#CCS(=O)(=O)[C@@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@H](
+                N=[N+]=[N-])C1
+            Mol #3: C#CCS(=O)(=O)[C@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@H](N
+                =[N+]=[N-])C1
+            Mol #4: C#CCS(=O)(=O)[C@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H](
+                N=[N+]=[N-])C1
+Saving molecules associated with...
+    C#CCS(=O)(=O)C1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)C(N=[N+]=[N-])C1
+
+Start time at: 2025-12-27 22:22:08.881713
+End time at:   2025-12-27 22:22:13.998595
+Total time at: 0:00:05.116882

@@ -1,0 +1,34 @@
+Loading molecules from Gen_4_Mutant_1_333177.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_1_333177)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1COC[C@@H](O)COC(C)(C)C#CC[C@
+                H]1C[C@H]2C=C[C@H]1C2
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_1_333177)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1COC[C@@H](O)COC(C)(C)C#CC[C@
+                H]1C[C@H]2C=C[C@H]1C2
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_1_333177)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1COC[C@@H](O)COC(C)(C)C#CC[C@
+                H]1C[C@H]2C=C[C@H]1C2
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_1_333177)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1COC[C@@H](O)COC(C)(C)C#CC[C@
+                H]1C[C@H]2C=C[C@H]1C2
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_1_333177)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1COC[C@@H](O)COC(C)(C)C#CC[C@
+                H]1C[C@H]2C=C[C@H]1C2
+Enumerating all possible cis-trans isomers for all molecules...
+    C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1COC[C@@H](O)COC(C)(C)C#CC[C@H]1C[C@H]2C=C[C@
+        H]1C2 has 2 double bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_1_333177)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1COC[C@@H](O)COC(C)(C)C#CC[C@
+                H]1C[C@H]2C=C[C@H]1C2
+Converting all molecules to 3D structures.

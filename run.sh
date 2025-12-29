@@ -1,0 +1,30 @@
+python run_autogrow.py \
+    --filename_of_receptor ./in/receptor.pdb \
+    --center_x 45.00 --center_y  131.00 --center_z 16.00 \
+    --size_x 17.0 --size_y 17.0 --size_z 17.0 \
+    --source_compound_file /home/abdou/autgorw/complex/source_compounds/naphthalene_smiles.smi \
+    --root_output_folder ./out/ \
+    --number_of_mutants_first_generation 100 \
+    --number_of_crossovers_first_generation 100 \
+    --number_of_mutants 100 \
+    --number_of_crossovers 100 \
+    --top_mols_to_seed_next_generation 100 \
+    --number_elitism_advance_from_previous_gen 100 \
+    --number_elitism_advance_from_previous_gen_first_generation 100 \
+    --diversity_mols_to_seed_first_generation 10 \
+    --diversity_seed_depreciation_per_gen 10 \
+    --num_generations 15 \
+    --mgltools_directory /home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6 \
+    --number_of_processors -1 \
+    --scoring_choice VINA \
+    --LipinskiLenientFilter \
+    --start_a_new_run \
+    --rxn_library click_chem_rxns \
+    --selector_choice Rank_Selector \
+    --dock_choice VinaDocking \
+    --max_variants_per_compound 5 \
+    --redock_elite_from_previous_gen False \
+    --generate_plot True \
+    --reduce_files_sizes True \
+    --use_docked_source_compounds True \
+    

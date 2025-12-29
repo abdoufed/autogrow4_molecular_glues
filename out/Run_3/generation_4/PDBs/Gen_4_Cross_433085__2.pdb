@@ -1,0 +1,37 @@
+REMARK Final SMILES string: [N-]=[N+]=Nc1c([O-])cc2ccccc2c1Cl
+COMPND    Gen_4_Cross_433085
+HETATM    1  H1  LIG X 999       4.687  -1.088  -0.797  1.00  0.00           H  
+HETATM    2  C1  LIG X 999       3.669  -0.782  -0.592  1.00  0.00           C  
+HETATM    3  C2  LIG X 999       3.413   0.158   0.406  1.00  0.00           C  
+HETATM    4  H2  LIG X 999       4.234   0.580   0.971  1.00  0.00           H  
+HETATM    5  C3  LIG X 999       2.102   0.558   0.678  1.00  0.00           C  
+HETATM    6  H3  LIG X 999       1.947   1.289   1.459  1.00  0.00           H  
+HETATM    7  C4  LIG X 999       1.022   0.017  -0.051  1.00  0.00           C  
+HETATM    8  C5  LIG X 999      -0.315   0.401   0.201  1.00  0.00           C  
+HETATM    9 CL1  LIG X 999      -0.703   1.590   1.453  1.00  0.00          CL  
+HETATM   10  C6  LIG X 999      -1.370  -0.160  -0.547  1.00  0.00           C  
+HETATM   11  N1  LIG X 999      -2.714   0.263  -0.253  1.00  0.00           N  
+HETATM   12  N2  LIG X 999      -3.708  -0.162  -0.845  1.00  0.00           N1+
+HETATM   13  N3  LIG X 999      -4.704  -0.583  -1.431  1.00  0.00           N1-
+HETATM   14  C7  LIG X 999      -1.079  -1.111  -1.551  1.00  0.00           C  
+HETATM   15  O1  LIG X 999      -2.088  -1.690  -2.313  1.00  0.00           O1-
+HETATM   16  C8  LIG X 999       0.240  -1.491  -1.800  1.00  0.00           C  
+HETATM   17  H4  LIG X 999       0.440  -2.222  -2.575  1.00  0.00           H  
+HETATM   18  C9  LIG X 999       1.293  -0.939  -1.063  1.00  0.00           C  
+HETATM   19  C10 LIG X 999       2.616  -1.330  -1.325  1.00  0.00           C  
+HETATM   20  H5  LIG X 999       2.834  -2.060  -2.096  1.00  0.00           H  
+TER      21      UNL     1 
+CONECT    1    2
+CONECT    2    3    3   19
+CONECT    3    4    5
+CONECT    5    6    7    7
+CONECT    7    8   18
+CONECT    8    9   10   10
+CONECT   10   11   14
+CONECT   11   12   12
+CONECT   12   13   13
+CONECT   14   15   16   16
+CONECT   16   17   18
+CONECT   18   19   19
+CONECT   19   20
+END

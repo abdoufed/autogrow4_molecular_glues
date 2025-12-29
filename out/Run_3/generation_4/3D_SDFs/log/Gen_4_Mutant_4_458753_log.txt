@@ -1,0 +1,73 @@
+Loading molecules from Gen_4_Mutant_4_458753.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_4_458753)
+            Mol #0:
+                O=C(O)[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)NS(=O)(=O)c1ccc2ccccc2
+                c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_4_458753)
+            Mol #0: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+Generating tautomers for all molecules...
+    Detected unusual substructure: C=C([O-])[OH]
+    Detected unusual substructure: C=C([O-])[OH]
+    O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1ccc2ccccc2c1 has
+        tautomers.
+    O=C(O)[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)NS(=O)(=O)c1ccc2ccccc2c1 ==>
+        O=C([O-])[C@@H]1C(=C(O)[N-]S(=O)(=O)c2ccc3ccccc3c2)[C@H]2CC[C@@H]1C2
+        (tautomer transformation on Gen_4_Mutant_4_458753) changed the molecules
+        total number of specified chiral centers from 8 to 6, so I'm deleting
+        it.
+    O=C(O)[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)NS(=O)(=O)c1ccc2ccccc2c1 ==>
+        O=C([O-])C1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1ccc2ccccc2c1
+        (tautomer transformation on Gen_4_Mutant_4_458753) changed the molecules
+        total number of specified chiral centers from 8 to 7, so I'm deleting
+        it.
+    O=C(O)[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)NS(=O)(=O)c1ccc2ccccc2c1 ==>
+        O=C([N-]S(=O)(=O)c1ccc2ccccc2c1)C1[C@H]2CC[C@H](C2)[C@@H]1C(=O)[O-]
+        (tautomer transformation on Gen_4_Mutant_4_458753) changed the molecules
+        total number of specified chiral centers from 8 to 7, so I'm deleting
+        it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_4_458753)
+            Mol #0: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_4_458753)
+            Mol #0: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_4_458753)
+            Mol #0: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_4_458753)
+            Mol #0: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_4_458753)
+            Mol #0: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+            Mol #1: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+            Mol #2: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+            Mol #3: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+            Mol #4: O=C([O-])[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)[N-]S(=O)(=O)c1
+                ccc2ccccc2c1
+Saving molecules associated with...
+    O=C(O)[C@H]1[C@@H]2CC[C@@H](C2)[C@H]1C(=O)NS(=O)(=O)c1ccc2ccccc2c1
+
+Start time at: 2025-12-27 22:21:07.957092
+End time at:   2025-12-27 22:21:09.905318
+Total time at: 0:00:01.948226

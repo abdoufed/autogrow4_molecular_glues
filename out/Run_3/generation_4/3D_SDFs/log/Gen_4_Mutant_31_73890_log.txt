@@ -1,0 +1,72 @@
+Loading molecules from Gen_4_Mutant_31_73890.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_73890)
+            Mol #0: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_73890)
+            Mol #0: C[C@H](Cc1cccs1)[N-]C(=O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #1: C[C@H](Cc1cccs1)NC(=O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #2: C[C@H](Cc1cccs1)[N-]C(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #3: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+Generating tautomers for all molecules...
+    C[C@H](Cc1cccs1)NC(=O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2 has tautomers.
+    C[C@H](Cc1cccs1)[N-]C(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2 has tautomers.
+    C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_73890)
+            Mol #0: C[C@H](Cc1cccs1)NC(O)=Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #1: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #2: C[C@H](Cc1cccs1)N=C(O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #3: C[C@H](Cc1cccs1)N=C(O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #4: C[C@H](Cc1cccs1)[N-]C(O)=Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_73890)
+            Mol #0: C[C@H](Cc1cccs1)NC(O)=Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #1: C[C@H](Cc1cccs1)N=C(O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #2: C[C@H](Cc1cccs1)[N-]C(O)=Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #3: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #4: C[C@H](Cc1cccs1)N=C(O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_73890)
+            Mol #0: C[C@H](Cc1cccs1)NC(O)=Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #1: C[C@H](Cc1cccs1)N=C(O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #2: C[C@H](Cc1cccs1)[N-]C(O)=Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #3: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #4: C[C@H](Cc1cccs1)N=C(O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+Enumerating all possible cis-trans isomers for all molecules...
+    C[C@H](Cc1cccs1)NC(O)=Nc1c2c(cc3ccccc13)C[N+](C)(C)C2 has 1 double bond(s)
+        with unspecified stereochemistry.
+    C[C@H](Cc1cccs1)N=C(O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2 has 1 double bond(s)
+        with unspecified stereochemistry.
+    C[C@H](Cc1cccs1)[N-]C(O)=Nc1c2c(cc3ccccc13)C[N+](C)(C)C2 has 1 double
+        bond(s) with unspecified stereochemistry.
+    C[C@H](Cc1cccs1)N=C(O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2 has 1 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_73890)
+            Mol #0: C[C@H](Cc1cccs1)[N-]/C(O)=N/c1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #1: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #2: C[C@H](Cc1cccs1)/N=C(/O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #3: C[C@H](Cc1cccs1)/N=C(\O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #4: C[C@H](Cc1cccs1)/N=C(\O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_73890)
+            Mol #0: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #1: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #2: C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #3: C[C@H](Cc1cccs1)/N=C(\O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+            Mol #4: C[C@H](Cc1cccs1)/N=C(/O)[N-]c1c2c(cc3ccccc13)C[N+](C)(C)C2
+Saving molecules associated with...
+    C[C@H](Cc1cccs1)NC(=O)Nc1c2c(cc3ccccc13)C[N+](C)(C)C2
+
+Start time at: 2025-12-27 22:21:12.676304
+End time at:   2025-12-27 22:21:24.883990
+Total time at: 0:00:12.207686

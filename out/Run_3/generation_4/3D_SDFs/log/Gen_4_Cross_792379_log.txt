@@ -1,0 +1,78 @@
+Loading molecules from Gen_4_Cross_792379.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_792379)
+            Mol #0: [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCCC2N=[N+]=[N-]
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_792379)
+            Mol #0: [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCCC2N=[N+]=[N-]
+Generating tautomers for all molecules...
+    [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCCC2N=[N+]=[N-] has tautomers.
+    [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCCC2N=[N+]=[N-] ==>
+        [N-]=[N+]=NCCNC(O)=c1ccc2c(c1)CCCC=2N=[N+]=[N-] (tautomer transformation
+        on Gen_4_Cross_792379) changed the molecules total number of specified
+        chiral centers from 1 to 0, so I'm deleting it.
+    [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCCC2N=[N+]=[N-] ==>
+        [N-]=[N+]=NCCN=C(O)c1ccc2c(c1)CCCC2=N[NH+]=[N-] (tautomer transformation
+        on Gen_4_Cross_792379) changed the molecules total number of specified
+        chiral centers from 1 to 0, so I'm deleting it.
+    [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCCC2N=[N+]=[N-] ==>
+        [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCCC2=N[NH+]=[N-] (tautomer transformation
+        on Gen_4_Cross_792379) changed the molecules total number of specified
+        chiral centers from 1 to 0, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_792379)
+            Mol #0: [N-]=[N+]=NCCN=C(O)c1ccc2c(c1)CCCC2N=[N+]=[N-]
+            Mol #1: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCCC2N=[N+]=[N-]
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_792379)
+            Mol #0: [N-]=[N+]=NCCN=C(O)c1ccc2c(c1)CCCC2N=[N+]=[N-]
+            Mol #1: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCCC2N=[N+]=[N-]
+Enumerating all possible enantiomers for all molecules...
+    [N-]=[N+]=NCCN=C(O)c1ccc2c(c1)CCCC2N=[N+]=[N-] (Gen_4_Cross_792379) has 2
+        enantiomers when chiral centers with no specified chirality are
+        systematically varied.
+    [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCCC2N=[N+]=[N-] (Gen_4_Cross_792379) has 2
+        enantiomers when chiral centers with no specified chirality are
+        systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_792379)
+            Mol #0: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-]
+            Mol #1: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@@H]2N=[N+]=[N-]
+            Mol #2: [N-]=[N+]=NCCN=C(O)c1ccc2c(c1)CCC[C@@H]2N=[N+]=[N-]
+            Mol #3: [N-]=[N+]=NCCN=C(O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-]
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-] has 5 double bond(s) with
+        unspecified stereochemistry.
+    [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@@H]2N=[N+]=[N-] has 5 double bond(s)
+        with unspecified stereochemistry.
+    [N-]=[N+]=NCCN=C(O)c1ccc2c(c1)CCC[C@@H]2N=[N+]=[N-] has 5 double bond(s)
+        with unspecified stereochemistry.
+    [N-]=[N+]=NCCN=C(O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-] has 5 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_792379)
+            Mol #0: [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCC[C@@H]2N=[N+]=[N-]
+            Mol #1: [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-]
+            Mol #2: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@@H]2N=[N+]=[N-]
+            Mol #3: [N-]=[N+]=NCC/N=C(/O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-]
+            Mol #4: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-]
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_792379)
+            Mol #0: [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-]
+            Mol #1: [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCC[C@@H]2N=[N+]=[N-]
+            Mol #2: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-]
+            Mol #3: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@@H]2N=[N+]=[N-]
+            Mol #4: [N-]=[N+]=NCCNC(=O)c1ccc2c(c1)CCC[C@H]2N=[N+]=[N-]
+Saving molecules associated with...
+    [N-]=[N+]=NCC/N=C(\O)c1ccc2c(c1)CCCC2N=[N+]=[N-]
+
+Start time at: 2025-12-27 22:22:07.086710
+End time at:   2025-12-27 22:22:12.399980
+Total time at: 0:00:05.313270

@@ -1,0 +1,79 @@
+Loading molecules from Gen_4_Mutant_5_429087.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_429087)
+            Mol #0: CC(C)=NNC(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)nn1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_429087)
+            Mol #0: CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+][nH+]1
+            Mol #1: CC(C)=N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)n[nH+]1
+            Mol #2: CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)nn1
+            Mol #3: CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+]n1
+            Mol #4:
+                CC(C)=N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)[nH+][nH+]1
+Generating tautomers for all molecules...
+    CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+][nH+]1 has tautomers.
+    CC(C)=N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)n[nH+]1 has tautomers.
+    CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)nn1 has tautomers.
+    CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+]n1 has tautomers.
+    CC(C)=N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)[nH+][nH+]1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_429087)
+            Mol #0: CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+]n1
+            Mol #1:
+                C=C(C)N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)[nH+][nH+]1
+            Mol #2: C=C(C)N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)nn1
+            Mol #3: C=C(C)N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)n[nH+]1
+            Mol #4: C=C(C)N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+][nH+]1
+Applying Durrant-lab filters to all molecules...
+    C=C(C)N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)[nH+][nH+]1, a variant
+        generated from CC(C)=NNC(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)nn1
+        (Gen_4_Mutant_5_429087), contains a prohibited substructure, so I'm
+        discarding it.
+    C=C(C)N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+][nH+]1, a variant
+        generated from CC(C)=NNC(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)nn1
+        (Gen_4_Mutant_5_429087), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_429087)
+            Mol #0: C=C(C)N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)nn1
+            Mol #1: C=C(C)N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)n[nH+]1
+            Mol #2: CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+]n1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_429087)
+            Mol #0: C=C(C)N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)nn1
+            Mol #1: C=C(C)N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)n[nH+]1
+            Mol #2: CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+]n1
+Enumerating all possible cis-trans isomers for all molecules...
+    C=C(C)N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)nn1 has 3 double bond(s) with
+        unspecified stereochemistry.
+    C=C(C)N[N-]C(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)n[nH+]1 has 3 double
+        bond(s) with unspecified stereochemistry.
+    CC(C)=N[N-]C(=O)CCn1cc(CCOC(O)=Cc2cccc3ccccc23)[nH+]n1 has 3 double bond(s)
+        with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_429087)
+            Mol #0: CC(C)=N[N-]C(=O)CCn1cc(CCO/C(O)=C\c2cccc3ccccc23)[nH+]n1
+            Mol #1: C=C(C)N[N-]C(=O)CCn1cc(CCO/C(O)=C/c2cccc3ccccc23)nn1
+            Mol #2: C=C(C)N[N-]C(=O)CCn1cc(CCO/C(O)=C\c2cccc3ccccc23)nn1
+            Mol #3: C=C(C)N[N-]C(=O)CCn1cc(CCO/C([O-])=C/c2cccc3ccccc23)n[nH+]1
+            Mol #4: C=C(C)N[N-]C(=O)CCn1cc(CCO/C([O-])=C\c2cccc3ccccc23)n[nH+]1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_429087)
+            Mol #0: CC(C)=N[N-]C(=O)CCn1cc(CCO/C(O)=C\c2cccc3ccccc23)[nH+]n1
+            Mol #1: C=C(C)N[N-]C(=O)CCn1cc(CCO/C(O)=C\c2cccc3ccccc23)nn1
+            Mol #2: C=C(C)N[N-]C(=O)CCn1cc(CCO/C(O)=C/c2cccc3ccccc23)nn1
+            Mol #3: C=C(C)N[N-]C(=O)CCn1cc(CCO/C([O-])=C/c2cccc3ccccc23)n[nH+]1
+            Mol #4: C=C(C)N[N-]C(=O)CCn1cc(CCO/C([O-])=C\c2cccc3ccccc23)n[nH+]1
+Saving molecules associated with...
+    CC(C)=NNC(=O)CCn1cc(CCOC([O-])=Cc2cccc3ccccc23)nn1
+
+Start time at: 2025-12-27 22:21:23.293208
+End time at:   2025-12-27 22:21:34.517336
+Total time at: 0:00:11.224128

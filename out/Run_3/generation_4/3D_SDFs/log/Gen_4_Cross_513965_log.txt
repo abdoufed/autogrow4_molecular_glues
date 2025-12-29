@@ -1,0 +1,180 @@
+Loading molecules from Gen_4_Cross_513965.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_513965)
+            Mol #0:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N
+                -]
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_513965)
+            Mol #0:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+]nc(N=[N+]=[N-])o1)CCC2N=[N+]=[N
+                -]
+            Mol #1:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1nnc(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+            Mol #2: C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+][nH+]c(N=[N+]=[N-])o1)CCC2N
+                =[N+]=[N-]
+            Mol #3:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N
+                -]
+Generating tautomers for all molecules...
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+]nc(N=[N+]=[N-])o1)CCC2N=[N+]=[N-] has
+        tautomers.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1nnc(N=[N+]=[N-])o1)CCC2N=[N+]=[N-] has
+        tautomers.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+][nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-] has
+        tautomers.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-] has
+        tautomers.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1[NH2+]N=C(N=[N+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1[NH+]=NC(=N[NH+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(C1=[N+]=NC(=N[NH+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1NN=C(N=[N+]=[N-])O1)CCC2N=[N+]=[N-], a tautomer
+        generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1N=NC(=N[NH+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1[NH2+][NH+]=C(N=[N+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1[NH+]=[NH+]C(=N[NH+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(C1=[N+]=[NH+]C(=N[NH+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1[NH+]=[N+]=C(N[NH+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1N[NH+]=C(N=[N+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1N=[NH+]C(=N[NH+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(=C1N=[N+]=C(N[NH+]=[N-])O1)CCC2N=[N+]=[N-], a
+        tautomer generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), broke an aromatic ring, so I'm discarding it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-] ==>
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1nnc(N[NH+]=[N-])o1)=CCC2N=[N+]=[N-]
+        (tautomer transformation on Gen_4_Cross_513965) changed the molecules
+        total number of specified chiral centers from 2 to 1, so I'm deleting
+        it.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-] ==>
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH]c(=N[NH+]=[N-])o1)=CCC2N=[N+]=[N-]
+        (tautomer transformation on Gen_4_Cross_513965) changed the molecules
+        total number of specified chiral centers from 2 to 1, so I'm deleting
+        it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_513965)
+            Mol #0:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+]nc(N=[N+]=[N-])o1)CCC2N=[N+]=[N
+                -]
+            Mol #1:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1nnc(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+            Mol #2: C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+][nH+]c(N=[N+]=[N-])o1)CCC2N
+                =[N+]=[N-]
+            Mol #3:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N
+                -]
+Applying Durrant-lab filters to all molecules...
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+][nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-], a
+        variant generated from
+        C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_513965)
+            Mol #0:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+]nc(N=[N+]=[N-])o1)CCC2N=[N+]=[N
+                -]
+            Mol #1:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1nnc(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+            Mol #2:
+                C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N
+                -]
+Enumerating all possible enantiomers for all molecules...
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1[nH+]nc(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1nnc(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+        (Gen_4_Cross_513965) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_513965)
+            Mol #0: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1n[nH+]c(N=[N+]=[N-])o1)CC[C
+                @H]2N=[N+]=[N-]
+            Mol #1: C#CCS(=O)(=O)c1ccc2c(c1)[C@H](c1n[nH+]c(N=[N+]=[N-])o1)CC[C@
+                @H]2N=[N+]=[N-]
+            Mol #2: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@H]2
+                N=[N+]=[N-]
+            Mol #3: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@@H]
+                2N=[N+]=[N-]
+            Mol #4: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1[nH+]nc(N=[N+]=[N-])o1)CC[C
+                @H]2N=[N+]=[N-]
+Enumerating all possible cis-trans isomers for all molecules...
+    C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1n[nH+]c(N=[N+]=[N-])o1)CC[C@H]2N=[N+]=[N-]
+        has 6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)c1ccc2c(c1)[C@H](c1n[nH+]c(N=[N+]=[N-])o1)CC[C@@H]2N=[N+]=[N-]
+        has 6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@H]2N=[N+]=[N-] has
+        6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@@H]2N=[N+]=[N-] has
+        6 double bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_513965)
+            Mol #0: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1[nH+]nc(N=[N+]=[N-])o1)CC[C
+                @H]2N=[N+]=[N-]
+            Mol #1: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@@H]
+                2N=[N+]=[N-]
+            Mol #2: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1n[nH+]c(N=[N+]=[N-])o1)CC[C
+                @H]2N=[N+]=[N-]
+            Mol #3: C#CCS(=O)(=O)c1ccc2c(c1)[C@H](c1n[nH+]c(N=[N+]=[N-])o1)CC[C@
+                @H]2N=[N+]=[N-]
+            Mol #4: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@H]2
+                N=[N+]=[N-]
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_513965)
+            Mol #0: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@@H]
+                2N=[N+]=[N-]
+            Mol #1: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@H]2
+                N=[N+]=[N-]
+            Mol #2: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@H]2
+                N=[N+]=[N-]
+            Mol #3: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@H]2
+                N=[N+]=[N-]
+            Mol #4: C#CCS(=O)(=O)c1ccc2c(c1)[C@@H](c1nnc(N=[N+]=[N-])o1)CC[C@H]2
+                N=[N+]=[N-]
+Saving molecules associated with...
+    C#CCS(=O)(=O)c1ccc2c(c1)C(c1n[nH+]c(N=[N+]=[N-])o1)CCC2N=[N+]=[N-]
+
+Start time at: 2025-12-27 22:21:59.933699
+End time at:   2025-12-27 22:22:08.342977
+Total time at: 0:00:08.409278

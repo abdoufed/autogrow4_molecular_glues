@@ -1,0 +1,136 @@
+Loading molecules from Gen_4_Cross_982798.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_982798)
+            Mol #0: C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_982798)
+            Mol #0: C[C@@H]([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[C@@H](N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #2:
+                C[C@@H]([NH3+])C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #3: C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+Generating tautomers for all molecules...
+    C[C@@H]([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has tautomers.
+    C[C@@H](N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has tautomers.
+    C[C@@H]([NH3+])C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has tautomers.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has tautomers.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC([NH3+])=C(O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 0, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC([NH3+])C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(=[NH2+])C(O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(N)=C(O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 0, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(=N)C(O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(N)C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC([NH3+])=C(O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 0, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC([NH3+])C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(=[NH2+])C(O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(N)=C(O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 0, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        CC(=N)C(O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] ==>
+        C=C(N)C(O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] (tautomer
+        transformation on Gen_4_Cross_982798) changed the molecules total number
+        of specified chiral centers from 2 to 1, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_982798)
+            Mol #0: C[C@@H](N)C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[C@@H]([NH3+])C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #3: C[C@@H]([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #4: C[C@@H](N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_982798)
+            Mol #0: C[C@@H](N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[C@@H](N)C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[C@@H]([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #3: C[C@@H]([NH3+])C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #4: C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_982798)
+            Mol #0: C[C@@H](N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[C@@H](N)C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[C@@H]([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #3: C[C@@H]([NH3+])C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #4: C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+Enumerating all possible cis-trans isomers for all molecules...
+    C[C@@H](N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has 4 double bond(s)
+        with unspecified stereochemistry.
+    C[C@@H](N)C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has 4 double bond(s)
+        with unspecified stereochemistry.
+    C[C@@H]([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has 4 double
+        bond(s) with unspecified stereochemistry.
+    C[C@@H]([NH3+])C(O)=NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has 4 double
+        bond(s) with unspecified stereochemistry.
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-] has 4 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_982798)
+            Mol #0: C[C@@H](N)/C(O)=N/COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[C@@H]([NH3+])/C(O)=N\COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[C@@H](N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #3: C[C@@H](N)/C(O)=N\COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #4: C[C@@H]([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_982798)
+            Mol #0: C[C@@H](N)/C(O)=N/COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[C@@H](N)/C(O)=N\COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[C@@H](N)C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #3: C[C@@H]([NH3+])/C(O)=N\COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+            Mol #4: C[C@@H]([NH3+])C(=O)NCOC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+Saving molecules associated with...
+    C[C@@H](N)C(=O)[N-]COC(=O)Oc1cc2ccccc2c(Cl)c1N=[N+]=[N-]
+
+Start time at: 2025-12-27 22:22:01.913713
+End time at:   2025-12-27 22:22:07.599623
+Total time at: 0:00:05.685910

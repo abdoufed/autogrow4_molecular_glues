@@ -1,0 +1,78 @@
+Loading molecules from Gen_4_Cross_93671.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_93671)
+            Mol #0: C#CCS(=O)(=O)C1CC(N=[N+]=[N-])C:C2C=C3C[N+](C)(C)CC3=CC21
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_93671)
+            Mol #0: C#CCS(=O)(=O)C1CC(N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=CC21
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_93671)
+            Mol #0: C#CCS(=O)(=O)C1CC(N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=CC21
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_93671)
+            Mol #0: C#CCS(=O)(=O)C1CC(N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=CC21
+Enumerating all possible enantiomers for all molecules...
+    C#CCS(=O)(=O)C1CC(N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=CC21
+        (Gen_4_Cross_93671) has 8 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_93671)
+            Mol #0: C#CCS(=O)(=O)[C@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@H]21
+            Mol #1: C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@H]21
+            Mol #2: C#CCS(=O)(=O)[C@@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)C
+                C3=C[C@H]21
+            Mol #3: C#CCS(=O)(=O)[C@@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)C
+                C3=C[C@@H]21
+            Mol #4: C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@@H]21
+Enumerating all possible cis-trans isomers for all molecules...
+    C#CCS(=O)(=O)[C@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=C[C@H]21 has 4
+        double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=C[C@H]21 has 4
+        double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=C[C@H]21 has
+        4 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=C[C@@H]21 has
+        4 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC3=C[C@@H]21 has
+        4 double bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_93671)
+            Mol #0: C#CCS(=O)(=O)[C@@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)C
+                C3=C[C@H]21
+            Mol #1: C#CCS(=O)(=O)[C@@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)C
+                C3=C[C@@H]21
+            Mol #2: C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@H]21
+            Mol #3: C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@@H]21
+            Mol #4: C#CCS(=O)(=O)[C@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@H]21
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_93671)
+            Mol #0: C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@H]21
+            Mol #1: C#CCS(=O)(=O)[C@@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)C
+                C3=C[C@@H]21
+            Mol #2: C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@@H]21
+            Mol #3: C#CCS(=O)(=O)[C@H]1C[C@@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@H]21
+            Mol #4: C#CCS(=O)(=O)[C@@H]1C[C@H](N=[N+]=[N-])C=C2C=C3C[N+](C)(C)CC
+                3=C[C@@H]21
+Saving molecules associated with...
+    C#CCS(=O)(=O)C1CC(N=[N+]=[N-])C:C2C=C3C[N+](C)(C)CC3=CC21
+
+Start time at: 2025-12-27 22:22:06.357715
+End time at:   2025-12-27 22:22:13.926739
+Total time at: 0:00:07.569024

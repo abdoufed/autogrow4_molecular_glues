@@ -1,0 +1,41 @@
+Loading molecules from Gen_4_Cross_362643.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_362643)
+            Mol #0: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_362643)
+            Mol #0: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_362643)
+            Mol #0: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_362643)
+            Mol #0: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_362643)
+            Mol #0: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_362643)
+            Mol #0: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_362643)
+            Mol #0: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+            Mol #1: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+            Mol #2: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+            Mol #3: C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+Saving molecules associated with...
+    C[N+]1(C)Cc2cc3ccccc3c(N)c2C1
+
+Start time at: 2025-12-27 22:21:51.111665
+End time at:   2025-12-27 22:21:51.768756
+Total time at: 0:00:00.657091

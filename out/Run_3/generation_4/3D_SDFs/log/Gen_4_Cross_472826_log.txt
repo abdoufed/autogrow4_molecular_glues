@@ -1,0 +1,103 @@
+Loading molecules from Gen_4_Cross_472826.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_472826)
+            Mol #0: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)nn1)C(N=[N+]=
+                [N-])CCC2
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_472826)
+            Mol #0: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)nn1)C(N=[N+]=
+                [N-])CCC2
+            Mol #1: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)C(N=[
+                N+]=[N-])CCC2
+            Mol #2: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)[nH+]n1)C(N=[
+                N+]=[N-])CCC2
+            Mol #3: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)[nH+][nH+]1)C
+                (N=[N+]=[N-])CCC2
+Generating tautomers for all molecules...
+    C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)nn1)C(N=[N+]=[N-])CCC2 has
+        tautomers.
+    C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)C(N=[N+]=[N-])CCC2
+        has tautomers.
+    C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)[nH+]n1)C(N=[N+]=[N-])CCC2
+        has tautomers.
+    C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)[nH+][nH+]1)C(N=[N+]=[N-])CCC
+        2 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_472826)
+            Mol #0: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)C(N=[
+                N+]=[N-])CCC2
+            Mol #1: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)[nH+][nH+]1)C
+                (N=[N+]=[N-])CCC2
+            Mol #2: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)n[nH+]1)C(N=[
+                N+]=[N-])CCC=2
+            Mol #3: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)[nH+][nH+]1)C
+                (N=[N+]=[N-])CCC=2
+            Mol #4: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)nn1)C(N=[N+]=
+                [N-])CCC=2
+Applying Durrant-lab filters to all molecules...
+    C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)[nH+][nH+]1)C(N=[N+]=[N-])CCC
+        2, a variant generated from
+        C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)nn1)C(N=[N+]=[N-])CCC2
+        (Gen_4_Cross_472826), contains a prohibited substructure, so I'm
+        discarding it.
+    C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)[nH+][nH+]1)C(N=[N+]=[N-])CCC
+        =2, a variant generated from
+        C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)nn1)C(N=[N+]=[N-])CCC2
+        (Gen_4_Cross_472826), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_472826)
+            Mol #0: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)C(N=[
+                N+]=[N-])CCC2
+            Mol #1: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)nn1)C(N=[N+]=
+                [N-])CCC=2
+            Mol #2: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)n[nH+]1)C(N=[
+                N+]=[N-])CCC=2
+Enumerating all possible enantiomers for all molecules...
+    C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)C(N=[N+]=[N-])CCC2
+        (Gen_4_Cross_472826) has 2 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)nn1)C(N=[N+]=[N-])CCC=2
+        (Gen_4_Cross_472826) has 2 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)n[nH+]1)C(N=[N+]=[N-])CCC=2
+        (Gen_4_Cross_472826) has 2 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_472826)
+            Mol #0: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)n[nH+]1)[C@H]
+                (N=[N+]=[N-])CCC=2
+            Mol #1: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)[C@H]
+                (N=[N+]=[N-])CCC2
+            Mol #2: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)nn1)[C@H](N=[
+                N+]=[N-])CCC=2
+            Mol #3: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)nn1)[C@@H](N=
+                [N+]=[N-])CCC=2
+            Mol #4: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)[C@@H
+                ](N=[N+]=[N-])CCC2
+Enumerating all possible cis-trans isomers for all molecules...
+    C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)n[nH+]1)[C@H](N=[N+]=[N-])CCC
+        =2 has 5 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)[C@H](N=[N+]=[N-])CCC
+        2 has 5 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)nn1)[C@H](N=[N+]=[N-])CCC=2
+        has 5 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)nn1)[C@@H](N=[N+]=[N-])CCC=2
+        has 5 double bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_472826)
+            Mol #0: C#CCS(=O)(=O)c1cc2c(c/c1=C(/O)n1cc(CC3(O)CCCCCC3)nn1)[C@H](N
+                =[N+]=[N-])CCC=2
+            Mol #1: C#CCS(=O)(=O)c1cc2c(c/c1=C(/O)n1cc(CC3(O)CCCCCC3)n[nH+]1)[C@
+                H](N=[N+]=[N-])CCC=2
+            Mol #2: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)[C@H]
+                (N=[N+]=[N-])CCC2
+            Mol #3: C#CCS(=O)(=O)c1cc2c(cc1C(=O)n1cc(CC3(O)CCCCCC3)n[nH+]1)[C@@H
+                ](N=[N+]=[N-])CCC2
+            Mol #4: C#CCS(=O)(=O)c1cc2c(cc1=C(O)n1cc(CC3(O)CCCCCC3)nn1)[C@@H](N=
+                [N+]=[N-])CCC=2
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...

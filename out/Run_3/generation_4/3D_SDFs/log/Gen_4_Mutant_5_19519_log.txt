@@ -1,0 +1,95 @@
+Loading molecules from Gen_4_Mutant_5_19519.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_19519)
+            Mol #0:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_19519)
+            Mol #0:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+]n2)[C@@H](O)[C@@
+                H]1O
+            Mol #1:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+            Mol #2:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)n[nH+]2)[C@@H](O)[C@@
+                H]1O
+            Mol #3: CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+][nH+]2)[C@@H
+                ](O)[C@@H]1O
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_19519)
+            Mol #0:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+]n2)[C@@H](O)[C@@
+                H]1O
+            Mol #1:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+            Mol #2:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)n[nH+]2)[C@@H](O)[C@@
+                H]1O
+            Mol #3: CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+][nH+]2)[C@@H
+                ](O)[C@@H]1O
+Applying Durrant-lab filters to all molecules...
+    CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+][nH+]2)[C@@H](O)[C@@H]1O, a
+        variant generated from
+        CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+        (Gen_4_Mutant_5_19519), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_19519)
+            Mol #0:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+]n2)[C@@H](O)[C@@
+                H]1O
+            Mol #1:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+            Mol #2:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)n[nH+]2)[C@@H](O)[C@@
+                H]1O
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_19519)
+            Mol #0:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+]n2)[C@@H](O)[C@@
+                H]1O
+            Mol #1:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+            Mol #2:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)n[nH+]2)[C@@H](O)[C@@
+                H]1O
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_19519)
+            Mol #0:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+]n2)[C@@H](O)[C@@
+                H]1O
+            Mol #1:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+            Mol #2:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)n[nH+]2)[C@@H](O)[C@@
+                H]1O
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_19519)
+            Mol #0:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+            Mol #1:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)[nH+]n2)[C@@H](O)[C@@
+                H]1O
+            Mol #2:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)n[nH+]2)[C@@H](O)[C@@
+                H]1O
+            Mol #3:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+            Mol #4:
+                CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)n[nH+]2)[C@@H](O)[C@@
+                H]1O
+Saving molecules associated with...
+    CO[C@H]1OC[C@@H](n2cc(CCOc3ccc4ccccc4c3C=O)nn2)[C@@H](O)[C@@H]1O
+
+Start time at: 2025-12-27 22:21:07.111513
+End time at:   2025-12-27 22:21:15.270544
+Total time at: 0:00:08.159031

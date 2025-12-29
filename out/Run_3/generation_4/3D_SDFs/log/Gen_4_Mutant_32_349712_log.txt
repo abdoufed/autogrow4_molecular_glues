@@ -1,0 +1,201 @@
+Loading molecules from Gen_4_Mutant_32_349712.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_349712)
+            Mol #0: COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_349712)
+            Mol #0: COC(=O)c1sccc1NC(=S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+            Mol #1: COC(=O)c1sccc1NC(=S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+            Mol #2:
+                COC(=O)c1sccc1[NH2+]C(=S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+            Mol #3: COC(=O)c1sccc1[NH2+]C(=S)N1NC(C=NN=N)OC1c1cccc2ccccc12
+            Mol #4: COC(=O)c1sccc1[NH2+]C(=S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+Generating tautomers for all molecules...
+    COC(=O)c1sccc1NC(=S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12 has tautomers.
+    COC(=O)c1sccc1NC(=S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12 has tautomers.
+    COC(=O)c1sccc1[NH2+]C(=S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12 has
+        tautomers.
+    COC(=O)c1sccc1[NH2+]C(=S)N1NC(C=NN=N)OC1c1cccc2ccccc12 has tautomers.
+    COC(=O)c1sccc1[NH2+]C(=S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12 has tautomers.
+    COC(O)=C1SC=CC1=NC(=S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=NC(=S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=NC(=S)N1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(=O)C1SC=CC1=NC(=S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=[NH+]C(=S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=[NH+]C(=S)N1NC(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=[N+]=C(S)N1NC(C=NN=N)OC1c1cccc2ccccc12, a tautomer generated
+        from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=[NH+]C(=S)N1NC(=CNN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(=O)C1SC=CC1=[NH+]C(=S)N1NC(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=[NH+]C(=S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=[N+]=C(S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(O)=C1SC=CC1=[NH+]C(=S)N1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(=O)C1SC=CC1=[NH+]C(=S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12, a tautomer
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), broke an aromatic ring, so I'm discarding it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1NC(=S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 3, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1N=C(S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 3, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1NC(=S)N1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1N=C(S)N1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1NC(=S)N1[NH+]=C(CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1NC(=S)N1[NH2+]C(=CN=NN)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH2+]C(=S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+        (tautomer transformation on Gen_4_Mutant_32_349712) changed the
+        molecules total number of specified chiral centers from 2 to 3, so I'm
+        deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH+]=C(S)[NH+]1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 3, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH2+]C(=S)N1NC(=CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH+]=C(S)N1NC(=CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH2+]C(=S)N1N=C(CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH2+]C(=S)N1NC(=CN=NN)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH2+]C(=S)N1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH+]=C(S)N1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH2+]C(=S)N1[NH+]=C(CNN=N)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12 ==>
+        COC(=O)c1sccc1[NH2+]C(=S)N1[NH2+]C(=CN=NN)OC1c1cccc2ccccc12 (tautomer
+        transformation on Gen_4_Mutant_32_349712) changed the molecules total
+        number of specified chiral centers from 2 to 1, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_349712)
+            Mol #0: COC(=O)c1sccc1N=C(S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+            Mol #1: COC(=O)c1sccc1[NH+]=C(S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+            Mol #2: COC(=O)c1sccc1[NH2+]C(=S)N1NC(C=NN=N)OC1c1cccc2ccccc12
+            Mol #3: COC(=O)c1sccc1NC(=S)[NH+]1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12
+            Mol #4:
+                COC(=O)c1sccc1[NH2+]C(=S)[NH+]1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12
+Applying Durrant-lab filters to all molecules...
+    COC(=O)c1sccc1NC(=S)[NH+]1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12, a variant
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), contains a prohibited substructure, so I'm
+        discarding it.
+    COC(=O)c1sccc1[NH2+]C(=S)[NH+]1[NH2+]C(=CNN=N)OC1c1cccc2ccccc12, a variant
+        generated from COC(=O)c1sccc1NC(=S)N1NC(C=N[NH+]=[N-])OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_349712)
+            Mol #0: COC(=O)c1sccc1[NH2+]C(=S)N1NC(C=NN=N)OC1c1cccc2ccccc12
+            Mol #1: COC(=O)c1sccc1N=C(S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+            Mol #2: COC(=O)c1sccc1[NH+]=C(S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+Enumerating all possible enantiomers for all molecules...
+    COC(=O)c1sccc1[NH2+]C(=S)N1NC(C=NN=N)OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    COC(=O)c1sccc1N=C(S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    COC(=O)c1sccc1[NH+]=C(S)N1[NH2+]C(C=NN=N)OC1c1cccc2ccccc12
+        (Gen_4_Mutant_32_349712) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_349712)
+            Mol #0:
+                COC(=O)c1sccc1[NH+]=C(S)N1[NH2+][C@H](C=NN=N)O[C@@H]1c1cccc2cccc
+                c12
+            Mol #1:
+                COC(=O)c1sccc1[NH2+]C(=S)N1N[C@H](C=NN=N)O[C@H]1c1cccc2ccccc12
+            Mol #2:
+                COC(=O)c1sccc1[NH+]=C(S)N1[NH2+][C@H](C=NN=N)O[C@H]1c1cccc2ccccc
+                12
+            Mol #3:
+                COC(=O)c1sccc1[NH2+]C(=S)N1N[C@@H](C=NN=N)O[C@@H]1c1cccc2ccccc12
+            Mol #4:
+                COC(=O)c1sccc1[NH+]=C(S)N1[NH2+][C@@H](C=NN=N)O[C@@H]1c1cccc2ccc
+                cc12
+Enumerating all possible cis-trans isomers for all molecules...
+    COC(=O)c1sccc1[NH+]=C(S)N1[NH2+][C@H](C=NN=N)O[C@@H]1c1cccc2ccccc12 has 4
+        double bond(s) with unspecified stereochemistry.
+    COC(=O)c1sccc1[NH2+]C(=S)N1N[C@H](C=NN=N)O[C@H]1c1cccc2ccccc12 has 4 double
+        bond(s) with unspecified stereochemistry.
+    COC(=O)c1sccc1[NH+]=C(S)N1[NH2+][C@H](C=NN=N)O[C@H]1c1cccc2ccccc12 has 4
+        double bond(s) with unspecified stereochemistry.
+    COC(=O)c1sccc1[NH2+]C(=S)N1N[C@@H](C=NN=N)O[C@@H]1c1cccc2ccccc12 has 4
+        double bond(s) with unspecified stereochemistry.
+    COC(=O)c1sccc1[NH+]=C(S)N1[NH2+][C@@H](C=NN=N)O[C@@H]1c1cccc2ccccc12 has 4
+        double bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_32_349712)
+            Mol #0: [H]/N=N/N=C\[C@H]1NN(C(=S)[NH2+]c2ccsc2C(=O)OC)[C@H](c2cccc3
+                ccccc23)O1
+            Mol #1: [H]/N=N\N=C/[C@H]1NN(C(=S)[NH2+]c2ccsc2C(=O)OC)[C@H](c2cccc3
+                ccccc23)O1
+            Mol #2: [H]/N=N/N=C/[C@H]1[NH2+]N(/C(S)=[NH+]/c2ccsc2C(=O)OC)[C@@H](
+                c2cccc3ccccc23)O1
+            Mol #3: [H]/N=N\N=C\[C@@H]1[NH2+]N(/C(S)=[NH+]\c2ccsc2C(=O)OC)[C@@H]
+                (c2cccc3ccccc23)O1
+            Mol #4: [H]/N=N\N=C\[C@@H]1NN(C(=S)[NH2+]c2ccsc2C(=O)OC)[C@@H](c2ccc
+                c3ccccc23)O1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Warning: Could not calculate energy for molecule [H]/N=N/N=C(\[H])[C@]1([H])O[C@
+    ]([H])(c2c([H])c([H])c([H])c3c([H])c([H])c([H])c([H])c23)N(/C(S[H])=[N+](\[H
+    ])c2c(C(=O)OC([H])([H])[H])sc([H])c2[H])[N+]1([H])[H]

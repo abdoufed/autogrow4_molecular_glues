@@ -1,0 +1,38 @@
+Loading molecules from Gen_4_Mutant_11_761660.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_761660)
+            Mol #0: Nc1cc2ccc3ccccc3c2oc1=O
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_761660)
+            Mol #0: Nc1cc2ccc3ccccc3c2oc1=O
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_761660)
+            Mol #0: Nc1cc2ccc3ccccc3c2oc1=O
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_761660)
+            Mol #0: Nc1cc2ccc3ccccc3c2oc1=O
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_761660)
+            Mol #0: Nc1cc2ccc3ccccc3c2oc1=O
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_761660)
+            Mol #0: Nc1cc2ccc3ccccc3c2oc1=O
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_761660)
+            Mol #0: Nc1cc2ccc3ccccc3c2oc1=O
+Saving molecules associated with...
+    Nc1cc2ccc3ccccc3c2oc1=O
+
+Start time at: 2025-12-27 22:21:24.885271
+End time at:   2025-12-27 22:21:25.200477
+Total time at: 0:00:00.315206

@@ -1,0 +1,61 @@
+Loading molecules from Gen_4_Cross_601635.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_601635)
+            Mol #0: [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_601635)
+            Mol #0: [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1
+            Mol #1: [N-]=[N+]=Nc1[nH+][nH+]c(-c2ccc3ccccc3c2)o1
+            Mol #2: [N-]=[N+]=Nc1nnc(-c2ccc3ccccc3c2)o1
+            Mol #3: [N-]=[N+]=Nc1n[nH+]c(-c2ccc3ccccc3c2)o1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_601635)
+            Mol #0: [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1
+            Mol #1: [N-]=[N+]=Nc1[nH+][nH+]c(-c2ccc3ccccc3c2)o1
+            Mol #2: [N-]=[N+]=Nc1nnc(-c2ccc3ccccc3c2)o1
+            Mol #3: [N-]=[N+]=Nc1n[nH+]c(-c2ccc3ccccc3c2)o1
+Applying Durrant-lab filters to all molecules...
+    [N-]=[N+]=Nc1[nH+][nH+]c(-c2ccc3ccccc3c2)o1, a variant generated from
+        [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1 (Gen_4_Cross_601635), contains a
+        prohibited substructure, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_601635)
+            Mol #0: [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1
+            Mol #1: [N-]=[N+]=Nc1nnc(-c2ccc3ccccc3c2)o1
+            Mol #2: [N-]=[N+]=Nc1n[nH+]c(-c2ccc3ccccc3c2)o1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_601635)
+            Mol #0: [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1
+            Mol #1: [N-]=[N+]=Nc1nnc(-c2ccc3ccccc3c2)o1
+            Mol #2: [N-]=[N+]=Nc1n[nH+]c(-c2ccc3ccccc3c2)o1
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1 has 2 double bond(s) with
+        unspecified stereochemistry.
+    [N-]=[N+]=Nc1nnc(-c2ccc3ccccc3c2)o1 has 2 double bond(s) with unspecified
+        stereochemistry.
+    [N-]=[N+]=Nc1n[nH+]c(-c2ccc3ccccc3c2)o1 has 2 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_601635)
+            Mol #0: [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1
+            Mol #1: [N-]=[N+]=Nc1nnc(-c2ccc3ccccc3c2)o1
+            Mol #2: [N-]=[N+]=Nc1n[nH+]c(-c2ccc3ccccc3c2)o1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_601635)
+            Mol #0: [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1
+            Mol #1: [N-]=[N+]=Nc1nnc(-c2ccc3ccccc3c2)o1
+            Mol #2: [N-]=[N+]=Nc1n[nH+]c(-c2ccc3ccccc3c2)o1
+Saving molecules associated with...
+    [N-]=[N+]=Nc1[nH+]nc(-c2ccc3ccccc3c2)o1
+
+Start time at: 2025-12-27 22:22:03.895334
+End time at:   2025-12-27 22:22:04.980142
+Total time at: 0:00:01.084808

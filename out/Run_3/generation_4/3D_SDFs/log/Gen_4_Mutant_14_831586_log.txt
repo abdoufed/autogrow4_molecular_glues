@@ -1,0 +1,58 @@
+Loading molecules from Gen_4_Mutant_14_831586.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_831586)
+            Mol #0: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_831586)
+            Mol #0:
+                CCC[C@](C)(C[NH3+])OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #1: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_831586)
+            Mol #0:
+                CCC[C@](C)(C[NH3+])OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #1: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_831586)
+            Mol #0:
+                CCC[C@](C)(C[NH3+])OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #1: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_831586)
+            Mol #0:
+                CCC[C@](C)(C[NH3+])OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #1: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+Enumerating all possible cis-trans isomers for all molecules...
+    CCC[C@](C)(C[NH3+])OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2 has 3 double
+        bond(s) with unspecified stereochemistry.
+    CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2 has 3 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_831586)
+            Mol #0:
+                CCC[C@](C)(C[NH3+])OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #1: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_831586)
+            Mol #0: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #1: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #2:
+                CCC[C@](C)(C[NH3+])OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #3: CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+            Mol #4:
+                CCC[C@](C)(C[NH3+])OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+Saving molecules associated with...
+    CCC[C@](C)(CN)OC(=O)C#Cc1ccc2c(c1)[C@@H](N=[N+]=[N-])CCC2
+
+Start time at: 2025-12-27 22:21:18.535979
+End time at:   2025-12-27 22:21:22.934097
+Total time at: 0:00:04.398118

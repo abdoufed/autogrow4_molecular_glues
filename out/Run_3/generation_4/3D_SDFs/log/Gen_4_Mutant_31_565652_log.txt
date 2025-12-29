@@ -1,0 +1,145 @@
+Loading molecules from Gen_4_Mutant_31_565652.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_565652)
+            Mol #0: [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_565652)
+            Mol #0: [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F
+            Mol #1:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)N[NH+]1C(=O)[N-]c1ccccc1C(F)(F)F
+            Mol #2:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+][NH+]1C(=O)Nc1ccccc1C(F)(F
+                )F
+            Mol #3:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(=O)Nc1ccccc1C(F)(F)F
+            Mol #4:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1ccccc1C(F)(F)
+                F
+Generating tautomers for all molecules...
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F has tautomers.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)N[NH+]1C(=O)[N-]c1ccccc1C(F)(F)F has
+        tautomers.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+][NH+]1C(=O)Nc1ccccc1C(F)(F)F has
+        tautomers.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(=O)Nc1ccccc1C(F)(F)F has
+        tautomers.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F ==>
+        [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)N[NH+]1C(=O)[N-]c1ccccc1C(F)(F)F
+        (tautomer transformation on Gen_4_Mutant_31_565652) changed the
+        molecules total number of specified chiral centers from 2 to 3, so I'm
+        deleting it.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F ==>
+        [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+][NH+]1C(=O)Nc1ccccc1C(F)(F)F
+        (tautomer transformation on Gen_4_Mutant_31_565652) changed the
+        molecules total number of specified chiral centers from 2 to 3, so I'm
+        deleting it.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F ==>
+        [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+][NH+]1C(O)=Nc1ccccc1C(F)(F)F
+        (tautomer transformation on Gen_4_Mutant_31_565652) changed the
+        molecules total number of specified chiral centers from 2 to 3, so I'm
+        deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_565652)
+            Mol #0: [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(O)=Nc1ccccc1C(F)(F)F
+            Mol #1:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(O)=Nc1ccccc1C(F)(F)F
+            Mol #2:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1ccccc1C(F)(F)
+                F
+            Mol #3:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)N[N+]1=C(O)[N-]c1ccccc1C(F)(F)F
+            Mol #4: [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F
+Applying Durrant-lab filters to all molecules...
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)N[N+]1=C(O)[N-]c1ccccc1C(F)(F)F, a variant
+        generated from [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F
+        (Gen_4_Mutant_31_565652), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_565652)
+            Mol #0: [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F
+            Mol #1:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1ccccc1C(F)(F)
+                F
+            Mol #2:
+                [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(O)=Nc1ccccc1C(F)(F)F
+            Mol #3: [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(O)=Nc1ccccc1C(F)(F)F
+Enumerating all possible enantiomers for all molecules...
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F
+        (Gen_4_Mutant_31_565652) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1ccccc1C(F)(F)F
+        (Gen_4_Mutant_31_565652) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)[NH2+]N1C(O)=Nc1ccccc1C(F)(F)F
+        (Gen_4_Mutant_31_565652) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(O)=Nc1ccccc1C(F)(F)F
+        (Gen_4_Mutant_31_565652) has 4 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_565652)
+            Mol #0:
+                [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)
+                F
+            Mol #1: [N-]=[N+]=NC[C@@H]1O[C@@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c
+                1ccccc1C(F)(F)F
+            Mol #2: [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1c
+                cccc1C(F)(F)F
+            Mol #3:
+                [N-]=[N+]=NC[C@@H]1O[C@@H](c2ccc3ccccc3c2)NN1C(O)=Nc1ccccc1C(F)(
+                F)F
+            Mol #4:
+                [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1C(O)=Nc1ccccc1C(F)(F)
+                F
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F has 3
+        double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NC[C@@H]1O[C@@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1ccccc1C(F)(F)F
+        has 3 double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1ccccc1C(F)(F)F
+        has 3 double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NC[C@@H]1O[C@@H](c2ccc3ccccc3c2)NN1C(O)=Nc1ccccc1C(F)(F)F has 3
+        double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1C(O)=Nc1ccccc1C(F)(F)F has 3
+        double bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_565652)
+            Mol #0: [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1c
+                cccc1C(F)(F)F
+            Mol #1:
+                [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1/C(O)=N/c1ccccc1C(F)(
+                F)F
+            Mol #2:
+                [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)
+                F
+            Mol #3:
+                [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1/C(O)=N\c1ccccc1C(F)(
+                F)F
+            Mol #4: [N-]=[N+]=NC[C@@H]1O[C@@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c
+                1ccccc1C(F)(F)F
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_565652)
+            Mol #0:
+                [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)
+                F
+            Mol #1: [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1c
+                cccc1C(F)(F)F
+            Mol #2:
+                [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)NN1/C(O)=N\c1ccccc1C(F)(
+                F)F
+            Mol #3: [N-]=[N+]=NC[C@@H]1O[C@@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c
+                1ccccc1C(F)(F)F
+            Mol #4: [N-]=[N+]=NC[C@H]1O[C@H](c2ccc3ccccc3c2)[NH2+]N1C(=O)[N-]c1c
+                cccc1C(F)(F)F
+Saving molecules associated with...
+    [N-]=[N+]=NCC1OC(c2ccc3ccccc3c2)NN1C(=O)Nc1ccccc1C(F)(F)F
+
+Start time at: 2025-12-27 22:21:03.261909
+End time at:   2025-12-27 22:21:16.263836
+Total time at: 0:00:13.001927

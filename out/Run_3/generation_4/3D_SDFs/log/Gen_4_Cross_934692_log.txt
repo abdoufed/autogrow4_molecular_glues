@@ -1,0 +1,73 @@
+Loading molecules from Gen_4_Cross_934692.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_934692)
+            Mol #0: NC(=O)C1CCCC2C=CC=CC21O
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_934692)
+            Mol #0: [NH-]C(=O)C1CCCC2C=CC=CC21O
+            Mol #1: NC(=O)C1CCCC2C=CC=CC21O
+Generating tautomers for all molecules...
+    [NH-]C(=O)C1CCCC2C=CC=CC21O has tautomers.
+    NC(=O)C1CCCC2C=CC=CC21O has tautomers.
+    NC(=O)C1CCCC2C=CC=CC21O ==> [NH-]C(O)=C1CCCC2C=CC=CC12O (tautomer
+        transformation on Gen_4_Cross_934692) changed the molecules total number
+        of specified chiral centers from 3 to 2, so I'm deleting it.
+    NC(=O)C1CCCC2C=CC=CC21O ==> NC(O)=C1CCCC2C=CC=CC12O (tautomer transformation
+        on Gen_4_Cross_934692) changed the molecules total number of specified
+        chiral centers from 3 to 2, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_934692)
+            Mol #0: [NH-]C(=O)C1CCCC2C=CC=CC21O
+            Mol #1: N=C(O)C1CCCC2C=CC=CC21O
+            Mol #2: [N-]=C(O)C1CCCC2C=CC=CC21O
+            Mol #3: NC(=O)C1CCCC2C=CC=CC21O
+Applying Durrant-lab filters to all molecules...
+    N=C(O)C1CCCC2C=CC=CC21O, a variant generated from NC(=O)C1CCCC2C=CC=CC21O
+        (Gen_4_Cross_934692), contains a prohibited substructure, so I'm
+        discarding it.
+    [N-]=C(O)C1CCCC2C=CC=CC21O, a variant generated from NC(=O)C1CCCC2C=CC=CC21O
+        (Gen_4_Cross_934692), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_934692)
+            Mol #0: [NH-]C(=O)C1CCCC2C=CC=CC21O
+            Mol #1: NC(=O)C1CCCC2C=CC=CC21O
+Enumerating all possible enantiomers for all molecules...
+    [NH-]C(=O)C1CCCC2C=CC=CC21O (Gen_4_Cross_934692) has 8 enantiomers when
+        chiral centers with no specified chirality are systematically varied.
+    NC(=O)C1CCCC2C=CC=CC21O (Gen_4_Cross_934692) has 8 enantiomers when chiral
+        centers with no specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_934692)
+            Mol #0: [NH-]C(=O)[C@H]1CCC[C@@H]2C=CC=C[C@]12O
+            Mol #1: [NH-]C(=O)[C@H]1CCC[C@H]2C=CC=C[C@]21O
+            Mol #2: [NH-]C(=O)[C@@H]1CCC[C@@H]2C=CC=C[C@]21O
+            Mol #3: NC(=O)[C@@H]1CCC[C@H]2C=CC=C[C@]21O
+            Mol #4: NC(=O)[C@@H]1CCC[C@@H]2C=CC=C[C@]21O
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_934692)
+            Mol #0: [NH-]C(=O)[C@H]1CCC[C@@H]2C=CC=C[C@]12O
+            Mol #1: [NH-]C(=O)[C@@H]1CCC[C@@H]2C=CC=C[C@]21O
+            Mol #2: NC(=O)[C@@H]1CCC[C@H]2C=CC=C[C@]21O
+            Mol #3: NC(=O)[C@@H]1CCC[C@@H]2C=CC=C[C@]21O
+            Mol #4: [NH-]C(=O)[C@H]1CCC[C@H]2C=CC=C[C@]21O
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_934692)
+            Mol #0: [NH-]C(=O)[C@H]1CCC[C@@H]2C=CC=C[C@]12O
+            Mol #1: [NH-]C(=O)[C@@H]1CCC[C@@H]2C=CC=C[C@]21O
+            Mol #2: [NH-]C(=O)[C@H]1CCC[C@H]2C=CC=C[C@]21O
+            Mol #3: NC(=O)[C@@H]1CCC[C@H]2C=CC=C[C@]21O
+            Mol #4: NC(=O)[C@@H]1CCC[C@@H]2C=CC=C[C@]21O
+Saving molecules associated with...
+    NC(=O)C1CCCC2C=CC=CC21O
+
+Start time at: 2025-12-27 22:22:01.677734
+End time at:   2025-12-27 22:22:04.643742
+Total time at: 0:00:02.966008

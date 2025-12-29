@@ -1,0 +1,70 @@
+Loading molecules from Gen_4_Cross_417583.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_417583)
+            Mol #0: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_417583)
+            Mol #0: CC[NH+]1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+            Mol #1: CCN1C[C@H](C)C[NH+]1C(=O)C#Cc1ccc2ccccc2c1
+            Mol #2: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+            Mol #3: CC[NH+]1C[C@H](C)C[NH+]1C(=O)C#Cc1ccc2ccccc2c1
+Generating tautomers for all molecules...
+    CCN1C[C@H](C)C[NH+]1C(=O)C#Cc1ccc2ccccc2c1 has tautomers.
+    CC[NH+]1C[C@H](C)C[NH+]1C(=O)C#Cc1ccc2ccccc2c1 has tautomers.
+    CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1 ==>
+        CC[NH+]1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1 (tautomer transformation on
+        Gen_4_Cross_417583) changed the molecules total number of specified
+        chiral centers from 2 to 3, so I'm deleting it.
+    CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1 ==>
+        CCN1C[C@H](C)C[NH+]1C(=O)C#Cc1ccc2ccccc2c1 (tautomer transformation on
+        Gen_4_Cross_417583) changed the molecules total number of specified
+        chiral centers from 2 to 3, so I'm deleting it.
+    CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1 ==>
+        CC[NH+]1C[C@H](C)C[NH+]1C(=O)C#Cc1ccc2ccccc2c1 (tautomer transformation
+        on Gen_4_Cross_417583) changed the molecules total number of specified
+        chiral centers from 2 to 4, so I'm deleting it.
+    CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1 ==>
+        CC[NH+]1C[C@H](C)C[N+]1=C(O)C#Cc1ccc2ccccc2c1 (tautomer transformation
+        on Gen_4_Cross_417583) changed the molecules total number of specified
+        chiral centers from 2 to 3, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_417583)
+            Mol #0: CCN1C[C@H](C)C[N+]1=C(O)C#Cc1ccc2ccccc2c1
+            Mol #1: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_417583)
+            Mol #0: CCN1C[C@H](C)C[N+]1=C(O)C#Cc1ccc2ccccc2c1
+            Mol #1: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_417583)
+            Mol #0: CCN1C[C@H](C)C[N+]1=C(O)C#Cc1ccc2ccccc2c1
+            Mol #1: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    CCN1C[C@H](C)C[N+]1=C(O)C#Cc1ccc2ccccc2c1 has 1 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_417583)
+            Mol #0: CCN1C[C@H](C)C/[N+]1=C(/O)C#Cc1ccc2ccccc2c1
+            Mol #1: CCN1C[C@H](C)C/[N+]1=C(\O)C#Cc1ccc2ccccc2c1
+            Mol #2: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_417583)
+            Mol #0: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+            Mol #1: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+            Mol #2: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+            Mol #3: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+            Mol #4: CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+Saving molecules associated with...
+    CCN1C[C@H](C)CN1C(=O)C#Cc1ccc2ccccc2c1
+
+Start time at: 2025-12-27 22:22:04.072876
+End time at:   2025-12-27 22:22:08.551228
+Total time at: 0:00:04.478352

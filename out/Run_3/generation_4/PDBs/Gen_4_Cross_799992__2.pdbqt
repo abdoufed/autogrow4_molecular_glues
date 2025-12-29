@@ -1,0 +1,37 @@
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_6 
+REMARK    2  A    between atoms: N1_2  and  N2_3 
+REMARK    3  A    between atoms: C2_6  and  C3_8 
+REMARK    4  A    between atoms: C11_16  and  N4_17 
+ROOT
+HETATM    1  N4  LIG X 999      -1.535   2.021   0.644  1.00  0.00    -0.105 NA
+HETATM    2  N5  LIG X 999      -1.275   3.225   0.657  1.00  0.00    -0.167 NA
+HETATM    3  N6  LIG X 999      -1.016   4.427   0.670  1.00  0.00     0.068 N 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C11 LIG X 999      -1.435   1.237  -0.584  1.00  0.00     0.179 C 
+HETATM    5  C10 LIG X 999      -2.040  -0.129  -0.341  1.00  0.00    -0.024 A 
+HETATM    6  C5  LIG X 999      -1.235  -1.270  -0.099  1.00  0.00    -0.049 A 
+HETATM    7  C9  LIG X 999      -3.439  -0.245  -0.262  1.00  0.00     0.010 A 
+HETATM    8  C4  LIG X 999       0.268  -1.227  -0.246  1.00  0.00     0.051 C 
+HETATM    9  C6  LIG X 999      -1.850  -2.503   0.174  1.00  0.00     0.007 A 
+HETATM   10  C3  LIG X 999       0.832   0.199  -0.146  1.00  0.00     0.068 C 
+HETATM   11  C12 LIG X 999       0.029   1.145  -1.053  1.00  0.00     0.048 C 
+HETATM   12  C7  LIG X 999      -3.241  -2.602   0.242  1.00  0.00     0.001 A 
+HETATM   13  C8  LIG X 999      -4.034  -1.475   0.025  1.00  0.00     0.001 A 
+BRANCH  10  14
+HETATM   14  C2  LIG X 999       2.295   0.210  -0.516  1.00  0.00     0.172 C 
+HETATM   15  O1  LIG X 999       2.642   0.032  -1.716  1.00  0.00    -0.291 OA
+BRANCH  14  16
+HETATM   16  C1  LIG X 999       3.324   0.393   0.519  1.00  0.00     0.190 C 
+HETATM   17  N1  LIG X 999       4.580   0.395   0.201  1.00  0.00    -0.165 NA
+BRANCH  17  18
+HETATM   18  N2  LIG X 999       5.585   0.566   1.164  1.00  0.00    -0.177 N 
+HETATM   19  H2  LIG X 999       5.346   0.697   2.174  1.00  0.00     0.214 HD
+HETATM   20  N3  LIG X 999       6.803   0.562   0.810  1.00  0.00    -0.031 N 
+ENDBRANCH  17  18
+ENDBRANCH  14  16
+ENDBRANCH  10  14
+ENDBRANCH   1   4
+TORSDOF 4

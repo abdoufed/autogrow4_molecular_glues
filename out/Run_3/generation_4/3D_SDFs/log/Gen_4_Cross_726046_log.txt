@@ -1,0 +1,48 @@
+Loading molecules from Gen_4_Cross_726046.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_726046)
+            Mol #0: Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_726046)
+            Mol #0: Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12
+            Mol #1: Cc1cc(N=[N+]=[N-])[nH+]c2ccc3ccccc3c12
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_726046)
+            Mol #0: Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12
+            Mol #1: Cc1cc(N=[N+]=[N-])[nH+]c2ccc3ccccc3c12
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_726046)
+            Mol #0: Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12
+            Mol #1: Cc1cc(N=[N+]=[N-])[nH+]c2ccc3ccccc3c12
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_726046)
+            Mol #0: Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12
+            Mol #1: Cc1cc(N=[N+]=[N-])[nH+]c2ccc3ccccc3c12
+Enumerating all possible cis-trans isomers for all molecules...
+    Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12 has 2 double bond(s) with unspecified
+        stereochemistry.
+    Cc1cc(N=[N+]=[N-])[nH+]c2ccc3ccccc3c12 has 2 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_726046)
+            Mol #0: Cc1cc(N=[N+]=[N-])[nH+]c2ccc3ccccc3c12
+            Mol #1: Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_726046)
+            Mol #0: Cc1cc(N=[N+]=[N-])[nH+]c2ccc3ccccc3c12
+            Mol #1: Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12
+Saving molecules associated with...
+    Cc1cc(N=[N+]=[N-])nc2ccc3ccccc3c12
+
+Start time at: 2025-12-27 22:22:00.493708
+End time at:   2025-12-27 22:22:01.546150
+Total time at: 0:00:01.052442

@@ -1,0 +1,26 @@
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Affinity: 38.89576 (kcal/mol)
+Intermolecular contributions to the terms, before weighting:
+    gauss 1     : 41.47132
+    gauss 2     : 586.39381
+    repulsion   : 61.47574
+    hydrophobic : 12.66283
+    Hydrogen    : 1.03894
+WARNING: the individual terms are inconsisent with the
+WARNING: affinity. Consider reporting this as a bug:
+WARNING: http://vina.scripps.edu/manual.html#bugs

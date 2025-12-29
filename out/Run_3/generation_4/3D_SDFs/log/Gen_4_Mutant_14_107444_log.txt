@@ -1,0 +1,131 @@
+Loading molecules from Gen_4_Mutant_14_107444.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_107444)
+            Mol #0: C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_107444)
+            Mol #0: C#C[C@](OC(=O)Cc1n[n-]c(N)[nH+]1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #1:
+                C#C[C@](OC(=O)Cc1[nH+][n-]c(N)[nH+]1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #2: C#C[C@](OC(=O)Cc1n[n-]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #3: C#C[C@](OC(=O)Cc1n[nH]c(N)[nH+]1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #4: C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+Generating tautomers for all molecules...
+    C#C[C@](OC(=O)Cc1n[n-]c(N)[nH+]1)(c1ccc2ccccc2c1)C(C)(C)C has tautomers.
+    C#C[C@](OC(=O)Cc1[nH+][n-]c(N)[nH+]1)(c1ccc2ccccc2c1)C(C)(C)C has tautomers.
+    C#C[C@](OC(=O)Cc1n[n-]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C has tautomers.
+    C#C[C@](OC(=O)Cc1n[nH]c(N)[nH+]1)(c1ccc2ccccc2c1)C(C)(C)C has tautomers.
+    C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C has tautomers.
+    C#C[C@](OC(=O)C=C1N[N-]C(N)=[NH+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)CC1=N[N-]C(=N)[NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(O)=CC1=[N+]=C(N)[N-]N1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)CC1=[N+]=C(N)[N-]N1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)C=C1N[N-]C(=N)[NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(O)=CC1=N[N-]C(=N)[NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)C=C1[NH+]=C(N)[N-][NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)CC1=[NH+][N-]C(=N)[NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(O)=CC1=[N+]=C(N)[N-][NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)CC1=[N+]=C(N)[N-][NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)C=C1[NH2+][N-]C(=N)[NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a
+        tautomer generated from
+        C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(O)=CC1=[NH+][N-]C(=N)[NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)CC1=[NH+]C(=N)[N-][NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)C=C1N=C(N)[N-]N1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)C=C1NNC(N)=[NH+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)CC1=NN=C(N)[NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)CC1=NNC(=N)[NH2+]1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    C#C[C@](OC(=O)C=C1N=C(N)NN1)(c1ccc2ccccc2c1)C(C)(C)C, a tautomer generated
+        from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), broke an aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_107444)
+            Mol #0: C#C[C@](OC(=O)Cc1n[n-]c(N)[nH+]1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #1: C#C[C@](OC(O)=Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #2: C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #3: C#C[C@](OC(=O)Cc1n[n-]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #4: C#C[C@](OC(=O)Cc1n[nH]c(=N)[nH]1)(c1ccc2ccccc2c1)C(C)(C)C
+Applying Durrant-lab filters to all molecules...
+    C#C[C@](OC(=O)Cc1n[n-]c(N)[nH+]1)(c1ccc2ccccc2c1)C(C)(C)C, a variant
+        generated from C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+        (Gen_4_Mutant_14_107444), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_107444)
+            Mol #0: C#C[C@](OC(O)=Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #1: C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #2: C#C[C@](OC(=O)Cc1n[nH]c(=N)[nH]1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #3: C#C[C@](OC(=O)Cc1n[n-]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_107444)
+            Mol #0: C#C[C@](OC(O)=Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #1: C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #2: C#C[C@](OC(=O)Cc1n[nH]c(=N)[nH]1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #3: C#C[C@](OC(=O)Cc1n[n-]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+Enumerating all possible cis-trans isomers for all molecules...
+    C#C[C@](OC(O)=Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C has 1 double bond(s)
+        with unspecified stereochemistry.
+    C#C[C@](OC(=O)Cc1n[nH]c(=N)[nH]1)(c1ccc2ccccc2c1)C(C)(C)C has 2 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_107444)
+            Mol #0: C#C[C@](OC(=O)Cc1n[n-]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #1:
+                [H]/N=c1\[nH]nc(CC(=O)O[C@@](C#C)(c2ccc3ccccc3c2)C(C)(C)C)[nH]1
+            Mol #2: C#C[C@](O/C(O)=C/c1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #3: C#C[C@](O/C(O)=C\c1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #4: C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_14_107444)
+            Mol #0: C#C[C@](O/C(O)=C\c1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #1: C#C[C@](OC(=O)Cc1n[n-]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #2: C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+            Mol #3:
+                [H]/N=c1\[nH]nc(CC(=O)O[C@@](C#C)(c2ccc3ccccc3c2)C(C)(C)C)[nH]1
+            Mol #4: C#C[C@](O/C(O)=C/c1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+Saving molecules associated with...
+    C#C[C@](OC(=O)Cc1n[nH]c(N)n1)(c1ccc2ccccc2c1)C(C)(C)C
+
+Start time at: 2025-12-27 22:21:38.514261
+End time at:   2025-12-27 22:21:47.581721
+Total time at: 0:00:09.067460

@@ -1,0 +1,56 @@
+Loading molecules from Gen_4_Mutant_5_568049.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_568049)
+            Mol #0: COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_568049)
+            Mol #0: COc1ccc2cc(-c3c(C)[nH+]nn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #1: COc1ccc2cc(-c3c(C)n[nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #2: COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #3: COc1ccc2cc(-c3c(C)[nH+][nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_568049)
+            Mol #0: COc1ccc2cc(-c3c(C)[nH+]nn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #1: COc1ccc2cc(-c3c(C)n[nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #2: COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #3: COc1ccc2cc(-c3c(C)[nH+][nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+Applying Durrant-lab filters to all molecules...
+    COc1ccc2cc(-c3c(C)[nH+][nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1, a variant
+        generated from COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+        (Gen_4_Mutant_5_568049), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_568049)
+            Mol #0: COc1ccc2cc(-c3c(C)[nH+]nn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #1: COc1ccc2cc(-c3c(C)n[nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #2: COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_568049)
+            Mol #0: COc1ccc2cc(-c3c(C)[nH+]nn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #1: COc1ccc2cc(-c3c(C)n[nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #2: COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_568049)
+            Mol #0: COc1ccc2cc(-c3c(C)[nH+]nn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #1: COc1ccc2cc(-c3c(C)n[nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #2: COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_568049)
+            Mol #0: COc1ccc2cc(-c3c(C)[nH+]nn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #1: COc1ccc2cc(-c3c(C)n[nH+]n3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+            Mol #2: COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+Saving molecules associated with...
+    COc1ccc2cc(-c3c(C)nnn3-c3ccccc3CO[C@H](CF)CCl)ccc2c1
+
+Start time at: 2025-12-27 22:21:30.431125
+End time at:   2025-12-27 22:21:36.432782
+Total time at: 0:00:06.001657

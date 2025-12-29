@@ -1,0 +1,70 @@
+REMARK Final SMILES string: Cc1cc(NN)c([O-])c(-n2nc3ccc(-c4ccc([O-])cc4)cc3n2)c1
+COMPND    Gen_2_Cross_571756
+HETATM    1  C1  UNL     1       2.533  -3.589  -4.500  1.00  0.00           C  
+HETATM    2  C2  UNL     1       1.886  -2.239  -4.394  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.891  -1.369  -5.490  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.320  -0.090  -5.393  1.00  0.00           C  
+HETATM    5  N1  UNL     1       1.318   0.799  -6.526  1.00  0.00           N  
+HETATM    6  N2  UNL     1       1.811   0.395  -7.779  1.00  0.00           N  
+HETATM    7  C5  UNL     1       0.752   0.323  -4.171  1.00  0.00           C  
+HETATM    8  O1  UNL     1       0.182   1.589  -4.081  1.00  0.00           O1-
+HETATM    9  C6  UNL     1       0.760  -0.539  -3.049  1.00  0.00           C  
+HETATM   10  N3  UNL     1       0.195  -0.139  -1.781  1.00  0.00           N  
+HETATM   11  N4  UNL     1      -0.335   1.061  -1.542  1.00  0.00           N  
+HETATM   12  C7  UNL     1      -0.735   1.016  -0.262  1.00  0.00           C  
+HETATM   13  C8  UNL     1      -1.355   2.002   0.494  1.00  0.00           C  
+HETATM   14  C9  UNL     1      -1.674   1.689   1.830  1.00  0.00           C  
+HETATM   15  C10 UNL     1      -1.367   0.408   2.374  1.00  0.00           C  
+HETATM   16  C11 UNL     1      -1.709   0.089   3.784  1.00  0.00           C  
+HETATM   17  C12 UNL     1      -2.927   0.522   4.340  1.00  0.00           C  
+HETATM   18  C13 UNL     1      -3.247   0.220   5.668  1.00  0.00           C  
+HETATM   19  C14 UNL     1      -2.357  -0.516   6.454  1.00  0.00           C  
+HETATM   20  O2  UNL     1      -2.676  -0.814   7.772  1.00  0.00           O1-
+HETATM   21  C15 UNL     1      -1.144  -0.951   5.912  1.00  0.00           C  
+HETATM   22  C16 UNL     1      -0.820  -0.652   4.585  1.00  0.00           C  
+HETATM   23  C17 UNL     1      -0.732  -0.560   1.556  1.00  0.00           C  
+HETATM   24  C18 UNL     1      -0.437  -0.206   0.244  1.00  0.00           C  
+HETATM   25  N5  UNL     1       0.150  -0.938  -0.714  1.00  0.00           N  
+HETATM   26  C19 UNL     1       1.337  -1.816  -3.178  1.00  0.00           C  
+HETATM   27  H1  UNL     1       2.454  -3.983  -5.535  1.00  0.00           H  
+HETATM   28  H2  UNL     1       3.606  -3.506  -4.224  1.00  0.00           H  
+HETATM   29  H3  UNL     1       2.040  -4.315  -3.819  1.00  0.00           H  
+HETATM   30  H4  UNL     1       2.345  -1.694  -6.418  1.00  0.00           H  
+HETATM   31  H5  UNL     1       0.969   1.778  -6.416  1.00  0.00           H  
+HETATM   32  H6  UNL     1       1.792   1.227  -8.412  1.00  0.00           H  
+HETATM   33  H7  UNL     1       1.129  -0.292  -8.171  1.00  0.00           H  
+HETATM   34  H8  UNL     1      -1.582   2.974   0.075  1.00  0.00           H  
+HETATM   35  H9  UNL     1      -2.142   2.448   2.443  1.00  0.00           H  
+HETATM   36  H10 UNL     1      -3.640   1.078   3.745  1.00  0.00           H  
+HETATM   37  H11 UNL     1      -4.189   0.555   6.083  1.00  0.00           H  
+HETATM   38  H12 UNL     1      -0.451  -1.518   6.521  1.00  0.00           H  
+HETATM   39  H13 UNL     1       0.132  -0.985   4.192  1.00  0.00           H  
+HETATM   40  H14 UNL     1      -0.494  -1.552   1.921  1.00  0.00           H  
+HETATM   41  H15 UNL     1       1.362  -2.487  -2.328  1.00  0.00           H  
+TER      42      UNL     1 
+CONECT    1    2   27   28   29
+CONECT    2    3    3   26
+CONECT    3    4   30
+CONECT    4    5    7    7
+CONECT    5    6   31
+CONECT    6   32   33
+CONECT    7    8    9
+CONECT    9   10   26   26
+CONECT   10   11   25
+CONECT   11   12   12
+CONECT   12   13   24
+CONECT   13   14   14   34
+CONECT   14   15   35
+CONECT   15   16   23   23
+CONECT   16   17   17   22
+CONECT   17   18   36
+CONECT   18   19   19   37
+CONECT   19   20   21
+CONECT   21   22   22   38
+CONECT   22   39
+CONECT   23   24   40
+CONECT   24   25   25
+CONECT   26   41
+END
+
+

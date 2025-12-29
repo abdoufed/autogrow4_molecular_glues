@@ -1,0 +1,40 @@
+Loading molecules from Gen_4_Cross_746911.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_746911)
+            Mol #0: [N-]=[N+]=Nc1cccc2c1ccc1cc(N=[N+]=N)c(=O)oc12
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_746911)
+            Mol #0: [N-]=[N+]=Nc1cc2ccc3c(N=[N+]=[N-])cccc3c2oc1=O
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_746911)
+            Mol #0: [N-]=[N+]=Nc1cc2ccc3c(N=[N+]=[N-])cccc3c2oc1=O
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_746911)
+            Mol #0: [N-]=[N+]=Nc1cc2ccc3c(N=[N+]=[N-])cccc3c2oc1=O
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_746911)
+            Mol #0: [N-]=[N+]=Nc1cc2ccc3c(N=[N+]=[N-])cccc3c2oc1=O
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=Nc1cc2ccc3c(N=[N+]=[N-])cccc3c2oc1=O has 5 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_746911)
+            Mol #0: [N-]=[N+]=Nc1cc2ccc3c(N=[N+]=[N-])cccc3c2oc1=O
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_746911)
+            Mol #0: [N-]=[N+]=Nc1cc2ccc3c(N=[N+]=[N-])cccc3c2oc1=O
+Saving molecules associated with...
+    [N-]=[N+]=Nc1cccc2c1ccc1cc(N=[N+]=N)c(=O)oc12
+
+Start time at: 2025-12-27 22:22:08.357700
+End time at:   2025-12-27 22:22:08.812877
+Total time at: 0:00:00.455177

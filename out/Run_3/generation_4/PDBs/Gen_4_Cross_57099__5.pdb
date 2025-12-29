@@ -1,0 +1,72 @@
+REMARK Final SMILES string: C#CCS(=O)(=O)[C@H]1Cc2c(cc(OCCCN=[N+]=[N-])c(Cl)c2Cl)[C@@H](N=[N+]=[N-])C1
+COMPND    Gen_4_Cross_57099
+HETATM    1  H1  LIG X 999      -1.276  -3.203   5.441  1.00  0.00           H  
+HETATM    2  C1  LIG X 999      -0.998  -2.185   5.368  1.00  0.00           C  
+HETATM    3  C2  LIG X 999      -0.682  -1.024   5.284  1.00  0.00           C  
+HETATM    4  C3  LIG X 999      -0.299   0.385   5.179  1.00  0.00           C  
+HETATM    5  H2  LIG X 999      -1.177   0.984   4.863  1.00  0.00           H  
+HETATM    6  H3  LIG X 999       0.044   0.746   6.170  1.00  0.00           H  
+HETATM    7  S1  LIG X 999       1.020   0.579   3.993  1.00  0.00           S  
+HETATM    8  O1  LIG X 999       1.323   2.043   3.838  1.00  0.00           O  
+HETATM    9  O2  LIG X 999       2.245  -0.122   4.509  1.00  0.00           O  
+HETATM   10  C4  LIG X 999       0.568  -0.116   2.399  1.00  0.00           C  
+HETATM   11  H4  LIG X 999       0.402  -1.208   2.536  1.00  0.00           H  
+HETATM   12  C5  LIG X 999      -0.721   0.527   1.873  1.00  0.00           C  
+HETATM   13  H5  LIG X 999      -0.636   1.635   1.913  1.00  0.00           H  
+HETATM   14  H6  LIG X 999      -1.551   0.215   2.541  1.00  0.00           H  
+HETATM   15  C6  LIG X 999      -1.043   0.128   0.446  1.00  0.00           C  
+HETATM   16  C7  LIG X 999      -2.347   0.336  -0.060  1.00  0.00           C  
+HETATM   17 CL1  LIG X 999      -3.599   1.068   0.952  1.00  0.00          CL  
+HETATM   18  C8  LIG X 999      -2.658  -0.028  -1.381  1.00  0.00           C  
+HETATM   19 CL2  LIG X 999      -4.283   0.223  -2.022  1.00  0.00          CL  
+HETATM   20  C9  LIG X 999      -1.682  -0.589  -2.212  1.00  0.00           C  
+HETATM   21  O3  LIG X 999      -2.046  -0.949  -3.522  1.00  0.00           O  
+HETATM   22  C10 LIG X 999      -1.150  -1.348  -4.561  1.00  0.00           C  
+HETATM   23  H7  LIG X 999      -0.488  -2.167  -4.208  1.00  0.00           H  
+HETATM   24  H8  LIG X 999      -1.748  -1.762  -5.401  1.00  0.00           H  
+HETATM   25  C11 LIG X 999      -0.316  -0.165  -5.075  1.00  0.00           C  
+HETATM   26  H9  LIG X 999       0.274   0.286  -4.250  1.00  0.00           H  
+HETATM   27  H10 LIG X 999       0.408  -0.552  -5.825  1.00  0.00           H  
+HETATM   28  C12 LIG X 999      -1.171   0.917  -5.744  1.00  0.00           C  
+HETATM   29  H11 LIG X 999      -0.498   1.638  -6.259  1.00  0.00           H  
+HETATM   30  H12 LIG X 999      -1.832   0.463  -6.513  1.00  0.00           H  
+HETATM   31  N1  LIG X 999      -1.989   1.608  -4.754  1.00  0.00           N  
+HETATM   32  N2  LIG X 999      -1.859   2.815  -4.550  1.00  0.00           N1+
+HETATM   33  N3  LIG X 999      -1.728   4.021  -4.344  1.00  0.00           N1-
+HETATM   34  C13 LIG X 999      -0.382  -0.775  -1.718  1.00  0.00           C  
+HETATM   35  H13 LIG X 999       0.375  -1.228  -2.341  1.00  0.00           H  
+HETATM   36  C14 LIG X 999      -0.037  -0.383  -0.413  1.00  0.00           C  
+HETATM   37  C15 LIG X 999       1.382  -0.634   0.071  1.00  0.00           C  
+HETATM   38  H14 LIG X 999       1.487  -1.730   0.237  1.00  0.00           H  
+HETATM   39  N4  LIG X 999       2.339  -0.217  -0.953  1.00  0.00           N  
+HETATM   40  N5  LIG X 999       3.536  -0.492  -0.856  1.00  0.00           N1+
+HETATM   41  N6  LIG X 999       4.731  -0.766  -0.760  1.00  0.00           N1-
+HETATM   42  C16 LIG X 999       1.696   0.093   1.389  1.00  0.00           C  
+HETATM   43  H15 LIG X 999       1.833   1.181   1.197  1.00  0.00           H  
+HETATM   44  H16 LIG X 999       2.648  -0.306   1.802  1.00  0.00           H  
+TER      45      UNL     1 
+CONECT    1    2
+CONECT    2    3    3    3
+CONECT    3    4
+CONECT    4    5    6    7
+CONECT    7    8    8    9    9
+CONECT    7   10
+CONECT   10   11   12   42
+CONECT   12   13   14   15
+CONECT   15   16   16   36
+CONECT   16   17   18
+CONECT   18   19   20   20
+CONECT   20   21   34
+CONECT   21   22
+CONECT   22   23   24   25
+CONECT   25   26   27   28
+CONECT   28   29   30   31
+CONECT   31   32   32
+CONECT   32   33   33
+CONECT   34   35   36   36
+CONECT   36   37
+CONECT   37   38   39   42
+CONECT   39   40   40
+CONECT   40   41   41
+CONECT   42   43   44
+END

@@ -1,0 +1,39 @@
+REMARK VINA RESULT:      -7.8      1.882      2.797
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_6  and  O1_7 
+REMARK    2  A    between atoms: O1_7  and  C7_8 
+REMARK    3  A    between atoms: C7_8  and  O3_10 
+REMARK    4  A    between atoms: O3_10  and  C8_11 
+REMARK    5  A    between atoms: C8_11  and  N1_12 
+ROOT
+HETATM    1  N1  LIG X 999      43.745 131.217  22.533  1.00  0.00    -0.089 NA
+HETATM    2  N2  LIG X 999      43.339 130.133  22.951  1.00  0.00    -0.165 NA
+HETATM    3  N3  LIG X 999      42.932 129.051  23.370  1.00  0.00     0.068 N 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C8  LIG X 999      43.142 131.831  21.362  1.00  0.00     0.370 C 
+BRANCH   4   5
+HETATM    5  O3  LIG X 999      43.847 131.413  20.199  1.00  0.00    -0.273 OA
+BRANCH   5   6
+HETATM    6  C7  LIG X 999      43.481 131.812  18.911  1.00  0.00     0.413 C 
+HETATM    7  O2  LIG X 999      42.292 131.667  18.512  1.00  0.00    -0.229 OA
+BRANCH   6   8
+HETATM    8  O1  LIG X 999      44.467 132.319  18.058  1.00  0.00    -0.256 OA
+BRANCH   8   9
+HETATM    9  C6  LIG X 999      45.218 131.563  17.145  1.00  0.00     0.082 A 
+HETATM   10  C5  LIG X 999      45.712 132.107  15.944  1.00  0.00     0.049 A 
+HETATM   11  C4  LIG X 999      46.467 131.316  15.065  1.00  0.00    -0.023 A 
+HETATM   12  C3  LIG X 999      46.957 131.850  13.862  1.00  0.00     0.012 A 
+HETATM   13  C11 LIG X 999      46.743 129.967  15.395  1.00  0.00    -0.026 A 
+HETATM   14  C2  LIG X 999      47.708 131.053  12.994  1.00  0.00     0.001 A 
+HETATM   15  C1  LIG X 999      47.978 129.721  13.319  1.00  0.00     0.001 A 
+HETATM   16  C12 LIG X 999      47.500 129.177  14.514  1.00  0.00     0.012 A 
+HETATM   17  C10 LIG X 999      46.266 129.437  16.601  1.00  0.00     0.015 A 
+HETATM   18  C9  LIG X 999      45.516 130.234  17.470  1.00  0.00     0.038 A 
+ENDBRANCH   8   9
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 5

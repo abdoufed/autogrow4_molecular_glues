@@ -1,0 +1,55 @@
+Loading molecules from Gen_4_Mutant_26_321095.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_26_321095)
+            Mol #0: CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_26_321095)
+            Mol #0: CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #1: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+Generating tautomers for all molecules...
+    CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_26_321095)
+            Mol #0: CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #1: CCOC(O)=Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #2: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_26_321095)
+            Mol #0: CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #1: CCOC(O)=Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #2: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_26_321095)
+            Mol #0: CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #1: CCOC(O)=Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #2: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+Enumerating all possible cis-trans isomers for all molecules...
+    CCOC(O)=Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3 has 1 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_26_321095)
+            Mol #0: CCO/C(O)=N\c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #1: CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #2: CCO/C(O)=N/c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #3: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_26_321095)
+            Mol #0: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #1: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #2: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #3: CCOC(=O)[N-]c1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+            Mol #4: CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+Saving molecules associated with...
+    CCOC(=O)Nc1ccc2cc3c(cc2c1)C[N+](C)(C)C3
+
+Start time at: 2025-12-27 22:21:37.789700
+End time at:   2025-12-27 22:21:43.329051
+Total time at: 0:00:05.539351

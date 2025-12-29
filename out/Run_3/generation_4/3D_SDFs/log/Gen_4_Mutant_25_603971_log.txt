@@ -1,0 +1,55 @@
+Loading molecules from Gen_4_Mutant_25_603971.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_25_603971)
+            Mol #0: CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_25_603971)
+            Mol #0: CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+Generating tautomers for all molecules...
+    CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O has tautomers.
+    CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O ==> CCC(O)=C(O)SC[C@H](C)OCCCC(C)(C)O
+        (tautomer transformation on Gen_4_Mutant_25_603971) changed the
+        molecules total number of specified chiral centers from 4 to 2, so I'm
+        deleting it.
+    CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O ==> CCC(=O)C(O)SC[C@H](C)OCCCC(C)(C)O
+        (tautomer transformation on Gen_4_Mutant_25_603971) changed the
+        molecules total number of specified chiral centers from 4 to 3, so I'm
+        deleting it.
+    CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O ==> CCC(O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+        (tautomer transformation on Gen_4_Mutant_25_603971) changed the
+        molecules total number of specified chiral centers from 4 to 3, so I'm
+        deleting it.
+    CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O ==> CC=C(O)C(O)SC[C@H](C)OCCCC(C)(C)O
+        (tautomer transformation on Gen_4_Mutant_25_603971) changed the
+        molecules total number of specified chiral centers from 4 to 3, so I'm
+        deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_25_603971)
+            Mol #0: CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_25_603971)
+            Mol #0: CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_25_603971)
+            Mol #0: CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_25_603971)
+            Mol #0: CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_25_603971)
+            Mol #0: CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+Saving molecules associated with...
+    CC[C@H](O)C(=O)SC[C@H](C)OCCCC(C)(C)O
+
+Start time at: 2025-12-27 22:21:03.271839
+End time at:   2025-12-27 22:21:04.373220
+Total time at: 0:00:01.101381

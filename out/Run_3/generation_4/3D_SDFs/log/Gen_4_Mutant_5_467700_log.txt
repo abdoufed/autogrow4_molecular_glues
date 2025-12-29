@@ -1,0 +1,94 @@
+Loading molecules from Gen_4_Mutant_5_467700.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_467700)
+            Mol #0: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_467700)
+            Mol #0: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+            Mol #1: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)[nH+]n1)OCC
+            Mol #2: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)[nH+][nH+]1)OCC
+            Mol #3: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)n[nH+]1)OCC
+Generating tautomers for all molecules...
+    CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC has tautomers.
+    CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)[nH+]n1)OCC has tautomers.
+    CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)[nH+][nH+]1)OCC has tautomers.
+    CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)n[nH+]1)OCC has tautomers.
+    CCC[C@H](Cc1cn(C2=NC3=CCC(=N)c4cccc2c43)nn1)OCC, a tautomer generated from
+        CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), broke an aromatic ring, so I'm discarding it.
+    CCC[C@H](Cc1cn(C2N=C3C=CC(=N)c4cccc2c43)nn1)OCC, a tautomer generated from
+        CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), broke an aromatic ring, so I'm discarding it.
+    CCC[C@H](Cc1cn(C2=NC3=CCC(=N)c4cccc2c43)[nH+]n1)OCC, a tautomer generated
+        from CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), broke an aromatic ring, so I'm discarding it.
+    CCC[C@H](Cc1cn(C2N=C3C=CC(=N)c4cccc2c43)[nH+]n1)OCC, a tautomer generated
+        from CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), broke an aromatic ring, so I'm discarding it.
+    CCC[C@H](Cc1cn(C2=NC3=CCC(=N)c4cccc2c43)[nH+][nH+]1)OCC, a tautomer
+        generated from CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), broke an aromatic ring, so I'm discarding it.
+    CCC[C@H](Cc1cn(C2N=C3C=CC(=N)c4cccc2c43)[nH+][nH+]1)OCC, a tautomer
+        generated from CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), broke an aromatic ring, so I'm discarding it.
+    CCC[C@H](Cc1cn(C2=NC3=CCC(=N)c4cccc2c43)n[nH+]1)OCC, a tautomer generated
+        from CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), broke an aromatic ring, so I'm discarding it.
+    CCC[C@H](Cc1cn(C2N=C3C=CC(=N)c4cccc2c43)n[nH+]1)OCC, a tautomer generated
+        from CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), broke an aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_467700)
+            Mol #0: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)[nH+][nH+]1)OCC
+            Mol #1: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)n[nH+]1)OCC
+            Mol #2: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)[nH+][nH+]1)OCC
+            Mol #3: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)n[nH+]1)OCC
+            Mol #4: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)[nH+]n1)OCC
+Applying Durrant-lab filters to all molecules...
+    CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)[nH+][nH+]1)OCC, a variant
+        generated from CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), contains a prohibited substructure, so I'm
+        discarding it.
+    CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)[nH+][nH+]1)OCC, a variant generated
+        from CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+        (Gen_4_Mutant_5_467700), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_467700)
+            Mol #0: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)n[nH+]1)OCC
+            Mol #1: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)n[nH+]1)OCC
+            Mol #2: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)[nH+]n1)OCC
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_467700)
+            Mol #0: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)n[nH+]1)OCC
+            Mol #1: CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)n[nH+]1)OCC
+            Mol #2: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)[nH+]n1)OCC
+Enumerating all possible cis-trans isomers for all molecules...
+    CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)n[nH+]1)OCC has 1 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_467700)
+            Mol #0: [H]/N=C1\C=Cc2[nH]c(-n3cc(C[C@@H](CCC)OCC)[nH+]n3)c3cccc1c23
+            Mol #1: [H]/N=C1/C=Cc2[nH]c(-n3cc(C[C@@H](CCC)OCC)[nH+]n3)c3cccc1c23
+            Mol #2: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)n[nH+]1)OCC
+            Mol #3: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)[nH+]n1)OCC
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_467700)
+            Mol #0: [H]/N=C1\C=Cc2[nH]c(-n3cc(C[C@@H](CCC)OCC)[nH+]n3)c3cccc1c23
+            Mol #1: [H]/N=C1/C=Cc2[nH]c(-n3cc(C[C@@H](CCC)OCC)[nH+]n3)c3cccc1c23
+            Mol #2: [H]/N=C1\C=Cc2[nH]c(-n3cc(C[C@@H](CCC)OCC)[nH+]n3)c3cccc1c23
+            Mol #3: [H]/N=C1/C=Cc2[nH]c(-n3cc(C[C@@H](CCC)OCC)[nH+]n3)c3cccc1c23
+            Mol #4: CCC[C@H](Cc1cn(C2=Nc3ccc(N)c4cccc2c34)n[nH+]1)OCC
+Saving molecules associated with...
+    CCC[C@H](Cc1cn(-c2[nH]c3c4c(cccc24)C(=N)C=C3)nn1)OCC
+
+Start time at: 2025-12-27 22:21:03.254351
+End time at:   2025-12-27 22:21:12.675101
+Total time at: 0:00:09.420750

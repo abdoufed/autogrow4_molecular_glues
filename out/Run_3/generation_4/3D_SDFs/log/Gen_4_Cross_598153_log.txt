@@ -1,0 +1,58 @@
+Loading molecules from Gen_4_Cross_598153.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_598153)
+            Mol #0: C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_598153)
+            Mol #0: C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #1: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+Generating tautomers for all molecules...
+    C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_598153)
+            Mol #0: C[N+](C)=C(O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #1: C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #2: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_598153)
+            Mol #0: C[N+](C)=C(O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #1: C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #2: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_598153)
+            Mol #0: C[N+](C)=C(O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #1: C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #2: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+Enumerating all possible cis-trans isomers for all molecules...
+    C[N+](C)=C(O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3 has 3 double bond(s)
+        with unspecified stereochemistry.
+    C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3 has 3 double
+        bond(s) with unspecified stereochemistry.
+    CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3 has 3 double bond(s)
+        with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_598153)
+            Mol #0: C[N+](C)=C(O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #1: C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #2: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_598153)
+            Mol #0: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #1: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #2: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #3: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+            Mol #4: CN(C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+Saving molecules associated with...
+    C[NH+](C)C(=O)Oc1cc2cc3c(cc2cc1N=[N+]=[N-])C[N+](C)(C)C3
+
+Start time at: 2025-12-27 22:22:07.809705
+End time at:   2025-12-27 22:22:12.179406
+Total time at: 0:00:04.369701

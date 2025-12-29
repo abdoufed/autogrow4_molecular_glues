@@ -1,0 +1,40 @@
+Loading molecules from Gen_4_Cross_262441.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_262441)
+            Mol #0: [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_262441)
+            Mol #0: [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_262441)
+            Mol #0: [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_262441)
+            Mol #0: [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_262441)
+            Mol #0: [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1 has 2 double bond(s)
+        with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_262441)
+            Mol #0: [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_262441)
+            Mol #0: [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1
+Saving molecules associated with...
+    [N-]=[N+]=N/C=C(\O[C@@H](Cl)[C@H](F)Cl)c1ccc2ccccc2c1
+
+Start time at: 2025-12-27 22:22:04.644561
+End time at:   2025-12-27 22:22:05.249729
+Total time at: 0:00:00.605168

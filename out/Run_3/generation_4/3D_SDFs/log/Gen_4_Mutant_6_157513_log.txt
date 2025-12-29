@@ -1,0 +1,40 @@
+Loading molecules from Gen_4_Mutant_6_157513.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_6_157513)
+            Mol #0: C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_6_157513)
+            Mol #0: C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_6_157513)
+            Mol #0: C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_6_157513)
+            Mol #0: C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_6_157513)
+            Mol #0: C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C
+Enumerating all possible cis-trans isomers for all molecules...
+    C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C has 2 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_6_157513)
+            Mol #0: C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_6_157513)
+            Mol #0: C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C
+Saving molecules associated with...
+    C#C[C@@](N=[N+]=[N-])(c1ccc2ccccc2c1)C(C)(C)C
+
+Start time at: 2025-12-27 22:21:29.562272
+End time at:   2025-12-27 22:21:30.425834
+Total time at: 0:00:00.863562

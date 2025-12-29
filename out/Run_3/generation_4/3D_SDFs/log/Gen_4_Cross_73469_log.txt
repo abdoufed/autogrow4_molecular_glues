@@ -1,0 +1,56 @@
+Loading molecules from Gen_4_Cross_73469.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_73469)
+            Mol #0: C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_73469)
+            Mol #0: CN(C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+Generating tautomers for all molecules...
+    C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-] has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_73469)
+            Mol #0: CN(C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[N+](C)=C(O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_73469)
+            Mol #0: CN(C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[N+](C)=C(O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_73469)
+            Mol #0: CN(C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #1: C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[N+](C)=C(O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+Enumerating all possible cis-trans isomers for all molecules...
+    CN(C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-] has 5 double bond(s)
+        with unspecified stereochemistry.
+    C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-] has 5 double bond(s)
+        with unspecified stereochemistry.
+    C[N+](C)=C(O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-] has 5 double bond(s)
+        with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_73469)
+            Mol #0: C[N+](C)=C(O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #1: CN(C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_73469)
+            Mol #0: C[N+](C)=C(O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #1: CN(C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+            Mol #2: C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+Saving molecules associated with...
+    C[NH+](C)C(=O)Oc1ccccccc(N=[N+]=[N-])c(Cl)c1N=[N+]=[N-]
+
+Start time at: 2025-12-27 22:21:52.612296
+End time at:   2025-12-27 22:21:55.454122
+Total time at: 0:00:02.841826

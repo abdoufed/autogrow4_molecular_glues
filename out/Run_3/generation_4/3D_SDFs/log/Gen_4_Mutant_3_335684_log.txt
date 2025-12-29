@@ -1,0 +1,50 @@
+Loading molecules from Gen_4_Mutant_3_335684.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_3_335684)
+            Mol #0: C#CCOC1([O-])OC1c1ccc2ccccc2c1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_3_335684)
+            Mol #0: C#CCOC1(O)OC1c1ccc2ccccc2c1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_3_335684)
+            Mol #0: C#CCOC1(O)OC1c1ccc2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_3_335684)
+            Mol #0: C#CCOC1(O)OC1c1ccc2ccccc2c1
+Enumerating all possible enantiomers for all molecules...
+    C#CCOC1(O)OC1c1ccc2ccccc2c1 (Gen_4_Mutant_3_335684) has 4 enantiomers when
+        chiral centers with no specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_3_335684)
+            Mol #0: C#CCO[C@]1(O)O[C@H]1c1ccc2ccccc2c1
+            Mol #1: C#CCO[C@]1(O)O[C@@H]1c1ccc2ccccc2c1
+            Mol #2: C#CCO[C@@]1(O)O[C@@H]1c1ccc2ccccc2c1
+            Mol #3: C#CCO[C@@]1(O)O[C@H]1c1ccc2ccccc2c1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_3_335684)
+            Mol #0: C#CCO[C@]1(O)O[C@H]1c1ccc2ccccc2c1
+            Mol #1: C#CCO[C@]1(O)O[C@@H]1c1ccc2ccccc2c1
+            Mol #2: C#CCO[C@@]1(O)O[C@@H]1c1ccc2ccccc2c1
+            Mol #3: C#CCO[C@@]1(O)O[C@H]1c1ccc2ccccc2c1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_3_335684)
+            Mol #0: C#CCO[C@]1(O)O[C@H]1c1ccc2ccccc2c1
+            Mol #1: C#CCO[C@@]1(O)O[C@H]1c1ccc2ccccc2c1
+            Mol #2: C#CCO[C@]1(O)O[C@@H]1c1ccc2ccccc2c1
+            Mol #3: C#CCO[C@@]1(O)O[C@@H]1c1ccc2ccccc2c1
+            Mol #4: C#CCO[C@]1(O)O[C@@H]1c1ccc2ccccc2c1
+Saving molecules associated with...
+    C#CCOC1([O-])OC1c1ccc2ccccc2c1
+
+Start time at: 2025-12-27 22:21:41.168114
+End time at:   2025-12-27 22:21:43.776496
+Total time at: 0:00:02.608382

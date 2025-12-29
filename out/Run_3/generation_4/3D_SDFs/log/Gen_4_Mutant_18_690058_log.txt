@@ -1,0 +1,66 @@
+Loading molecules from Gen_4_Mutant_18_690058.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_690058)
+            Mol #0: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_690058)
+            Mol #0: N=c1oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F
+            Mol #1: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1cc[nH+]c(F)c1F
+            Mol #2: N=c1oc(-c2cccc3ccccc23)nn1-c1cc[nH+]c(F)c1F
+            Mol #3: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_690058)
+            Mol #0: N=c1oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F
+            Mol #1: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1cc[nH+]c(F)c1F
+            Mol #2: N=c1oc(-c2cccc3ccccc23)nn1-c1cc[nH+]c(F)c1F
+            Mol #3: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_690058)
+            Mol #0: N=c1oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F
+            Mol #1: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1cc[nH+]c(F)c1F
+            Mol #2: N=c1oc(-c2cccc3ccccc23)nn1-c1cc[nH+]c(F)c1F
+            Mol #3: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_690058)
+            Mol #0: N=c1oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F
+            Mol #1: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1cc[nH+]c(F)c1F
+            Mol #2: N=c1oc(-c2cccc3ccccc23)nn1-c1cc[nH+]c(F)c1F
+            Mol #3: N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+Enumerating all possible cis-trans isomers for all molecules...
+    N=c1oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F has 1 double bond(s) with
+        unspecified stereochemistry.
+    N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1cc[nH+]c(F)c1F has 1 double bond(s) with
+        unspecified stereochemistry.
+    N=c1oc(-c2cccc3ccccc23)nn1-c1cc[nH+]c(F)c1F has 1 double bond(s) with
+        unspecified stereochemistry.
+    N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F has 1 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_690058)
+            Mol #0: [H]/N=c1\oc(-c2cccc3ccccc23)[nH+]n1-c1cc[nH+]c(F)c1F
+            Mol #1: [H]/N=c1/oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F
+            Mol #2: [H]/N=c1/oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+            Mol #3: [H]/N=c1\oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+            Mol #4: [H]/N=c1\oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_18_690058)
+            Mol #0: [H]/N=c1\oc(-c2cccc3ccccc23)[nH+]n1-c1cc[nH+]c(F)c1F
+            Mol #1: [H]/N=c1\oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F
+            Mol #2: [H]/N=c1\oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+            Mol #3: [H]/N=c1/oc(-c2cccc3ccccc23)nn1-c1ccnc(F)c1F
+            Mol #4: [H]/N=c1/oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+Saving molecules associated with...
+    N=c1oc(-c2cccc3ccccc23)[nH+]n1-c1ccnc(F)c1F
+
+Start time at: 2025-12-27 22:21:47.597688
+End time at:   2025-12-27 22:21:51.360773
+Total time at: 0:00:03.763085

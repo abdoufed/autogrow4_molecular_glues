@@ -1,0 +1,78 @@
+REMARK SMILES C#C[C@@](O)(c1cc(N=[N+]=[N-])cc(SC(C)(C)C[NH2+]C[C@](C)(O)C=C)ccc2cc1CC2)C(C)(C)C
+REMARK SMILES IDX 14 1 15 2 16 3 13 4 12 5 5 6 6 7 29 8 7 9 28 10 30 11 11 12
+REMARK SMILES IDX 27 13 31 14 26 15 25 16 3 17 2 18 1 19 4 20 32 22 33 23
+REMARK SMILES IDX 34 24 35 25 8 26 9 27 10 28 17 29 18 30 19 33 20 34 21 35
+REMARK SMILES IDX 22 36 23 38 24 39
+REMARK H PARENT 4 21 18 31 18 32 22 37
+ROOT
+ATOM      1  C   UNL     1      -1.669  -0.748   3.357  1.00  0.00     0.064 C 
+ATOM      2  C   UNL     1      -2.550  -1.535   4.343  1.00  0.00     0.029 C 
+ATOM      3  C   UNL     1      -2.315  -0.796   1.954  1.00  0.00     0.029 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  S   UNL     1       0.026  -1.509   3.416  1.00  0.00    -0.114 SA
+BRANCH   4   5
+ATOM      5  C   UNL     1       0.070  -2.531   1.925  1.00  0.00     0.008 A 
+ATOM      6  C   UNL     1       0.768  -1.677  -2.187  1.00  0.00    -0.000 A 
+ATOM      7  C   UNL     1       0.979  -0.725  -1.135  1.00  0.00     0.018 A 
+ATOM      8  C   UNL     1       0.000  -2.867  -1.984  1.00  0.00    -0.040 A 
+ATOM      9  C   UNL     1       0.932  -0.910   0.277  1.00  0.00     0.039 A 
+ATOM     10  C   UNL     1      -0.927  -3.009  -0.973  1.00  0.00     0.007 A 
+ATOM     11  C   UNL     1       0.365  -4.237  -2.498  1.00  0.00     0.041 C 
+ATOM     12  C   UNL     1       0.931  -2.186   0.863  1.00  0.00     0.025 A 
+ATOM     13  C   UNL     1      -0.868  -4.292  -0.479  1.00  0.00    -0.047 A 
+ATOM     14  C   UNL     1      -0.289  -5.203  -1.502  1.00  0.00     0.040 C 
+ATOM     15  C   UNL     1      -0.891  -4.633   0.885  1.00  0.00     0.005 A 
+ATOM     16  C   UNL     1      -0.589  -3.780   1.972  1.00  0.00     0.015 A 
+BRANCH   6  17
+ATOM     17  C   UNL     1       1.264  -1.262  -3.607  1.00  0.00     0.155 C 
+BRANCH  17  18
+ATOM     18  C   UNL     1       0.616  -2.079  -4.669  1.00  0.00    -0.066 C 
+ATOM     19  C   UNL     1       0.095  -2.709  -5.557  1.00  0.00     0.007 C 
+ENDBRANCH  17  18
+BRANCH  17  20
+ATOM     20  O   UNL     1       0.868   0.071  -3.851  1.00  0.00    -0.373 OA
+ATOM     21  H   UNL     1      -0.117   0.134  -3.725  1.00  0.00     0.213 HD
+ENDBRANCH  17  20
+BRANCH  17  22
+ATOM     22  C   UNL     1       2.847  -1.333  -3.771  1.00  0.00     0.006 C 
+ATOM     23  C   UNL     1       3.396  -2.745  -3.474  1.00  0.00     0.015 C 
+ATOM     24  C   UNL     1       3.258  -0.957  -5.223  1.00  0.00     0.015 C 
+ATOM     25  C   UNL     1       3.573  -0.339  -2.829  1.00  0.00     0.015 C 
+ENDBRANCH  17  22
+ENDBRANCH   6  17
+BRANCH   9  26
+ATOM     26  N   UNL     1       0.917   0.234   1.148  1.00  0.00    -0.061 NA
+BRANCH  26  27
+ATOM     27  N   UNL     1       0.948   1.395   0.736  1.00  0.00     0.005 N 
+ATOM     28  N   UNL     1       0.982   2.556   0.330  1.00  0.00    -0.003 NA
+ENDBRANCH  26  27
+ENDBRANCH   9  26
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1  29
+ATOM     29  C   UNL     1      -1.480   0.725   3.831  1.00  0.00     0.278 C 
+BRANCH  29  30
+ATOM     30  N   UNL     1      -2.729   1.508   3.914  1.00  0.00    -0.342 N 
+ATOM     31  H   UNL     1      -3.393   1.036   4.568  1.00  0.00     0.346 HD
+ATOM     32  H   UNL     1      -3.154   1.585   2.964  1.00  0.00     0.346 HD
+BRANCH  30  33
+ATOM     33  C   UNL     1      -2.446   2.866   4.417  1.00  0.00     0.300 C 
+BRANCH  33  34
+ATOM     34  C   UNL     1      -3.702   3.789   4.424  1.00  0.00     0.128 C 
+ATOM     35  C   UNL     1      -3.291   5.191   4.905  1.00  0.00     0.053 C 
+BRANCH  34  36
+ATOM     36  O   UNL     1      -4.646   3.299   5.347  1.00  0.00    -0.380 OA
+ATOM     37  H   UNL     1      -5.068   2.484   4.968  1.00  0.00     0.212 HD
+ENDBRANCH  34  36
+BRANCH  34  38
+ATOM     38  C   UNL     1      -4.336   3.909   3.041  1.00  0.00     0.005 C 
+ATOM     39  C   UNL     1      -3.666   4.333   1.962  1.00  0.00     0.007 C 
+ENDBRANCH  34  38
+ENDBRANCH  33  34
+ENDBRANCH  30  33
+ENDBRANCH  29  30
+ENDBRANCH   1  29
+TORSDOF 14
+
+

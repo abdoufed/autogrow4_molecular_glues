@@ -1,0 +1,106 @@
+Loading molecules from Gen_4_Mutant_5_646098.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_646098)
+            Mol #0: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_646098)
+            Mol #0: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+            Mol #1: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nc2ncccn2n1
+            Mol #2: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nn2ccc[nH+]c2[nH+]1
+            Mol #3: Cc1c(CCSc2cccc3ccccc23)n[nH+]n1Cc1nc2ncccn2n1
+            Mol #4: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nn2ccc[nH+]c2[nH+]1
+Generating tautomers for all molecules...
+    Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 has tautomers.
+    Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nc2ncccn2n1 has tautomers.
+    Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nn2ccc[nH+]c2[nH+]1 has tautomers.
+    Cc1c(CCSc2cccc3ccccc23)n[nH+]n1Cc1nc2ncccn2n1 has tautomers.
+    Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nn2ccc[nH+]c2[nH+]1 has tautomers.
+    Cc1c(CCSc2cccc3ccccc23)nnn1C=C1N=C2N=CC=CN2N1, a tautomer generated from
+        Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 (Gen_4_Mutant_5_646098), broke
+        an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)[nH+]nn1C=C1N=C2N=CC=CN2N1, a tautomer generated from
+        Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 (Gen_4_Mutant_5_646098), broke
+        an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)[nH+]nn1C=C1NN2C=CC=[NH+]C2=[NH+]1, a tautomer
+        generated from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+        (Gen_4_Mutant_5_646098), broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)[nH+]nn1CC1=[N+]=C2[NH+]=CC=CN2N1, a tautomer
+        generated from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+        (Gen_4_Mutant_5_646098), broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)[nH+]nn1C=C1NN2C=CC=[N+]=C2[NH2+]1, a tautomer
+        generated from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+        (Gen_4_Mutant_5_646098), broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)[nH+]nn1CC1=NN2C=CC=[N+]=C2[NH2+]1, a tautomer
+        generated from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+        (Gen_4_Mutant_5_646098), broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)[nH+]nn1CC1=[NH+]C2=[N+]=CC=CN2N1, a tautomer
+        generated from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+        (Gen_4_Mutant_5_646098), broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)n[nH+]n1C=C1N=C2N=CC=CN2N1, a tautomer generated from
+        Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 (Gen_4_Mutant_5_646098), broke
+        an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)nnn1C=C1NN2C=CC=[NH+]C2=[NH+]1, a tautomer generated
+        from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 (Gen_4_Mutant_5_646098),
+        broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)nnn1CC1=[N+]=C2[NH+]=CC=CN2N1, a tautomer generated
+        from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 (Gen_4_Mutant_5_646098),
+        broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)nnn1C=C1NN2C=CC=[N+]=C2[NH2+]1, a tautomer generated
+        from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 (Gen_4_Mutant_5_646098),
+        broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)nnn1CC1=NN2C=CC=[N+]=C2[NH2+]1, a tautomer generated
+        from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 (Gen_4_Mutant_5_646098),
+        broke an aromatic ring, so I'm discarding it.
+    Cc1c(CCSc2cccc3ccccc23)nnn1CC1=[NH+]C2=[N+]=CC=CN2N1, a tautomer generated
+        from Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1 (Gen_4_Mutant_5_646098),
+        broke an aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_646098)
+            Mol #0: Cc1c(CCSc2cccc3ccccc23)n[nH+]n1Cc1nc2ncccn2n1
+            Mol #1: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nc2ncccn2n1
+            Mol #2: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+            Mol #3: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nn2ccc[nH+]c2[nH+]1
+            Mol #4: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nn2ccc[nH+]c2[nH+]1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_646098)
+            Mol #0: Cc1c(CCSc2cccc3ccccc23)n[nH+]n1Cc1nc2ncccn2n1
+            Mol #1: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nc2ncccn2n1
+            Mol #2: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+            Mol #3: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nn2ccc[nH+]c2[nH+]1
+            Mol #4: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nn2ccc[nH+]c2[nH+]1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_646098)
+            Mol #0: Cc1c(CCSc2cccc3ccccc23)n[nH+]n1Cc1nc2ncccn2n1
+            Mol #1: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nc2ncccn2n1
+            Mol #2: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+            Mol #3: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nn2ccc[nH+]c2[nH+]1
+            Mol #4: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nn2ccc[nH+]c2[nH+]1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_646098)
+            Mol #0: Cc1c(CCSc2cccc3ccccc23)n[nH+]n1Cc1nc2ncccn2n1
+            Mol #1: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nc2ncccn2n1
+            Mol #2: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+            Mol #3: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nn2ccc[nH+]c2[nH+]1
+            Mol #4: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nn2ccc[nH+]c2[nH+]1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_646098)
+            Mol #0: Cc1c(CCSc2cccc3ccccc23)n[nH+]n1Cc1nc2ncccn2n1
+            Mol #1: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nc2ncccn2n1
+            Mol #2: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+            Mol #3: Cc1c(CCSc2cccc3ccccc23)[nH+]nn1Cc1nn2ccc[nH+]c2[nH+]1
+            Mol #4: Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nn2ccc[nH+]c2[nH+]1
+Saving molecules associated with...
+    Cc1c(CCSc2cccc3ccccc23)nnn1Cc1nc2ncccn2n1
+
+Start time at: 2025-12-27 22:21:22.935094
+End time at:   2025-12-27 22:21:31.179573
+Total time at: 0:00:08.244479

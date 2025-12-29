@@ -1,0 +1,44 @@
+Loading molecules from Gen_4_Cross_429872.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_429872)
+            Mol #0: N=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_429872)
+            Mol #0: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_429872)
+            Mol #0: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_429872)
+            Mol #0: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_429872)
+            Mol #0: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21 has 2 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_429872)
+            Mol #0: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_429872)
+            Mol #0: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+            Mol #1: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+            Mol #2: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+            Mol #3: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+            Mol #4: [N-]=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+Saving molecules associated with...
+    N=[N+]=N[C@@H]1CCC[C@@H]2C=CC=C[C@@H]21
+
+Start time at: 2025-12-27 22:22:04.053698
+End time at:   2025-12-27 22:22:04.495731
+Total time at: 0:00:00.442033

@@ -1,0 +1,51 @@
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.09+release.06b3cf8
+[COMMIT_DATE]: 2024-03-07T14:59:22.624665
+[APPLICATION]: /media/abdou/partition2/rosetta.source.release-371/main/source/bin/rosetta_scripts.linuxgccrelease
+[MODE]: Release
+[EXTRAS]: default
+[OS]: GNU/Linux
+[COMPILER]: GCC version "12.2.0"
+[STDLIB]: libstdc++ version 20220819
+[START_OPTIONS]
+ -in -in:file -in:file:s=system.pdb -in:file:extra_res_fa=SRO.params -out:overwrite -out:nstruct=100 -out:path:all=docking/ -parser -parser:protocol=dock.xml -packing -packing:ignore_ligand_chi -packing:no_optH=false -packing:flip_HNQ -packing:ex1 -packing:ex2 -mistakes -mistakes:restore_pre_talaris_2013_behavior
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libutility.so(backtrace_string[abi:cxx11](int)+0x44) [0x7f35819a6274]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xc0) [0x7f35819e5200]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x11a) [0x7f35819ab55a]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x34) [0x7f35819ab1c4]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libprotocols.1.so(protocols::jd2::wwPDBJobOutputter::final_pose(std::shared_ptr<protocols::jd2::Job>, core::pose::Pose const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x1b83) [0x7f3582b7c043]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libprotocols.1.so(protocols::jd2::JobDistributor::job_succeeded(core::pose::Pose&, double, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xe8) [0x7f3582adf208]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libprotocols.1.so(protocols::jd2::FileSystemJobDistributor::job_succeeded(core::pose::Pose&, double, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x9) [0x7f3582ad1ae9]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libprotocols.1.so(protocols::jd2::JobDistributor::write_output_from_job(core::pose::Pose&, std::shared_ptr<protocols::moves::Mover>, protocols::moves::MoverStatus, unsigned long, unsigned long&)+0x522) [0x7f3582ae1782]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x2249) [0x7f3582ae5009]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0x20d) [0x7f3582ae5b3d]
+/media/abdou/partition2/rosetta.source.release-371/main/source/build/src/release/linux/6.1/64/x86/gcc/12/default/libprotocols.1.so(protocols::jd2::FileSystemJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x46) [0x7f3582acc966]
+/media/abdou/partition2/rosetta.source.release-371/main/source/bin/rosetta_scripts.linuxgccrelease(+0x47f2) [0x559c61dbd7f2]
+/lib/x86_64-linux-gnu/libc.so.6(+0x2724a) [0x7f358164624a]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f3581646305]
+/media/abdou/partition2/rosetta.source.release-371/main/source/bin/rosetta_scripts.linuxgccrelease(+0x4a11) [0x559c61dbda11]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/jd2/wwPDBJobOutputter.cc
+[LINE]: 79
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Unable to open file: docking/system_0001.pdb
+
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+

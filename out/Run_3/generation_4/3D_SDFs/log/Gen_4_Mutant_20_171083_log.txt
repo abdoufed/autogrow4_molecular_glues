@@ -1,0 +1,40 @@
+Loading molecules from Gen_4_Mutant_20_171083.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_20_171083)
+            Mol #0: CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_20_171083)
+            Mol #0: CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_20_171083)
+            Mol #0: CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_20_171083)
+            Mol #0: CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_20_171083)
+            Mol #0: CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl
+Enumerating all possible cis-trans isomers for all molecules...
+    CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl has 2 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_20_171083)
+            Mol #0: CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_20_171083)
+            Mol #0: CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl
+Saving molecules associated with...
+    CCCC(CCC)Sc1c(OCCCN=[N+]=[N-])cc2ccccc2c1Cl
+
+Start time at: 2025-12-27 22:21:36.713847
+End time at:   2025-12-27 22:21:39.409789
+Total time at: 0:00:02.695942

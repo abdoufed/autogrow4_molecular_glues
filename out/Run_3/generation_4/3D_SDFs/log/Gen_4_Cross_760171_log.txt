@@ -1,0 +1,58 @@
+Loading molecules from Gen_4_Cross_760171.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_760171)
+            Mol #0: Cc1cc(N)[nH+]c2ccc3ccccc3c12
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_760171)
+            Mol #0: Cc1cc(N)[nH+]c2ccc3ccccc3c12
+            Mol #1: Cc1cc(N)nc2ccc3ccccc3c12
+Generating tautomers for all molecules...
+    Cc1cc(N)[nH+]c2ccc3ccccc3c12 has tautomers.
+    Cc1cc(N)nc2ccc3ccccc3c12 has tautomers.
+    CC1=CC(=N)[NH2+]c2ccc3ccccc3c21, a tautomer generated from
+        Cc1cc(N)[nH+]c2ccc3ccccc3c12 (Gen_4_Cross_760171), broke an aromatic
+        ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_760171)
+            Mol #0: Cc1cc(N)[nH+]c2ccc3ccccc3c12
+            Mol #1: Cc1cc(=N)[nH]c2ccc3ccccc3c12
+            Mol #2: Cc1cc(N)nc2ccc3ccccc3c12
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_760171)
+            Mol #0: Cc1cc(N)[nH+]c2ccc3ccccc3c12
+            Mol #1: Cc1cc(=N)[nH]c2ccc3ccccc3c12
+            Mol #2: Cc1cc(N)nc2ccc3ccccc3c12
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_760171)
+            Mol #0: Cc1cc(N)[nH+]c2ccc3ccccc3c12
+            Mol #1: Cc1cc(=N)[nH]c2ccc3ccccc3c12
+            Mol #2: Cc1cc(N)nc2ccc3ccccc3c12
+Enumerating all possible cis-trans isomers for all molecules...
+    Cc1cc(=N)[nH]c2ccc3ccccc3c12 has 1 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_760171)
+            Mol #0: Cc1cc(N)[nH+]c2ccc3ccccc3c12
+            Mol #1: [H]/N=c1/cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #2: [H]/N=c1\cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #3: Cc1cc(N)nc2ccc3ccccc3c12
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_760171)
+            Mol #0: Cc1cc(N)[nH+]c2ccc3ccccc3c12
+            Mol #1: [H]/N=c1/cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #2: [H]/N=c1\cc(C)c2c(ccc3ccccc32)[nH]1
+            Mol #3: Cc1cc(N)nc2ccc3ccccc3c12
+Saving molecules associated with...
+    Cc1cc(N)[nH+]c2ccc3ccccc3c12
+
+Start time at: 2025-12-27 22:21:55.735882
+End time at:   2025-12-27 22:21:57.251346
+Total time at: 0:00:01.515464

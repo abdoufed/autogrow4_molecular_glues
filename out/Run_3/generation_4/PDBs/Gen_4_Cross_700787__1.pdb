@@ -1,0 +1,35 @@
+REMARK Final SMILES string: O=Cc1cccc2ccccc12
+COMPND    Gen_4_Cross_700787
+HETATM    1  O1  LIG X 999       2.993  -2.917   1.548  1.00  0.00           O  
+HETATM    2  C1  LIG X 999       1.849  -2.548   1.167  1.00  0.00           C  
+HETATM    3  C2  LIG X 999       1.418  -1.131   1.313  1.00  0.00           C  
+HETATM    4  C3  LIG X 999       2.323  -0.217   1.888  1.00  0.00           C  
+HETATM    5  C4  LIG X 999       1.986   1.124   2.055  1.00  0.00           C  
+HETATM    6  C5  LIG X 999       0.739   1.589   1.654  1.00  0.00           C  
+HETATM    7  C6  LIG X 999      -0.190   0.715   1.078  1.00  0.00           C  
+HETATM    8  C7  LIG X 999      -1.444   1.204   0.679  1.00  0.00           C  
+HETATM    9  C8  LIG X 999      -2.382   0.350   0.103  1.00  0.00           C  
+HETATM   10  C9  LIG X 999      -2.080  -0.998  -0.079  1.00  0.00           C  
+HETATM   11  C10 LIG X 999      -0.838  -1.504   0.311  1.00  0.00           C  
+HETATM   12  C11 LIG X 999       0.136  -0.661   0.898  1.00  0.00           C  
+HETATM   13  H1  LIG X 999       1.210  -3.300   0.737  1.00  0.00           H  
+HETATM   14  H2  LIG X 999       3.305  -0.539   2.214  1.00  0.00           H  
+HETATM   15  H3  LIG X 999       2.699   1.807   2.500  1.00  0.00           H  
+HETATM   16  H4  LIG X 999       0.500   2.637   1.794  1.00  0.00           H  
+HETATM   17  H5  LIG X 999      -1.698   2.249   0.812  1.00  0.00           H  
+HETATM   18  H6  LIG X 999      -3.348   0.733  -0.202  1.00  0.00           H  
+HETATM   19  H7  LIG X 999      -2.814  -1.656  -0.527  1.00  0.00           H  
+HETATM   20  H8  LIG X 999      -0.670  -2.554   0.141  1.00  0.00           H  
+TER      21      UNL     1 
+CONECT    1    2    2
+CONECT    2    3   13
+CONECT    3    4    4   12
+CONECT    4    5   14
+CONECT    5    6    6   15
+CONECT    6    7   16
+CONECT    7    8    8   12
+CONECT    8    9   17
+CONECT    9   10   10   18
+CONECT   10   11   19
+CONECT   11   12   12   20
+END

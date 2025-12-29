@@ -1,0 +1,90 @@
+EMPTY MOLECULE DESCRIBING GYPSUM-DL PARAMETERS
+     RDKit          2D
+
+  0  0  0  0  0  0  0  0  0  0999 V2000
+M  END
+>  <source>  (1) 
+/home/abdou/autgorw/complex/out/Run_3/generation_4/gypsum_submission_files/Gen_4_Cross_871540.smi
+
+>  <output_folder>  (1) 
+/home/abdou/autgorw/complex/out/Run_3/generation_4/3D_SDFs/
+
+>  <separate_output_files>  (1) 
+True
+
+>  <add_pdb_output>  (1) 
+False
+
+>  <add_html_output>  (1) 
+False
+
+>  <num_processors>  (1) 
+1
+
+>  <start_time>  (1) 
+0
+
+>  <end_time>  (1) 
+0
+
+>  <run_time>  (1) 
+0
+
+>  <min_ph>  (1) 
+6.4
+
+>  <max_ph>  (1) 
+8.4
+
+>  <pka_precision>  (1) 
+1.0
+
+>  <thoroughness>  (1) 
+3
+
+>  <max_variants_per_compound>  (1) 
+5
+
+>  <second_embed>  (1) 
+False
+
+>  <2d_output_only>  (1) 
+False
+
+>  <skip_optimize_geometry>  (1) 
+False
+
+>  <skip_alternate_ring_conformations>  (1) 
+False
+
+>  <skip_adding_hydrogen>  (1) 
+False
+
+>  <skip_making_tautomers>  (1) 
+False
+
+>  <skip_enumerate_chiral_mol>  (1) 
+False
+
+>  <skip_enumerate_double_bonds>  (1) 
+False
+
+>  <let_tautomers_change_chirality>  (1) 
+False
+
+>  <use_durrant_lab_filters>  (1) 
+True
+
+>  <job_manager>  (1) 
+serial
+
+>  <cache_prerun>  (1) 
+False
+
+>  <test>  (1) 
+False
+
+>  <Parallelizer>  (1) 
+<gypsum_dl.Parallelizer.Parallelizer object at 0x7f663c587dd0>
+
+$$$$

@@ -1,0 +1,70 @@
+Loading molecules from Gen_4_Mutant_31_660310.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_660310)
+            Mol #0: O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_660310)
+            Mol #0: O=C([N-]COc1ccccc1)NCCOc1ccc2ccccc2c1
+            Mol #1: O=C([N-]CCOc1ccc2ccccc2c1)[N-]COc1ccccc1
+            Mol #2: O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1
+            Mol #3: O=C([N-]CCOc1ccc2ccccc2c1)NCOc1ccccc1
+Generating tautomers for all molecules...
+    O=C([N-]COc1ccccc1)NCCOc1ccc2ccccc2c1 has tautomers.
+    O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1 has tautomers.
+    O=C([N-]CCOc1ccc2ccccc2c1)NCOc1ccccc1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_660310)
+            Mol #0: OC(=NCCOc1ccc2ccccc2c1)[N-]COc1ccccc1
+            Mol #1: O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1
+            Mol #2: O=C([N-]CCOc1ccc2ccccc2c1)NCOc1ccccc1
+            Mol #3: OC(=NCOc1ccccc1)NCCOc1ccc2ccccc2c1
+            Mol #4: OC(=NCOc1ccccc1)[N-]CCOc1ccc2ccccc2c1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_660310)
+            Mol #0: OC(=NCCOc1ccc2ccccc2c1)[N-]COc1ccccc1
+            Mol #1: OC(=NCOc1ccccc1)[N-]CCOc1ccc2ccccc2c1
+            Mol #2: O=C([N-]CCOc1ccc2ccccc2c1)NCOc1ccccc1
+            Mol #3: OC(=NCOc1ccccc1)NCCOc1ccc2ccccc2c1
+            Mol #4: O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_660310)
+            Mol #0: OC(=NCCOc1ccc2ccccc2c1)[N-]COc1ccccc1
+            Mol #1: OC(=NCOc1ccccc1)[N-]CCOc1ccc2ccccc2c1
+            Mol #2: O=C([N-]CCOc1ccc2ccccc2c1)NCOc1ccccc1
+            Mol #3: OC(=NCOc1ccccc1)NCCOc1ccc2ccccc2c1
+            Mol #4: O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1
+Enumerating all possible cis-trans isomers for all molecules...
+    OC(=NCCOc1ccc2ccccc2c1)[N-]COc1ccccc1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    OC(=NCOc1ccccc1)[N-]CCOc1ccc2ccccc2c1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    OC(=NCOc1ccccc1)NCCOc1ccc2ccccc2c1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_660310)
+            Mol #0: O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1
+            Mol #1: O/C(=N/CCOc1ccc2ccccc2c1)[N-]COc1ccccc1
+            Mol #2: O/C(=N\COc1ccccc1)[N-]CCOc1ccc2ccccc2c1
+            Mol #3: O/C(=N\CCOc1ccc2ccccc2c1)[N-]COc1ccccc1
+            Mol #4: O=C([N-]CCOc1ccc2ccccc2c1)NCOc1ccccc1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_31_660310)
+            Mol #0: O/C(=N/CCOc1ccc2ccccc2c1)[N-]COc1ccccc1
+            Mol #1: O=C([N-]CCOc1ccc2ccccc2c1)NCOc1ccccc1
+            Mol #2: O/C(=N\CCOc1ccc2ccccc2c1)[N-]COc1ccccc1
+            Mol #3: O/C(=N\COc1ccccc1)[N-]CCOc1ccc2ccccc2c1
+            Mol #4: O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1
+Saving molecules associated with...
+    O=C(NCCOc1ccc2ccccc2c1)NCOc1ccccc1
+
+Start time at: 2025-12-27 22:21:31.993406
+End time at:   2025-12-27 22:21:38.510230
+Total time at: 0:00:06.516824

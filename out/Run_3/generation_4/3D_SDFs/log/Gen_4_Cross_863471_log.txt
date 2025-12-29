@@ -1,0 +1,102 @@
+Loading molecules from Gen_4_Cross_863471.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_863471)
+            Mol #0: [N-]=[N+]=Nc1n[nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_863471)
+            Mol #0: [N-]=[N+]=Nc1nnc(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+            Mol #1: [N-]=[N+]=Nc1[nH+][nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+            Mol #2: [N-]=[N+]=Nc1n[nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+            Mol #3: [N-]=[N+]=Nc1[nH+]nc(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_863471)
+            Mol #0: [N-]=[N+]=Nc1nnc(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+            Mol #1: [N-]=[N+]=Nc1[nH+][nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+            Mol #2: [N-]=[N+]=Nc1n[nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+            Mol #3: [N-]=[N+]=Nc1[nH+]nc(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+Applying Durrant-lab filters to all molecules...
+    [N-]=[N+]=Nc1[nH+][nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1, a variant
+        generated from [N-]=[N+]=Nc1n[nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+        (Gen_4_Cross_863471), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_863471)
+            Mol #0: [N-]=[N+]=Nc1nnc(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+            Mol #1: [N-]=[N+]=Nc1n[nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+            Mol #2: [N-]=[N+]=Nc1[nH+]nc(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+Enumerating all possible enantiomers for all molecules...
+    [N-]=[N+]=Nc1nnc(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1 (Gen_4_Cross_863471) has
+        8 enantiomers when chiral centers with no specified chirality are
+        systematically varied.
+    [N-]=[N+]=Nc1n[nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1 (Gen_4_Cross_863471)
+        has 8 enantiomers when chiral centers with no specified chirality are
+        systematically varied.
+    [N-]=[N+]=Nc1[nH+]nc(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1 (Gen_4_Cross_863471)
+        has 8 enantiomers when chiral centers with no specified chirality are
+        systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_863471)
+            Mol #0:
+                [N-]=[N+]=Nc1n[nH+]c([C@@]23C=CC=C[C@@H]2C[C@H](C#CC(=O)[O-])CC3
+                )o1
+            Mol #1:
+                [N-]=[N+]=Nc1nnc([C@]23C=CC=C[C@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+            Mol #2:
+                [N-]=[N+]=Nc1nnc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+            Mol #3:
+                [N-]=[N+]=Nc1[nH+]nc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC
+                3)o1
+            Mol #4:
+                [N-]=[N+]=Nc1nnc([C@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=Nc1n[nH+]c([C@@]23C=CC=C[C@@H]2C[C@H](C#CC(=O)[O-])CC3)o1 has 3
+        double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=Nc1nnc([C@]23C=CC=C[C@H]2C[C@@H](C#CC(=O)[O-])CC3)o1 has 3 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=Nc1nnc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1 has 3
+        double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=Nc1[nH+]nc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1 has 3
+        double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=Nc1nnc([C@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1 has 3 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_863471)
+            Mol #0:
+                [N-]=[N+]=Nc1n[nH+]c([C@@]23C=CC=C[C@@H]2C[C@H](C#CC(=O)[O-])CC3
+                )o1
+            Mol #1:
+                [N-]=[N+]=Nc1nnc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+            Mol #2:
+                [N-]=[N+]=Nc1nnc([C@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+            Mol #3:
+                [N-]=[N+]=Nc1[nH+]nc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC
+                3)o1
+            Mol #4:
+                [N-]=[N+]=Nc1nnc([C@]23C=CC=C[C@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_863471)
+            Mol #0:
+                [N-]=[N+]=Nc1nnc([C@]23C=CC=C[C@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+            Mol #1:
+                [N-]=[N+]=Nc1nnc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+            Mol #2:
+                [N-]=[N+]=Nc1nnc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC3)o1
+            Mol #3:
+                [N-]=[N+]=Nc1n[nH+]c([C@@]23C=CC=C[C@@H]2C[C@H](C#CC(=O)[O-])CC3
+                )o1
+            Mol #4:
+                [N-]=[N+]=Nc1[nH+]nc([C@@]23C=CC=C[C@@H]2C[C@@H](C#CC(=O)[O-])CC
+                3)o1
+Saving molecules associated with...
+    [N-]=[N+]=Nc1n[nH+]c(C23C=CC=CC2CC(C#CC(=O)[O-])CC3)o1
+
+Start time at: 2025-12-27 22:21:56.168006
+End time at:   2025-12-27 22:22:03.539845
+Total time at: 0:00:07.371839

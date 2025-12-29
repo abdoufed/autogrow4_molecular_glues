@@ -1,0 +1,113 @@
+Loading molecules from Gen_4_Cross_732105.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_732105)
+            Mol #0:
+                C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2nnc(N=[N+]=[N-])o2)
+                C1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_732105)
+            Mol #0: C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2[nH+]nc(N=[N+]=
+                [N-])o2)C1
+            Mol #1: C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2n[nH+]c(N=[N+]=
+                [N-])o2)C1
+            Mol #2: C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2[nH+][nH+]c(N=[
+                N+]=[N-])o2)C1
+            Mol #3:
+                C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2nnc(N=[N+]=[N-])o2)
+                C1
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_732105)
+            Mol #0: C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2[nH+]nc(N=[N+]=
+                [N-])o2)C1
+            Mol #1: C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2n[nH+]c(N=[N+]=
+                [N-])o2)C1
+            Mol #2: C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2[nH+][nH+]c(N=[
+                N+]=[N-])o2)C1
+            Mol #3:
+                C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2nnc(N=[N+]=[N-])o2)
+                C1
+Applying Durrant-lab filters to all molecules...
+    C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2[nH+][nH+]c(N=[N+]=[N-])o2)C1,
+        a variant generated from
+        C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2nnc(N=[N+]=[N-])o2)C1
+        (Gen_4_Cross_732105), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_732105)
+            Mol #0: C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2[nH+]nc(N=[N+]=
+                [N-])o2)C1
+            Mol #1: C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2n[nH+]c(N=[N+]=
+                [N-])o2)C1
+            Mol #2:
+                C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2nnc(N=[N+]=[N-])o2)
+                C1
+Enumerating all possible enantiomers for all molecules...
+    C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2[nH+]nc(N=[N+]=[N-])o2)C1
+        (Gen_4_Cross_732105) has 8 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2n[nH+]c(N=[N+]=[N-])o2)C1
+        (Gen_4_Cross_732105) has 8 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2nnc(N=[N+]=[N-])o2)C1
+        (Gen_4_Cross_732105) has 8 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_732105)
+            Mol #0: C#CCS(=O)(=O)[C@@H]1CC[C@@H]2[C@H](N=[N+]=[N-])CCC[C@]2(c2[n
+                H+]nc(N=[N+]=[N-])o2)C1
+            Mol #1: C#CCS(=O)(=O)[C@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2[nH
+                +]nc(N=[N+]=[N-])o2)C1
+            Mol #2: C#CCS(=O)(=O)[C@@H]1CC[C@@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2n
+                nc(N=[N+]=[N-])o2)C1
+            Mol #3: C#CCS(=O)(=O)[C@@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@]2(c2[nH
+                +]nc(N=[N+]=[N-])o2)C1
+            Mol #4: C#CCS(=O)(=O)[C@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2nnc
+                (N=[N+]=[N-])o2)C1
+Enumerating all possible cis-trans isomers for all molecules...
+    C#CCS(=O)(=O)[C@@H]1CC[C@@H]2[C@H](N=[N+]=[N-])CCC[C@]2(c2[nH+]nc(N=[N+]=[N-
+        ])o2)C1 has 6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2[nH+]nc(N=[N+]=[N-]
+        )o2)C1 has 6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@@H]1CC[C@@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2nnc(N=[N+]=[N-])o
+        2)C1 has 6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@]2(c2[nH+]nc(N=[N+]=[N-]
+        )o2)C1 has 6 double bond(s) with unspecified stereochemistry.
+    C#CCS(=O)(=O)[C@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2nnc(N=[N+]=[N-])o2)
+        C1 has 6 double bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_732105)
+            Mol #0: C#CCS(=O)(=O)[C@@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@]2(c2[nH
+                +]nc(N=[N+]=[N-])o2)C1
+            Mol #1: C#CCS(=O)(=O)[C@@H]1CC[C@@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2n
+                nc(N=[N+]=[N-])o2)C1
+            Mol #2: C#CCS(=O)(=O)[C@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2[nH
+                +]nc(N=[N+]=[N-])o2)C1
+            Mol #3: C#CCS(=O)(=O)[C@@H]1CC[C@@H]2[C@H](N=[N+]=[N-])CCC[C@]2(c2[n
+                H+]nc(N=[N+]=[N-])o2)C1
+            Mol #4: C#CCS(=O)(=O)[C@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2nnc
+                (N=[N+]=[N-])o2)C1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_732105)
+            Mol #0: C#CCS(=O)(=O)[C@@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@]2(c2[nH
+                +]nc(N=[N+]=[N-])o2)C1
+            Mol #1: C#CCS(=O)(=O)[C@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2nnc
+                (N=[N+]=[N-])o2)C1
+            Mol #2: C#CCS(=O)(=O)[C@@H]1CC[C@@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2n
+                nc(N=[N+]=[N-])o2)C1
+            Mol #3: C#CCS(=O)(=O)[C@@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@]2(c2[nH
+                +]nc(N=[N+]=[N-])o2)C1
+            Mol #4: C#CCS(=O)(=O)[C@H]1CC[C@H]2[C@H](N=[N+]=[N-])CCC[C@@]2(c2[nH
+                +]nc(N=[N+]=[N-])o2)C1
+Saving molecules associated with...
+    C#CCS(=O)(=O)C1CCC2[C@H](N=[N+]=[N-])CCCC2(c2nnc(N=[N+]=[N-])o2)C1
+
+Start time at: 2025-12-27 22:22:04.359756
+End time at:   2025-12-27 22:22:14.240588
+Total time at: 0:00:09.880832

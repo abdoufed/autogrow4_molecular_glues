@@ -1,0 +1,90 @@
+Loading molecules from Gen_4_Mutant_5_186639.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_186639)
+            Mol #0: Cc1nnn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_186639)
+            Mol #0:
+                Cc1nnn(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #1: Cc1[nH+][nH+]n(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1
+                N=[N+]=[N-]
+            Mol #2:
+                Cc1n[nH+]n(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[
+                N-]
+            Mol #3: Cc1nnn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #4:
+                Cc1[nH+]nn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+Generating tautomers for all molecules...
+    Cc1nnn(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has
+        tautomers.
+    Cc1[nH+][nH+]n(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has
+        tautomers.
+    Cc1n[nH+]n(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has
+        tautomers.
+    Cc1nnn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has tautomers.
+    Cc1[nH+]nn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has
+        tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_186639)
+            Mol #0:
+                Cc1nnn(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #1: Cc1nnn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #2: Cc1nnn(CC(O)=Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #3:
+                Cc1[nH+]nn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #4:
+                Cc1[nH+]nn(C=C(O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_186639)
+            Mol #0: Cc1nnn(CC(O)=Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #1:
+                Cc1[nH+]nn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #2: Cc1nnn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #3:
+                Cc1[nH+]nn(C=C(O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #4:
+                Cc1nnn(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_186639)
+            Mol #0: Cc1nnn(CC(O)=Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #1:
+                Cc1[nH+]nn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #2: Cc1nnn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #3:
+                Cc1[nH+]nn(C=C(O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #4:
+                Cc1nnn(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+Enumerating all possible cis-trans isomers for all molecules...
+    Cc1nnn(CC(O)=Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has 3 double
+        bond(s) with unspecified stereochemistry.
+    Cc1[nH+]nn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has 3
+        double bond(s) with unspecified stereochemistry.
+    Cc1nnn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has 3 double
+        bond(s) with unspecified stereochemistry.
+    Cc1[nH+]nn(C=C(O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has 3
+        double bond(s) with unspecified stereochemistry.
+    Cc1nnn(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-] has 3 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_186639)
+            Mol #0:
+                Cc1nnn(C/C(O)=N\c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #1:
+                Cc1[nH+]nn(/C=C(\O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N
+                -]
+            Mol #2: Cc1nnn(CC(=O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+            Mol #3:
+                Cc1[nH+]nn(/C=C(/O)Nc2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N
+                -]
+            Mol #4:
+                Cc1nnn(CC(=O)[N-]c2ccc3c(c2)OCCO3)c1COc1ccc2ccccc2c1N=[N+]=[N-]
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Warning: Could not calculate energy for molecule [H]O/C(=C(\[H])n1n[n+]([H])c(C(
+    [H])([H])[H])c1C([H])([H])Oc1c([H])c([H])c2c([H])c([H])c([H])c([H])c2c1N=[N+
+    ]=[N-])N([H])c1c([H])c([H])c2c(c1[H])OC([H])([H])C([H])([H])O2

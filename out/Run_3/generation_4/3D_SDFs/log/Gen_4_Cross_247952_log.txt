@@ -1,0 +1,61 @@
+Loading molecules from Gen_4_Cross_247952.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_247952)
+            Mol #0: [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_247952)
+            Mol #0: [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2
+Generating tautomers for all molecules...
+    [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2 has tautomers.
+    [N-]=[N+]=NC1=NC2=CCC(=N)c3cccc1c32, a tautomer generated from
+        [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2 (Gen_4_Cross_247952), broke an
+        aromatic ring, so I'm discarding it.
+    [N-]=[NH+]N=C1N=C2C=CC(=N)c3cccc1c32, a tautomer generated from
+        [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2 (Gen_4_Cross_247952), broke an
+        aromatic ring, so I'm discarding it.
+    [N-]=[N+]=NC1N=C2C=CC(=N)c3cccc1c32, a tautomer generated from
+        [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2 (Gen_4_Cross_247952), broke an
+        aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_247952)
+            Mol #0: [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2
+            Mol #1: [N-]=[N+]=NC1=Nc2ccc(N)c3cccc1c23
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_247952)
+            Mol #0: [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2
+            Mol #1: [N-]=[N+]=NC1=Nc2ccc(N)c3cccc1c23
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_247952)
+            Mol #0: [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2
+            Mol #1: [N-]=[N+]=NC1=Nc2ccc(N)c3cccc1c23
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2 has 3 double bond(s) with
+        unspecified stereochemistry.
+    [N-]=[N+]=NC1=Nc2ccc(N)c3cccc1c23 has 2 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_247952)
+            Mol #0: [H]/N=C1/C=Cc2[nH]c(N=[N+]=[N-])c3cccc1c23
+            Mol #1: [H]/N=C1\C=Cc2[nH]c(N=[N+]=[N-])c3cccc1c23
+            Mol #2: [N-]=[N+]=NC1=Nc2ccc(N)c3cccc1c23
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_247952)
+            Mol #0: [H]/N=C1\C=Cc2[nH]c(N=[N+]=[N-])c3cccc1c23
+            Mol #1: [H]/N=C1/C=Cc2[nH]c(N=[N+]=[N-])c3cccc1c23
+            Mol #2: [H]/N=C1/C=Cc2[nH]c(N=[N+]=[N-])c3cccc1c23
+            Mol #3: [H]/N=C1\C=Cc2[nH]c(N=[N+]=[N-])c3cccc1c23
+            Mol #4: [H]/N=C1\C=Cc2[nH]c(N=[N+]=[N-])c3cccc1c23
+Saving molecules associated with...
+    [N-]=[N+]=Nc1[nH]c2c3c(cccc13)C(=N)C=C2
+
+Start time at: 2025-12-27 22:22:02.961720
+End time at:   2025-12-27 22:22:04.062519
+Total time at: 0:00:01.100799

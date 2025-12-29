@@ -1,0 +1,75 @@
+Loading molecules from Gen_4_Mutant_5_720387.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_720387)
+            Mol #0: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_720387)
+            Mol #0: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)[nH+]n1
+            Mol #1: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #2: Cc1cccc(C)c1[N-]C(=O)Cn1cc(CCOc2ccc3ccccc3c2)[nH+][nH+]1
+            Mol #3: Cc1cccc(C)c1[N-]C(=O)Cn1cc(CCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #4: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+Generating tautomers for all molecules...
+    Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)[nH+]n1 has tautomers.
+    Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)n[nH+]1 has tautomers.
+    Cc1cccc(C)c1[N-]C(=O)Cn1cc(CCOc2ccc3ccccc3c2)[nH+][nH+]1 has tautomers.
+    Cc1cccc(C)c1[N-]C(=O)Cn1cc(CCOc2ccc3ccccc3c2)n[nH+]1 has tautomers.
+    Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_720387)
+            Mol #0: Cc1cccc(C)c1N=C(O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #1: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #2: Cc1cccc(C)c1[N-]C(O)=Cn1cc(CCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #3: Cc1cccc(C)c1NC(O)=Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #4: Cc1cccc(C)c1[N-]C(=O)Cn1cc(CCOc2ccc3ccccc3c2)[nH+][nH+]1
+Applying Durrant-lab filters to all molecules...
+    Cc1cccc(C)c1[N-]C(=O)Cn1cc(CCOc2ccc3ccccc3c2)[nH+][nH+]1, a variant
+        generated from Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+        (Gen_4_Mutant_5_720387), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_720387)
+            Mol #0: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #1: Cc1cccc(C)c1[N-]C(O)=Cn1cc(CCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #2: Cc1cccc(C)c1N=C(O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #3: Cc1cccc(C)c1NC(O)=Cn1cc(CCOc2ccc3ccccc3c2)nn1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_720387)
+            Mol #0: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #1: Cc1cccc(C)c1[N-]C(O)=Cn1cc(CCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #2: Cc1cccc(C)c1N=C(O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #3: Cc1cccc(C)c1NC(O)=Cn1cc(CCOc2ccc3ccccc3c2)nn1
+Enumerating all possible cis-trans isomers for all molecules...
+    Cc1cccc(C)c1[N-]C(O)=Cn1cc(CCOc2ccc3ccccc3c2)n[nH+]1 has 1 double bond(s)
+        with unspecified stereochemistry.
+    Cc1cccc(C)c1N=C(O)Cn1cc(CCOc2ccc3ccccc3c2)nn1 has 1 double bond(s) with
+        unspecified stereochemistry.
+    Cc1cccc(C)c1NC(O)=Cn1cc(CCOc2ccc3ccccc3c2)nn1 has 1 double bond(s) with
+        unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_720387)
+            Mol #0: Cc1cccc(C)c1N/C(O)=C/n1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #1: Cc1cccc(C)c1/N=C(\O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #2: Cc1cccc(C)c1/N=C(/O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #3: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #4: Cc1cccc(C)c1[N-]/C(O)=C/n1cc(CCOc2ccc3ccccc3c2)n[nH+]1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_720387)
+            Mol #0: Cc1cccc(C)c1N/C(O)=C/n1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #1: Cc1cccc(C)c1/N=C(/O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #2: Cc1cccc(C)c1/N=C(\O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #3: Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+            Mol #4: Cc1cccc(C)c1[N-]/C(O)=C/n1cc(CCOc2ccc3ccccc3c2)n[nH+]1
+Saving molecules associated with...
+    Cc1cccc(C)c1NC(=O)Cn1cc(CCOc2ccc3ccccc3c2)nn1
+
+Start time at: 2025-12-27 22:21:36.563283
+End time at:   2025-12-27 22:21:48.267835
+Total time at: 0:00:11.704552

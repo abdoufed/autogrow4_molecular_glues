@@ -1,0 +1,37 @@
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C7_7  and  N1_9 
+REMARK    2  A    between atoms: N1_9  and  C8_11 
+REMARK    3  A    between atoms: C8_11  and  C9_12 
+REMARK    4  A    between atoms: C9_12  and  N2_13 
+ROOT
+HETATM    1  N2  LIG X 999      -1.381  -4.692   0.827  1.00  0.00    -0.114 NA
+HETATM    2  N3  LIG X 999      -2.468  -4.116   0.875  1.00  0.00    -0.168 NA
+HETATM    3  N4  LIG X 999      -3.554  -3.539   0.923  1.00  0.00     0.068 N 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C9  LIG X 999      -0.820  -5.136  -0.444  1.00  0.00     0.208 C 
+BRANCH   4   5
+HETATM    5  C8  LIG X 999       0.533  -4.467  -0.685  1.00  0.00     0.147 C 
+BRANCH   5   6
+HETATM    6  N1  LIG X 999       0.392  -3.019  -0.845  1.00  0.00    -0.355 N 
+HETATM    7  C7  LIG X 999       1.536  -2.177  -1.051  1.00  0.00     0.251 C 
+HETATM    8  O1  LIG X 999       2.663  -2.703  -1.268  1.00  0.00    -0.268 OA
+HETATM    9  H5  LIG X 999      -0.564  -2.596  -0.855  1.00  0.00     0.162 HD
+BRANCH   7  10
+HETATM   10  C6  LIG X 999       1.415  -0.700  -1.032  1.00  0.00     0.032 A 
+HETATM   11  C5  LIG X 999       0.390  -0.065  -0.306  1.00  0.00     0.029 A 
+HETATM   12  C4  LIG X 999       0.287   1.334  -0.291  1.00  0.00    -0.025 A 
+HETATM   13  C3  LIG X 999      -0.737   1.969   0.429  1.00  0.00     0.012 A 
+HETATM   14  C12 LIG X 999       1.227   2.115  -1.006  1.00  0.00    -0.026 A 
+HETATM   15  C2  LIG X 999      -0.830   3.364   0.437  1.00  0.00     0.001 A 
+HETATM   16  C1  LIG X 999       0.097   4.134  -0.270  1.00  0.00     0.001 A 
+HETATM   17  C13 LIG X 999       1.123   3.515  -0.990  1.00  0.00     0.012 A 
+HETATM   18  C11 LIG X 999       2.254   1.483  -1.718  1.00  0.00     0.013 A 
+HETATM   19  C10 LIG X 999       2.349   0.089  -1.726  1.00  0.00     0.018 A 
+ENDBRANCH   7  10
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+TORSDOF 4

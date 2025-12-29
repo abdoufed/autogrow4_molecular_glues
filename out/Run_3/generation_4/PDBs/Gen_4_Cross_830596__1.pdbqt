@@ -1,0 +1,35 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: N1_2  and  C3_4 
+REMARK    1  A    between atoms: C3_4  and  O2_6 
+REMARK    2  A    between atoms: O2_6  and  C4_7 
+REMARK    3  A    between atoms: C13_16  and  N2_17 
+ROOT
+HETATM    1  C4  LIG X 999       0.051  -0.586   0.558  1.00  0.00     0.107 A 
+HETATM    2  C5  LIG X 999       0.684  -1.737   1.054  1.00  0.00     0.040 A 
+HETATM    3  C6  LIG X 999      -0.063  -2.795   1.561  1.00  0.00     0.015 A 
+HETATM    4  C7  LIG X 999      -1.460  -2.740   1.557  1.00  0.00    -0.024 A 
+HETATM    5  C8  LIG X 999      -2.200  -3.824   2.058  1.00  0.00     0.012 A 
+HETATM    6  C9  LIG X 999      -3.594  -3.796   2.032  1.00  0.00     0.001 A 
+HETATM    7  C10 LIG X 999      -4.261  -2.696   1.498  1.00  0.00     0.001 A 
+HETATM    8  C11 LIG X 999      -3.541  -1.609   0.996  1.00  0.00     0.014 A 
+HETATM    9  C12 LIG X 999      -2.128  -1.601   1.030  1.00  0.00     0.003 A 
+HETATM   10  C13 LIG X 999      -1.358  -0.510   0.538  1.00  0.00     0.071 A 
+ENDROOT
+BRANCH   1  11
+HETATM   11  O2  LIG X 999       0.799   0.487   0.047  1.00  0.00    -0.254 OA
+BRANCH  11  12
+HETATM   12  C3  LIG X 999       2.067   0.881   0.500  1.00  0.00     0.461 C 
+HETATM   13  N1  LIG X 999       2.845   1.796  -0.296  1.00  0.00     0.009 N 
+HETATM   14  C1  LIG X 999       2.976   3.087   0.396  1.00  0.00     0.282 C 
+HETATM   15  C2  LIG X 999       4.167   1.222  -0.594  1.00  0.00     0.282 C 
+HETATM   16  H4  LIG X 999       2.349   1.959  -1.204  1.00  0.00     0.292 HD
+HETATM   17  O1  LIG X 999       2.495   0.491   1.623  1.00  0.00    -0.230 OA
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+BRANCH  10  18
+HETATM   18  N2  LIG X 999      -1.976   0.690   0.042  1.00  0.00    -0.396 N 
+HETATM   19  H14 LIG X 999      -2.954   0.959   0.278  1.00  0.00     0.156 HD
+HETATM   20  H15 LIG X 999      -1.422   1.403  -0.482  1.00  0.00     0.156 HD
+ENDBRANCH  10  18
+TORSDOF 3

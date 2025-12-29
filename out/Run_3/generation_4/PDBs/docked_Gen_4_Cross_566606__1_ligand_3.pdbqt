@@ -1,0 +1,12 @@
+REMARK VINA RESULT:      -5.5      0.672      2.075
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C1  LIG X 999      46.337 131.344  13.498  1.00  0.00     0.000 A 
+HETATM    2  C2  LIG X 999      45.748 130.529  14.471  1.00  0.00     0.000 A 
+HETATM    3  C3  LIG X 999      46.412 129.382  14.918  1.00  0.00     0.000 A 
+HETATM    4  C4  LIG X 999      47.665 129.048  14.390  1.00  0.00     0.000 A 
+HETATM    5  C5  LIG X 999      48.253 129.863  13.418  1.00  0.00     0.000 A 
+HETATM    6  C6  LIG X 999      47.590 131.010  12.971  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0

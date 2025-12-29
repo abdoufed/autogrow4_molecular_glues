@@ -1,0 +1,40 @@
+Loading molecules from Gen_4_Cross_438969.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_438969)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_438969)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_438969)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_438969)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_438969)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO
+Enumerating all possible cis-trans isomers for all molecules...
+    C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO has 2 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_438969)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_438969)
+            Mol #0: C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO
+Saving molecules associated with...
+    C#CCOc1cc2ccc(N=[N+]=[N-])cc2cc1CO
+
+Start time at: 2025-12-27 22:22:01.389708
+End time at:   2025-12-27 22:22:01.904287
+Total time at: 0:00:00.514579

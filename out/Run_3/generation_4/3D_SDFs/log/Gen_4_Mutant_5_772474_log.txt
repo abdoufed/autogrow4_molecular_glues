@@ -1,0 +1,96 @@
+Loading molecules from Gen_4_Mutant_5_772474.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_772474)
+            Mol #0: CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)nn1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_772474)
+            Mol #0: CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1
+            Mol #1:
+                CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+][nH+]1
+            Mol #2: CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1
+            Mol #3: CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #4: CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+Generating tautomers for all molecules...
+    CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1 has tautomers.
+    CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+][nH+]1 has
+        tautomers.
+    CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1 has tautomers.
+    CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1 has tautomers.
+    CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1 has tautomers.
+    CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)nn1 ==>
+        CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+][nH+]1
+        (tautomer transformation on Gen_4_Mutant_5_772474) changed the molecules
+        total number of specified chiral centers from 2 to 3, so I'm deleting
+        it.
+    CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)nn1 ==>
+        CC[C@@H]1CCCC[NH+]1C(O)=Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+][nH+]1
+        (tautomer transformation on Gen_4_Mutant_5_772474) changed the molecules
+        total number of specified chiral centers from 2 to 3, so I'm deleting
+        it.
+    CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)nn1 ==>
+        CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1 (tautomer
+        transformation on Gen_4_Mutant_5_772474) changed the molecules total
+        number of specified chiral centers from 2 to 3, so I'm deleting it.
+    CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)nn1 ==>
+        CC[C@@H]1CCCC[NH+]1C(O)=Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1 (tautomer
+        transformation on Gen_4_Mutant_5_772474) changed the molecules total
+        number of specified chiral centers from 2 to 3, so I'm deleting it.
+    CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)nn1 ==>
+        CC[C@@H]1CCCC[NH+]1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1 (tautomer
+        transformation on Gen_4_Mutant_5_772474) changed the molecules total
+        number of specified chiral centers from 2 to 3, so I'm deleting it.
+    CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)nn1 ==>
+        CC[C@@H]1CCCC[NH+]1C(O)=Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1 (tautomer
+        transformation on Gen_4_Mutant_5_772474) changed the molecules total
+        number of specified chiral centers from 2 to 3, so I'm deleting it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_772474)
+            Mol #0:
+                CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+][nH+]1
+            Mol #1: CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #2: CC[C@@H]1CCCCN1C(O)=Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #3: CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #4: CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1
+Applying Durrant-lab filters to all molecules...
+    CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+][nH+]1, a variant
+        generated from CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)nn1
+        (Gen_4_Mutant_5_772474), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_772474)
+            Mol #0: CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #1: CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1
+            Mol #2: CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #3: CC[C@@H]1CCCCN1C(O)=Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_772474)
+            Mol #0: CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #1: CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1
+            Mol #2: CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #3: CC[C@@H]1CCCCN1C(O)=Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+Enumerating all possible cis-trans isomers for all molecules...
+    CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1 has 2 double
+        bond(s) with unspecified stereochemistry.
+    CC[C@@H]1CCCC[N+]1=C(O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1 has 2 double
+        bond(s) with unspecified stereochemistry.
+    CC[C@@H]1CCCCN1C(O)=Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1 has 2 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_772474)
+            Mol #0:
+                CC[C@@H]1CCCC/[N+]1=C(\O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)[nH+]n1
+            Mol #1: CC[C@@H]1CCCCN1/C(O)=C\n1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #2: CC[C@@H]1CCCCN1/C(O)=C/n1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #3: CC[C@@H]1CCCCN1C(=O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+            Mol #4:
+                CC[C@@H]1CCCC/[N+]1=C(\O)Cn1cc(CCOc2c(C=O)ccc3ccccc23)n[nH+]1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Warning: Could not calculate energy for molecule [H]O/C(=[N+]1\C([H])([H])C([H])
+    ([H])C([H])([H])C([H])([H])[C@@]1([H])C([H])([H])C([H])([H])[H])C([H])([H])n
+    1n[n+]([H])c(C([H])([H])C([H])([H])Oc2c(C([H])=O)c([H])c([H])c3c([H])c([H])c
+    ([H])c([H])c23)c1[H]

@@ -1,0 +1,54 @@
+Loading molecules from Gen_4_Mutant_27_220886.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_220886)
+            Mol #0: NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_220886)
+            Mol #0: NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+            Mol #1: [NH-]C(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+Generating tautomers for all molecules...
+    NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1 has tautomers.
+    [NH-]C(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_220886)
+            Mol #0: NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+            Mol #1: [NH-]C(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+            Mol #2: [N-]=C(O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+            Mol #3: N=C(O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+Applying Durrant-lab filters to all molecules...
+    [N-]=C(O)c1cc2ccccc2cc1OC(=O)c1ccccc1, a variant generated from
+        NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1 (Gen_4_Mutant_27_220886), contains a
+        prohibited substructure, so I'm discarding it.
+    N=C(O)c1cc2ccccc2cc1OC(=O)c1ccccc1, a variant generated from
+        NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1 (Gen_4_Mutant_27_220886), contains a
+        prohibited substructure, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_220886)
+            Mol #0: NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+            Mol #1: [NH-]C(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_220886)
+            Mol #0: NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+            Mol #1: [NH-]C(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_220886)
+            Mol #0: NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+            Mol #1: [NH-]C(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_27_220886)
+            Mol #0: NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+            Mol #1: [NH-]C(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+Saving molecules associated with...
+    NC(=O)c1cc2ccccc2cc1OC(=O)c1ccccc1
+
+Start time at: 2025-12-27 22:21:15.268777
+End time at:   2025-12-27 22:21:16.734473
+Total time at: 0:00:01.465696

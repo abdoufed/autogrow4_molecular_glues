@@ -1,0 +1,142 @@
+(RE)STARTING AUTOGROW 4.0: 2024-09-27 16:27:48.959870
+AutoGrow Version 4.0.3
+ ================== 
+If you use AutoGrow 4.0.3 in your research, please cite the following reference:
+Spiegel, J.O., Durrant, J.D. 
+AutoGrow4: an open-source genetic algorithm for de novo drug design and lead optimization. 
+J Cheminform 12, 25 (2020). 
+[doi: 10.1186/s13321-020-00429-4]
+ ================== 
+
+
+Use the -h tag to get detailed help regarding program usage.
+
+(RE)STARTING AUTOGROW 4.0: 2024-09-27 16:27:48.959910
+AutoGrow Version 4.0.3
+ ================== 
+If you use AutoGrow 4.0.3 in your research, please cite the following reference:
+Spiegel, J.O., Durrant, J.D. 
+AutoGrow4: an open-source genetic algorithm for de novo drug design and lead optimization. 
+J Cheminform 12, 25 (2020). 
+[doi: 10.1186/s13321-020-00429-4]
+ ================== 
+
+
+Use the -h tag to get detailed help regarding program usage.
+
+/home/abdou/autgorw/autogrow4/out/Run_
+The Run number is:  2
+The Run folder path is:  /home/abdou/autgorw/autogrow4/out/Run_2/
+
+
+=====================================================
+==============   Parameters as list:  ===============
+debug_mode False
+filename_of_receptor /home/abdou/autgorw/autogrow4/in/receptor.pdb
+center_x 45.0
+center_y 131.0
+center_z 16.0
+size_x 20.0
+size_y 20.0
+size_z 20.0
+root_output_folder /home/abdou/autgorw/autogrow4/out/
+source_compound_file /home/abdou/autgorw/autogrow4/source_compounds/naphthalene_smiles.smi
+filter_source_compounds True
+use_docked_source_compounds True
+start_a_new_run True
+max_time_MCS_prescreen 1
+max_time_MCS_thorough 1
+min_atom_match_MCS 4
+protanate_step False
+rxn_library click_chem_rxns
+rxn_library_file 
+function_group_library 
+complementary_mol_directory 
+number_of_processors -1
+multithread_mode multithreading
+selector_choice Rank_Selector
+tourn_size 0.1
+top_mols_to_seed_next_generation 50
+diversity_mols_to_seed_first_generation 10
+diversity_seed_depreciation_per_gen 10
+num_generations 5
+number_of_crossovers_first_generation 50
+number_of_mutants_first_generation 50
+number_elitism_advance_from_previous_gen_first_generation 10
+number_of_crossovers 50
+number_of_mutants 50
+number_elitism_advance_from_previous_gen 50
+redock_elite_from_previous_gen False
+LipinskiStrictFilter False
+LipinskiLenientFilter True
+GhoseFilter False
+GhoseModifiedFilter False
+MozziconacciFilter False
+VandeWaterbeemdFilter False
+PAINSFilter False
+NIHFilter False
+BRENKFilter False
+No_Filters False
+conversion_choice MGLToolsConversion
+custom_conversion_script 
+mgltools_directory /home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6/
+dock_choice VinaDocking
+docking_timeout_limit 120
+custom_docking_script 
+scoring_choice VINA
+rescore_lig_efficiency False
+custom_scoring_script 
+max_variants_per_compound 5
+min_ph 6.4
+max_ph 8.4
+pka_precision 1.0
+gypsum_timeout_limit 15
+reduce_files_sizes True
+generate_plot True
+cache_prerun False
+top_mols_to_seed_next_generation_first_generation 50
+prepare_ligand4.py /home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6/MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py
+prepare_receptor4.py /home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6/MGLToolsPckgs/AutoDockTools/Utilities24/prepare_receptor4.py
+mgl_python /home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6/bin/pythonsh
+parallelizer <autogrow.operators.convert_files.gypsum_dl.gypsum_dl.Parallelizer.Parallelizer object at 0x7f8dcf57f7d0>
+alternative_filter None
+chosen_ligand_filters ['LipinskiLenientFilter']
+filter_object_dict {'LipinskiLenientFilter': <autogrow.operators.filter.filter_classes.filter_children_classes.lipinski_lenient_filter.LipinskiLenientFilter object at 0x7f8dcf570b50>}
+output_directory /home/abdou/autgorw/autogrow4/out/Run_2/
+nn1_script /home/abdou/autgorw/autogrow4/autogrow/config/../docking/scoring/nn_score_exe/nnscore1/NNScore.py
+nn2_script /home/abdou/autgorw/autogrow4/autogrow/config/../docking/scoring/nn_score_exe/nnscore2/NNScore2.py
+obabel_path obabel
+max_time_mcs_prescreen 1
+max_time_mcs_thorough 1
+min_atom_match_mcs 4
+docking_executable None
+docking_exhaustiveness None
+docking_num_modes None
+gypsum_thoroughness 3
+timeout_vs_gtimeout timeout
+
+=====================================================
+===========   Parameters as dictionary:  ============
+{'debug_mode': False, 'filename_of_receptor': '/home/abdou/autgorw/autogrow4/in/receptor.pdb', 'center_x': 45.0, 'center_y': 131.0, 'center_z': 16.0, 'size_x': 20.0, 'size_y': 20.0, 'size_z': 20.0, 'root_output_folder': '/home/abdou/autgorw/autogrow4/out/', 'source_compound_file': '/home/abdou/autgorw/autogrow4/source_compounds/naphthalene_smiles.smi', 'filter_source_compounds': True, 'use_docked_source_compounds': True, 'start_a_new_run': True, 'max_time_MCS_prescreen': 1, 'max_time_MCS_thorough': 1, 'min_atom_match_MCS': 4, 'protanate_step': False, 'rxn_library': 'click_chem_rxns', 'rxn_library_file': '', 'function_group_library': '', 'complementary_mol_directory': '', 'number_of_processors': -1, 'multithread_mode': 'multithreading', 'selector_choice': 'Rank_Selector', 'tourn_size': 0.1, 'top_mols_to_seed_next_generation': 50, 'diversity_mols_to_seed_first_generation': 10, 'diversity_seed_depreciation_per_gen': 10, 'num_generations': 5, 'number_of_crossovers_first_generation': 50, 'number_of_mutants_first_generation': 50, 'number_elitism_advance_from_previous_gen_first_generation': 10, 'number_of_crossovers': 50, 'number_of_mutants': 50, 'number_elitism_advance_from_previous_gen': 50, 'redock_elite_from_previous_gen': False, 'LipinskiStrictFilter': False, 'LipinskiLenientFilter': True, 'GhoseFilter': False, 'GhoseModifiedFilter': False, 'MozziconacciFilter': False, 'VandeWaterbeemdFilter': False, 'PAINSFilter': False, 'NIHFilter': False, 'BRENKFilter': False, 'No_Filters': False, 'conversion_choice': 'MGLToolsConversion', 'custom_conversion_script': '', 'mgltools_directory': '/home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6/', 'dock_choice': 'VinaDocking', 'docking_timeout_limit': 120, 'custom_docking_script': '', 'scoring_choice': 'VINA', 'rescore_lig_efficiency': False, 'custom_scoring_script': '', 'max_variants_per_compound': 5, 'min_ph': 6.4, 'max_ph': 8.4, 'pka_precision': 1.0, 'gypsum_timeout_limit': 15, 'reduce_files_sizes': True, 'generate_plot': True, 'cache_prerun': False, 'top_mols_to_seed_next_generation_first_generation': 50, 'prepare_ligand4.py': '/home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6/MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py', 'prepare_receptor4.py': '/home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6/MGLToolsPckgs/AutoDockTools/Utilities24/prepare_receptor4.py', 'mgl_python': '/home/abdou/autgorw/mgltools_x86_64Linux2_1.5.6/bin/pythonsh', 'parallelizer': <autogrow.operators.convert_files.gypsum_dl.gypsum_dl.Parallelizer.Parallelizer object at 0x7f8dcf57f7d0>, 'alternative_filter': None, 'chosen_ligand_filters': ['LipinskiLenientFilter'], 'filter_object_dict': {'LipinskiLenientFilter': <autogrow.operators.filter.filter_classes.filter_children_classes.lipinski_lenient_filter.LipinskiLenientFilter object at 0x7f8dcf570b50>}, 'output_directory': '/home/abdou/autgorw/autogrow4/out/Run_2/', 'nn1_script': '/home/abdou/autgorw/autogrow4/autogrow/config/../docking/scoring/nn_score_exe/nnscore1/NNScore.py', 'nn2_script': '/home/abdou/autgorw/autogrow4/autogrow/config/../docking/scoring/nn_score_exe/nnscore2/NNScore2.py', 'obabel_path': 'obabel', 'max_time_mcs_prescreen': 1, 'max_time_mcs_thorough': 1, 'min_atom_match_mcs': 4, 'docking_executable': None, 'docking_exhaustiveness': None, 'docking_num_modes': None, 'gypsum_thoroughness': 3, 'timeout_vs_gtimeout': 'timeout'}
+=====================================================
+=====================================================
+
+
+/home/abdou/autgorw/autogrow4/out/Run_2/generation_0/
+
+Running Filter on the Compounds from last generation/Source
+GET SOME LIGANDS FROM THE LAST GENERATION
+GOT LIGANDS FROM THE LAST GENERATION
+Not all ligands in source compound list are scored. We will convert and redock them all.
+CONVERTING SMILES TO SDF
+CONVERTING SMILES TO SDF COMPLETED
+CONVERTING SDF TO PDB
+CONVERTING SDF TO PDB COMPLETED
+setting PYTHONHOME environment
+adding gasteiger charges to peptide
+####################
+Convert Ligand to PDBQT format Begun
+Convert Ligand to PDBQT format Completed
+####################
+####################
+Docking Begun

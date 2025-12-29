@@ -1,0 +1,63 @@
+Loading molecules from Gen_4_Cross_461570.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_461570)
+            Mol #0: [N-]=[N+]=NCCCOC1Cc2ccccc2C(N=[N+]=[N-])C1Cl
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_461570)
+            Mol #0: [N-]=[N+]=NCCCOC1Cc2ccccc2C(N=[N+]=[N-])C1Cl
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_461570)
+            Mol #0: [N-]=[N+]=NCCCOC1Cc2ccccc2C(N=[N+]=[N-])C1Cl
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_461570)
+            Mol #0: [N-]=[N+]=NCCCOC1Cc2ccccc2C(N=[N+]=[N-])C1Cl
+Enumerating all possible enantiomers for all molecules...
+    [N-]=[N+]=NCCCOC1Cc2ccccc2C(N=[N+]=[N-])C1Cl (Gen_4_Cross_461570) has 8
+        enantiomers when chiral centers with no specified chirality are
+        systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_461570)
+            Mol #0: [N-]=[N+]=NCCCO[C@@H]1Cc2ccccc2[C@@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #1: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@@H]1Cl
+            Mol #2: [N-]=[N+]=NCCCO[C@@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #3: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #4: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@@H](N=[N+]=[N-])[C@H]1Cl
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=NCCCO[C@@H]1Cc2ccccc2[C@@H](N=[N+]=[N-])[C@H]1Cl has 4 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@@H]1Cl has 4 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NCCCO[C@@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl has 4 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl has 4 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@@H](N=[N+]=[N-])[C@H]1Cl has 4 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_461570)
+            Mol #0: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #1: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@@H]1Cl
+            Mol #2: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #3: [N-]=[N+]=NCCCO[C@@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #4: [N-]=[N+]=NCCCO[C@@H]1Cc2ccccc2[C@@H](N=[N+]=[N-])[C@H]1Cl
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_461570)
+            Mol #0: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #1: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #2: [N-]=[N+]=NCCCO[C@@H]1Cc2ccccc2[C@@H](N=[N+]=[N-])[C@H]1Cl
+            Mol #3: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@@H]1Cl
+            Mol #4: [N-]=[N+]=NCCCO[C@H]1Cc2ccccc2[C@H](N=[N+]=[N-])[C@H]1Cl
+Saving molecules associated with...
+    [N-]=[N+]=NCCCOC1Cc2ccccc2C(N=[N+]=[N-])C1Cl
+
+Start time at: 2025-12-27 22:21:58.777775
+End time at:   2025-12-27 22:22:04.319895
+Total time at: 0:00:05.542120

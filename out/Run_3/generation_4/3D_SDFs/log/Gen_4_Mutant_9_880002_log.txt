@@ -1,0 +1,56 @@
+Loading molecules from Gen_4_Mutant_9_880002.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_9_880002)
+            Mol #0: CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_9_880002)
+            Mol #0: CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #1: C[NH+](C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+Generating tautomers for all molecules...
+    C[NH+](C)C(=O)Oc1ccc(N=C=O)c2ccccc12 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_9_880002)
+            Mol #0: C[N+](C)=C(O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #1: CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #2: C[NH+](C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_9_880002)
+            Mol #0: C[N+](C)=C(O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #1: CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #2: C[NH+](C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_9_880002)
+            Mol #0: C[N+](C)=C(O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #1: CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #2: C[NH+](C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+Enumerating all possible cis-trans isomers for all molecules...
+    C[N+](C)=C(O)Oc1ccc(N=C=O)c2ccccc12 has 3 double bond(s) with unspecified
+        stereochemistry.
+    CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12 has 3 double bond(s) with unspecified
+        stereochemistry.
+    C[NH+](C)C(=O)Oc1ccc(N=C=O)c2ccccc12 has 3 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_9_880002)
+            Mol #0: C[N+](C)=C(O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #1: C[NH+](C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #2: CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_9_880002)
+            Mol #0: C[N+](C)=C(O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #1: C[NH+](C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+            Mol #2: CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+Saving molecules associated with...
+    CN(C)C(=O)Oc1ccc(N=C=O)c2ccccc12
+
+Start time at: 2025-12-27 22:21:40.608367
+End time at:   2025-12-27 22:21:42.368152
+Total time at: 0:00:01.759785

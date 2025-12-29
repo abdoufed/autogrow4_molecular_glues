@@ -1,0 +1,80 @@
+Loading molecules from Gen_4_Mutant_5_684534.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_684534)
+            Mol #0: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_684534)
+            Mol #0:
+                C=CCN(C)[C@H](C)Cc1[nH+]nn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #1: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #2:
+                C=CC[NH+](C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #3: C=CC[NH+](C)[C@H](C)Cc1[nH+][nH+]n([C@@H]2CCC[C@@H]3C=CC=C[C
+                @@H]32)c1CC
+            Mol #4:
+                C=CC[NH+](C)[C@H](C)Cc1n[nH+]n([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c
+                1CC
+Generating tautomers for all molecules...
+    C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC ==>
+        C=CC[NH+](C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+        (tautomer transformation on Gen_4_Mutant_5_684534) changed the molecules
+        total number of specified chiral centers from 8 to 9, so I'm deleting
+        it.
+    C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC ==>
+        C=CC[NH+](C)[C@H](C)Cc1[nH+][nH+]n([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+        (tautomer transformation on Gen_4_Mutant_5_684534) changed the molecules
+        total number of specified chiral centers from 8 to 9, so I'm deleting
+        it.
+    C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC ==>
+        C=CC[NH+](C)[C@H](C)Cc1n[nH+]n([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+        (tautomer transformation on Gen_4_Mutant_5_684534) changed the molecules
+        total number of specified chiral centers from 8 to 9, so I'm deleting
+        it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_684534)
+            Mol #0:
+                C=CCN(C)[C@H](C)Cc1[nH+]nn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #1: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_684534)
+            Mol #0:
+                C=CCN(C)[C@H](C)Cc1[nH+]nn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #1: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_684534)
+            Mol #0:
+                C=CCN(C)[C@H](C)Cc1[nH+]nn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #1: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+Enumerating all possible cis-trans isomers for all molecules...
+    C=CCN(C)[C@H](C)Cc1[nH+]nn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC has 1 double
+        bond(s) with unspecified stereochemistry.
+    C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC has 1 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_684534)
+            Mol #0:
+                C=CCN(C)[C@H](C)Cc1[nH+]nn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #1: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_684534)
+            Mol #0: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #1:
+                C=CCN(C)[C@H](C)Cc1[nH+]nn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #2:
+                C=CCN(C)[C@H](C)Cc1[nH+]nn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #3: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+            Mol #4: C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+Saving molecules associated with...
+    C=CCN(C)[C@H](C)Cc1nnn([C@@H]2CCC[C@@H]3C=CC=C[C@@H]32)c1CC
+
+Start time at: 2025-12-27 22:21:22.269453
+End time at:   2025-12-27 22:21:29.561214
+Total time at: 0:00:07.291761

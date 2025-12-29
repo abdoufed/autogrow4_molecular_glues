@@ -1,0 +1,103 @@
+Loading molecules from Gen_4_Mutant_5_897306.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_897306)
+            Mol #0: COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_897306)
+            Mol #0: COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #1: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #2: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+            Mol #3: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #4: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+Generating tautomers for all molecules...
+    COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 has tautomers.
+    COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 has tautomers.
+    COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1 has tautomers.
+    COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)n[nH+]1 has tautomers.
+    COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1 has tautomers.
+    COC1=NC=CNC1=Cc1cn(CCCOc2ccc3ccccc3c2)nn1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=NCC=NC1=Cc1cn(CCCOc2ccc3ccccc3c2)nn1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=[NH+]C=CNC1=Cc1cn(CCCOc2ccc3ccccc3c2)nn1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=[N+]=CCNC1=Cc1cn(CCCOc2ccc3ccccc3c2)nn1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=[NH+]CC=NC1=Cc1cn(CCCOc2ccc3ccccc3c2)nn1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=[N+]=CCN=C1Cc1cn(CCCOc2ccc3ccccc3c2)nn1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=[NH+]C=CNC1=Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=[N+]=CCNC1=Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=[NH+]CC=NC1=Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=[N+]=CCN=C1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1, a tautomer generated from
+        COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306), broke an
+        aromatic ring, so I'm discarding it.
+    COC1=NC=C[NH2+]C1=Cc1cn(CCCOc2ccc3ccccc3c2)n[nH+]1, a tautomer generated
+        from COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306),
+        broke an aromatic ring, so I'm discarding it.
+    COC1=NC=C[NH2+]C1=Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1, a tautomer generated
+        from COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1 (Gen_4_Mutant_5_897306),
+        broke an aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_897306)
+            Mol #0: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+            Mol #1: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #2: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #3: COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #4: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_897306)
+            Mol #0: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+            Mol #1: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #2: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #3: COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #4: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_897306)
+            Mol #0: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+            Mol #1: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #2: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #3: COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #4: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_897306)
+            Mol #0: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+            Mol #1: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #2: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #3: COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #4: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_5_897306)
+            Mol #0: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+            Mol #1: COc1ncc[nH+]c1Cc1cn(CCCOc2ccc3ccccc3c2)n[nH+]1
+            Mol #2: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #3: COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+            Mol #4: COc1[nH+]ccnc1Cc1cn(CCCOc2ccc3ccccc3c2)[nH+]n1
+Saving molecules associated with...
+    COc1nccnc1Cc1cn(CCCOc2ccc3ccccc3c2)nn1
+
+Start time at: 2025-12-27 22:21:32.871429
+End time at:   2025-12-27 22:21:41.623020
+Total time at: 0:00:08.751591

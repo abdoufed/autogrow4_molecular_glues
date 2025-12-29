@@ -1,0 +1,42 @@
+Loading molecules from Gen_4_Cross_938476.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_938476)
+            Mol #0: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_938476)
+            Mol #0: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+Generating tautomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_938476)
+            Mol #0: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+Applying Durrant-lab filters to all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_938476)
+            Mol #0: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_938476)
+            Mol #0: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+Enumerating all possible cis-trans isomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_938476)
+            Mol #0: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_938476)
+            Mol #0: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+            Mol #1: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+            Mol #2: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+            Mol #3: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+            Mol #4: CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+Saving molecules associated with...
+    CC#CCSc1c(N)ccc2c(N)c3c(cc12)C[N+](C)(C)C3
+
+Start time at: 2025-12-27 22:22:08.821702
+End time at:   2025-12-27 22:22:10.255967
+Total time at: 0:00:01.434265

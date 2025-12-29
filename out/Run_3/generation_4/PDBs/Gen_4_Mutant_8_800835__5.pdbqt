@@ -1,0 +1,36 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N2_3  and  N3_4 
+REMARK    2  A    between atoms: C1_5  and  C2_6 
+REMARK    3  A    between atoms: C7_12  and  N5_13 
+ROOT
+HETATM    1  N5  LIG X 999       1.237   5.421  -1.016  1.00  0.00    -0.073 NA
+HETATM    2  N6  LIG X 999       2.210   5.699  -1.719  1.00  0.00    -0.162 NA
+HETATM    3  N7  LIG X 999       3.180   5.978  -2.421  1.00  0.00     0.068 N 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C7  LIG X 999       0.864   4.067  -0.722  1.00  0.00     0.094 A 
+HETATM    5  C6  LIG X 999       1.593   2.973  -1.224  1.00  0.00     0.046 A 
+HETATM    6  C5  LIG X 999       1.203   1.661  -0.919  1.00  0.00    -0.021 A 
+HETATM    7  C4  LIG X 999       1.934   0.561  -1.422  1.00  0.00     0.046 A 
+HETATM    8  C10 LIG X 999       0.057   1.440  -0.092  1.00  0.00    -0.024 A 
+HETATM    9  C3  LIG X 999       1.498  -0.717  -1.085  1.00  0.00     0.086 A 
+HETATM   10  N4  LIG X 999       2.041  -1.892  -1.452  1.00  0.00    -0.228 NA
+HETATM   11  C12 LIG X 999       0.407  -0.924  -0.298  1.00  0.00     0.063 A 
+HETATM   12  C2  LIG X 999       1.228  -2.803  -0.851  1.00  0.00     0.148 A 
+HETATM   13  N8  LIG X 999       0.220  -2.239  -0.139  1.00  0.00    -0.338 N 
+HETATM   14  H8  LIG X 999      -0.529  -2.719   0.408  1.00  0.00     0.167 HD
+HETATM   15  C11 LIG X 999      -0.347   0.124   0.223  1.00  0.00     0.044 A 
+HETATM   16  C9  LIG X 999      -0.659   2.539   0.400  1.00  0.00     0.014 A 
+HETATM   17  C8  LIG X 999      -0.257   3.840   0.086  1.00  0.00     0.035 A 
+BRANCH  12  18
+HETATM   18  C1  LIG X 999       1.402  -4.268  -0.947  1.00  0.00     0.193 C 
+HETATM   19  N3  LIG X 999       2.354  -4.843  -1.619  1.00  0.00    -0.140 NA
+BRANCH  19  20
+HETATM   20  N2  LIG X 999       3.329  -4.135  -2.333  1.00  0.00    -0.051 NA
+HETATM   21  N1  LIG X 999       4.232  -4.762  -2.968  1.00  0.00    -0.184 NA
+HETATM   22  H1  LIG X 999       4.958  -4.233  -3.499  1.00  0.00     0.214 HD
+ENDBRANCH  19  20
+ENDBRANCH  12  18
+ENDBRANCH   1   4
+TORSDOF 3

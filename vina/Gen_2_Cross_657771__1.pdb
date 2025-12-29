@@ -1,0 +1,68 @@
+REMARK Final SMILES string: Cc1ccc(N[C@H]2CC[C@H]3[N+](C)=NN[C@@]3(N)[C@@H]2O)cc1
+COMPND    Gen_2_Cross_657771
+HETATM    1  C1  UNL     1      -3.801  -5.252  -1.370  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.945  -4.030  -1.527  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -2.470  -3.350  -0.397  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -1.703  -2.190  -0.540  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.408  -1.683  -1.821  1.00  0.00           C  
+HETATM    6  N1  UNL     1      -0.619  -0.489  -2.011  1.00  0.00           N  
+HETATM    7  C6  UNL     1      -0.042   0.308  -0.917  1.00  0.00           C  
+HETATM    8  C7  UNL     1       1.136  -0.461  -0.254  1.00  0.00           C  
+HETATM    9  C8  UNL     1       2.489   0.243  -0.399  1.00  0.00           C  
+HETATM   10  C9  UNL     1       2.418   1.672   0.166  1.00  0.00           C  
+HETATM   11  N2  UNL     1       3.583   2.454  -0.249  1.00  0.00           N1+
+HETATM   12  C10 UNL     1       4.970   2.146   0.083  1.00  0.00           C  
+HETATM   13  N3  UNL     1       3.264   3.496  -0.893  1.00  0.00           N  
+HETATM   14  N4  UNL     1       1.886   3.613  -1.041  1.00  0.00           N  
+HETATM   15  C11 UNL     1       1.213   2.497  -0.391  1.00  0.00           C  
+HETATM   16  N5  UNL     1       0.396   3.005   0.718  1.00  0.00           N  
+HETATM   17  C12 UNL     1       0.369   1.709  -1.439  1.00  0.00           C  
+HETATM   18  O1  UNL     1      -0.787   2.426  -1.794  1.00  0.00           O  
+HETATM   19  C13 UNL     1      -1.904  -2.360  -2.947  1.00  0.00           C  
+HETATM   20  C14 UNL     1      -2.671  -3.519  -2.803  1.00  0.00           C  
+HETATM   21  H1  UNL     1      -3.674  -5.934  -2.237  1.00  0.00           H  
+HETATM   22  H2  UNL     1      -3.522  -5.810  -0.451  1.00  0.00           H  
+HETATM   23  H3  UNL     1      -4.867  -4.950  -1.300  1.00  0.00           H  
+HETATM   24  H4  UNL     1      -2.692  -3.719   0.597  1.00  0.00           H  
+HETATM   25  H5  UNL     1      -1.349  -1.700   0.355  1.00  0.00           H  
+HETATM   26  H6  UNL     1      -0.474  -0.161  -2.994  1.00  0.00           H  
+HETATM   27  H7  UNL     1      -0.834   0.470  -0.154  1.00  0.00           H  
+HETATM   28  H8  UNL     1       0.921  -0.587   0.830  1.00  0.00           H  
+HETATM   29  H9  UNL     1       1.230  -1.484  -0.680  1.00  0.00           H  
+HETATM   30  H10 UNL     1       2.787   0.262  -1.471  1.00  0.00           H  
+HETATM   31  H11 UNL     1       3.259  -0.338   0.152  1.00  0.00           H  
+HETATM   32  H12 UNL     1       2.389   1.625   1.278  1.00  0.00           H  
+HETATM   33  H13 UNL     1       5.543   1.956  -0.848  1.00  0.00           H  
+HETATM   34  H14 UNL     1       5.423   3.002   0.625  1.00  0.00           H  
+HETATM   35  H15 UNL     1       5.025   1.248   0.733  1.00  0.00           H  
+HETATM   36  H16 UNL     1       1.422   4.420  -1.513  1.00  0.00           H  
+HETATM   37  H17 UNL     1      -0.086   2.209   1.194  1.00  0.00           H  
+HETATM   38  H18 UNL     1      -0.340   3.649   0.348  1.00  0.00           H  
+HETATM   39  H19 UNL     1       0.999   1.561  -2.350  1.00  0.00           H  
+HETATM   40  H20 UNL     1      -0.506   3.131  -2.434  1.00  0.00           H  
+HETATM   41  H21 UNL     1      -1.698  -1.986  -3.943  1.00  0.00           H  
+HETATM   42  H22 UNL     1      -3.050  -4.018  -3.686  1.00  0.00           H  
+TER      43      UNL     1 
+CONECT    1    2   21   22   23
+CONECT    2    3    3   20
+CONECT    3    4   24
+CONECT    4    5    5   25
+CONECT    5    6   19
+CONECT    6    7   26
+CONECT    7    8   17   27
+CONECT    8    9   28   29
+CONECT    9   10   30   31
+CONECT   10   11   15   32
+CONECT   11   12   13   13
+CONECT   12   33   34   35
+CONECT   13   14
+CONECT   14   15   36
+CONECT   15   16   17
+CONECT   16   37   38
+CONECT   17   18   39
+CONECT   18   40
+CONECT   19   20   20   41
+CONECT   20   42
+END
+
+

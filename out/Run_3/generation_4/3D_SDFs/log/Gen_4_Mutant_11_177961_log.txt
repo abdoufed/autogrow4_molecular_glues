@@ -1,0 +1,76 @@
+Loading molecules from Gen_4_Mutant_11_177961.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_177961)
+            Mol #0: Nc1[nH+]nc(-c2cccc3ccccc23)o1
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_177961)
+            Mol #0: Nc1nnc(-c2cccc3ccccc23)o1
+            Mol #1: Nc1[nH+][nH+]c(-c2cccc3ccccc23)o1
+            Mol #2: Nc1n[nH+]c(-c2cccc3ccccc23)o1
+            Mol #3: Nc1[nH+]nc(-c2cccc3ccccc23)o1
+Generating tautomers for all molecules...
+    Nc1nnc(-c2cccc3ccccc23)o1 has tautomers.
+    Nc1[nH+][nH+]c(-c2cccc3ccccc23)o1 has tautomers.
+    Nc1n[nH+]c(-c2cccc3ccccc23)o1 has tautomers.
+    Nc1[nH+]nc(-c2cccc3ccccc23)o1 has tautomers.
+    N=C1[NH2+][NH+]=C(c2cccc3ccccc23)O1, a tautomer generated from
+        Nc1[nH+]nc(-c2cccc3ccccc23)o1 (Gen_4_Mutant_11_177961), broke an
+        aromatic ring, so I'm discarding it.
+    N=C1[NH2+]N=C(c2cccc3ccccc23)O1, a tautomer generated from
+        Nc1[nH+]nc(-c2cccc3ccccc23)o1 (Gen_4_Mutant_11_177961), broke an
+        aromatic ring, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_177961)
+            Mol #0: Nc1[nH+][nH+]c(-c2cccc3ccccc23)o1
+            Mol #1: Nc1nnc(-c2cccc3ccccc23)o1
+            Mol #2: Nc1[nH+]nc(-c2cccc3ccccc23)o1
+            Mol #3: N=c1[nH][nH+]c(-c2cccc3ccccc23)o1
+            Mol #4: N=c1[nH]nc(-c2cccc3ccccc23)o1
+Applying Durrant-lab filters to all molecules...
+    Nc1[nH+][nH+]c(-c2cccc3ccccc23)o1, a variant generated from
+        Nc1[nH+]nc(-c2cccc3ccccc23)o1 (Gen_4_Mutant_11_177961), contains a
+        prohibited substructure, so I'm discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_177961)
+            Mol #0: Nc1nnc(-c2cccc3ccccc23)o1
+            Mol #1: N=c1[nH]nc(-c2cccc3ccccc23)o1
+            Mol #2: N=c1[nH][nH+]c(-c2cccc3ccccc23)o1
+            Mol #3: Nc1[nH+]nc(-c2cccc3ccccc23)o1
+Enumerating all possible enantiomers for all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_177961)
+            Mol #0: Nc1nnc(-c2cccc3ccccc23)o1
+            Mol #1: N=c1[nH]nc(-c2cccc3ccccc23)o1
+            Mol #2: N=c1[nH][nH+]c(-c2cccc3ccccc23)o1
+            Mol #3: Nc1[nH+]nc(-c2cccc3ccccc23)o1
+Enumerating all possible cis-trans isomers for all molecules...
+    N=c1[nH]nc(-c2cccc3ccccc23)o1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    N=c1[nH][nH+]c(-c2cccc3ccccc23)o1 has 1 double bond(s) with unspecified
+        stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_177961)
+            Mol #0: Nc1[nH+]nc(-c2cccc3ccccc23)o1
+            Mol #1: [H]/N=c1\[nH]nc(-c2cccc3ccccc23)o1
+            Mol #2: [H]/N=c1\[nH][nH+]c(-c2cccc3ccccc23)o1
+            Mol #3: [H]/N=c1/[nH][nH+]c(-c2cccc3ccccc23)o1
+            Mol #4: [H]/N=c1/[nH]nc(-c2cccc3ccccc23)o1
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Minimizing all 3D molecular structures...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Mutant_11_177961)
+            Mol #0: Nc1[nH+]nc(-c2cccc3ccccc23)o1
+            Mol #1: [H]/N=c1\[nH]nc(-c2cccc3ccccc23)o1
+            Mol #2: [H]/N=c1/[nH][nH+]c(-c2cccc3ccccc23)o1
+            Mol #3: [H]/N=c1\[nH][nH+]c(-c2cccc3ccccc23)o1
+            Mol #4: [H]/N=c1/[nH]nc(-c2cccc3ccccc23)o1
+Saving molecules associated with...
+    Nc1[nH+]nc(-c2cccc3ccccc23)o1
+
+Start time at: 2025-12-27 22:21:09.534137
+End time at:   2025-12-27 22:21:11.261466
+Total time at: 0:00:01.727329

@@ -1,0 +1,96 @@
+Loading molecules from Gen_4_Cross_701388.smi...
+Desalting all molecules (i.e., keeping only largest fragment).
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_701388)
+            Mol #0: [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)nn3)cc21
+Ionizing all molecules...
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_701388)
+            Mol #0: [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+            Mol #1: [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)nn3)cc21
+            Mol #2:
+                [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+][nH+]3)cc21
+            Mol #3: [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)n[nH+]3)cc21
+Generating tautomers for all molecules...
+    [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21 has tautomers.
+    [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)nn3)cc21 has tautomers.
+    [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+][nH+]3)cc21 has
+        tautomers.
+    [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)n[nH+]3)cc21 has tautomers.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_701388)
+            Mol #0: [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+            Mol #1:
+                [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+][nH+]3)cc21
+            Mol #2: [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)nn3)cc21
+            Mol #3: [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)n[nH+]3)cc21
+            Mol #4: [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+Applying Durrant-lab filters to all molecules...
+    [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+][nH+]3)cc21, a variant
+        generated from [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)nn3)cc21
+        (Gen_4_Cross_701388), contains a prohibited substructure, so I'm
+        discarding it.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_701388)
+            Mol #0: [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+            Mol #1: [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)nn3)cc21
+            Mol #2: [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)n[nH+]3)cc21
+            Mol #3: [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+Enumerating all possible enantiomers for all molecules...
+    [N-]=[N+]=NC1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+        (Gen_4_Cross_701388) has 2 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)nn3)cc21 (Gen_4_Cross_701388)
+        has 2 enantiomers when chiral centers with no specified chirality are
+        systematically varied.
+    [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)n[nH+]3)cc21
+        (Gen_4_Cross_701388) has 2 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    [N-]=[N+]=NC1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+        (Gen_4_Cross_701388) has 2 enantiomers when chiral centers with no
+        specified chirality are systematically varied.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_701388)
+            Mol #0:
+                [N-]=[N+]=N[C@@H]1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+            Mol #1:
+                [N-]=[N+]=N[C@@H]1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)n[nH+]3)cc21
+            Mol #2:
+                [N-]=[N+]=N[C@H]1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+            Mol #3:
+                [N-]=[N+]=N[C@@H]1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+            Mol #4:
+                [N-]=[N+]=N[C@H]1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+Enumerating all possible cis-trans isomers for all molecules...
+    [N-]=[N+]=N[C@@H]1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21 has 3 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=N[C@@H]1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)n[nH+]3)cc21 has 3
+        double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=N[C@H]1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21 has 3 double
+        bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=N[C@@H]1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21 has 3
+        double bond(s) with unspecified stereochemistry.
+    [N-]=[N+]=N[C@H]1CCC=c2ccc(=C(O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21 has 3 double
+        bond(s) with unspecified stereochemistry.
+    Contents of MolContainers
+        MolContainer #0 (Gen_4_Cross_701388)
+            Mol #0:
+                [N-]=[N+]=N[C@@H]1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+            Mol #1:
+                [N-]=[N+]=N[C@H]1CCCc2ccc(C(=O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc21
+            Mol #2:
+                [N-]=[N+]=N[C@@H]1CCC=c2cc/c(=C(\O)n3cc(CC4(O)CCCCCC4)n[nH+]3)cc
+                21
+            Mol #3:
+                [N-]=[N+]=N[C@@H]1CCC=c2cc/c(=C(\O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc
+                21
+            Mol #4:
+                [N-]=[N+]=N[C@@H]1CCC=c2cc/c(=C(/O)n3cc(CC4(O)CCCCCC4)[nH+]n3)cc
+                21
+Converting all molecules to 3D structures.
+Generating several conformers of molecules with non-aromatic rings (boat vs.
+    chair, etc.)...
+Warning: Could not calculate energy for molecule [H]O/C(=c1/c([H])c([H])c2c(c1[H
+    ])[C@]([H])(N=[N+]=[N-])C([H])([H])C([H])([H])C=2[H])n1n[n+]([H])c(C([H])([H
+    ])C2(O[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C2([H])[H])
+    c1[H]
