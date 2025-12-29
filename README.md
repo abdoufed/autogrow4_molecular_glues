@@ -35,7 +35,9 @@ r = 0.001987      # Gas constant kcal/mol·K
 t = 298.0         # Temperature (K)
 
 kd1 = np.exp(affinity / (r*t))           # KD_II: affinity for apo-CRBN
+
 kd2 = np.exp(affinity_complex / (r*t))   # KD_II/α: affinity for CRBN-CK1α complex
+
 alpha = kd2 / kd1                         # Cooperativity factor (α < 1 = positive cooperativity)
 
 # Scoring prioritizes high affinity to complex AND strong cooperativity
